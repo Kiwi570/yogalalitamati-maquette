@@ -1,0 +1,17 @@
+{
+ "id": "20261120-213352-standard-cible-partiel",
+ "date": "2026-11-20T21:36:35.046Z",
+ "niveau": "standard",
+ "pages": "/contact,/approches,/activites,/404",
+ "etapes": [
+  "fichiers",
+  "films",
+  "mouvement"
+ ],
+ "version": "1",
+ "echecs": 0,
+ "aRegarder": 2,
+ "nonLances": 0,
+ "manquants": 0,
+ "statut": "complet"
+}

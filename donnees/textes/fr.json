@@ -1,0 +1,444 @@
+{
+  "commun": {
+    "navigation": "Navigation principale",
+    "menu": "Menu",
+    "fermer": "Fermer",
+    "langueAutre": "Version française",
+    "actionEntete": "S’inscrire",
+    "appeler": "Appeler",
+    "ecrire": "Écrire à Isabelle",
+    "sommaire": "Plan du site",
+    "confort": "Suivre Lalita Mati",
+    "retourHaut": "Retour en haut",
+    "maquette": "Maquette : les informations marquées « à compléter » seront fournies par Isabelle Cloutier.",
+    "mentions": "Mentions légales · Politique de confidentialité : à compléter",
+    "evitement": "Aller au contenu",
+    "mentionIa": "Illustration générée",
+    "pause": "Pause",
+    "lecture": "Lecture",
+    "introLigne": "Yoga somatique · Méthode TRE®",
+    "sousNom": "Isabelle Cloutier",
+    "lieux": "Saint-Jean-sur-Richelieu · Vieux-Longueuil · Estrie · en ligne",
+    "facebook": "Facebook",
+    "youtube": "YouTube",
+    "nouvelOnglet": "(s’ouvre dans un nouvel onglet)",
+    "sante": "Ces approches visent le bien-être. Elles ne remplacent pas un suivi médical ou psychologique : en cas de doute, parlez-en à votre médecin.",
+    "taxes": "taxes incluses",
+    "avantTaxes": "{prix} avant taxes",
+    "inscrire": "S’inscrire",
+    "illustratif": "Carte schématique"
+  },
+  "pages": {
+    "accueil": {
+      "titre": "Lalita Mati : yoga somatique et méthode TRE® avec Isabelle Cloutier",
+      "description": "Yoga doux et somatique, méthode TRE®, automassage avec balles et pleine conscience, à Saint-Jean-sur-Richelieu, dans le Vieux-Longueuil, en Estrie et en ligne.",
+      "nav": "Accueil",
+      "partageAlt": "Lalita Mati : retrouver du pouvoir sur sa santé",
+      "accroche": "Retrouver du pouvoir sur sa santé"
+    },
+    "activites": {
+      "titre": "Activités à venir : ateliers et sessions 2027 · Lalita Mati",
+      "description": "Ateliers d’introduction au TRE®, Pauses de saison, sessions de yoga doux et d’exploration somatique, de janvier à juin 2027.",
+      "nav": "Activités",
+      "partageAlt": "L’agenda de Lalita Mati, hiver et printemps 2027",
+      "accroche": "Douze rendez-vous, de janvier à juin"
+    },
+    "approches": {
+      "titre": "Approches somatiques : yoga doux, yoga somatique, TRE®, automassage · Lalita Mati",
+      "description": "Cinq approches corps-esprit pour relâcher les tensions et mieux habiter son corps, en cours, en ateliers ou en séance privée.",
+      "nav": "Approches",
+      "partageAlt": "Les approches somatiques de Lalita Mati",
+      "accroche": "Cinq approches, un seul corps"
+    },
+    "methode-tre": {
+      "titre": "Méthode TRE® avec Isabelle Cloutier · Lalita Mati",
+      "description": "Sept exercices pour relâcher les tensions liées au stress : ateliers d’introduction, séances privées et exploration somatique en groupe ou par Zoom.",
+      "nav": "Méthode TRE®",
+      "partageAlt": "La méthode TRE® avec Isabelle Cloutier",
+      "accroche": "Sept exercices, puis le corps relâche"
+    },
+    "a-propos": {
+      "titre": "Isabelle Cloutier, enseignante de yoga depuis 2006 · Lalita Mati",
+      "description": "Le parcours d’Isabelle Cloutier : yoga thérapeutique, yoga somatique, pleine conscience, méthode TRE®, ses lieux et ses livres.",
+      "nav": "À propos",
+      "partageAlt": "Isabelle Cloutier, enseignante de yoga depuis 2006",
+      "accroche": "Enseignante de yoga depuis 2006"
+    },
+    "contact": {
+      "titre": "Contact : écrire ou appeler Isabelle Cloutier · Lalita Mati",
+      "description": "Une question, une inscription, une séance privée ou un atelier pour votre organisme : écrivez ou appelez Isabelle.",
+      "nav": "Contact",
+      "partageAlt": "Écrire à Isabelle Cloutier",
+      "accroche": "Écrire à Isabelle"
+    },
+    "404": {
+      "titre": "Page introuvable · Lalita Mati",
+      "description": "Cette page n’existe pas.",
+      "nav": "Page introuvable",
+      "partageAlt": "Page introuvable",
+      "accroche": "On respire, on revient"
+    }
+  },
+  "accueil": {
+    "hero": {
+      "surtitre": "Yoga somatique · Méthode TRE® · Automassage",
+      "titre1": "Retrouver du",
+      "titre2": "pouvoir",
+      "titre3": "sur sa santé",
+      "texte": "Avec Isabelle Cloutier, enseignante depuis 2006 : yoga doux et somatique, méthode TRE®, automassage avec balles et pleine conscience. À Saint-Jean-sur-Richelieu, dans le Vieux-Longueuil, en Estrie et en ligne.",
+      "action": "Voir l’hiver 2027",
+      "prochain": "Prochain rendez-vous"
+    },
+    "dates": {
+      "surtitre": "Cet hiver",
+      "titre1": "Les prochains",
+      "titre2": "rendez-vous",
+      "texte": "Ateliers, Pauses de saison et sessions du jeudi. Les prix comprennent les taxes.",
+      "jours": "jours avant le prochain",
+      "lien": "Tout l’agenda"
+    },
+    "approches": {
+      "surtitre": "Les approches",
+      "titre1": "Cinq façons d’",
+      "titre2": "habiter",
+      "titre3": "son corps",
+      "texte": "Toutes partent de la même idée : observer, ressentir, puis relâcher. Isabelle les combine selon vos besoins.",
+      "lien": "Les approches en détail"
+    },
+    "tre": {
+      "surtitre": "Méthode TRE®",
+      "titre1": "Sept exercices,",
+      "titre2": "puis le corps",
+      "titre3": "relâche.",
+      "texte": "Quelques exercices simples réveillent un mécanisme naturel : de légers tremblements qui aident à relâcher les tensions accumulées. On les apprend une fois, on les garde pour soi.",
+      "etape1": "Comprendre",
+      "etape1Texte": "La méthode, et ce que font les tremblements dans le corps.",
+      "etape2": "Expérimenter",
+      "etape2Texte": "Les sept exercices, guidés, en petit groupe ou en séance privée.",
+      "etape3": "Pratiquer",
+      "etape3Texte": "Chez soi, à son rythme, quand on en a besoin.",
+      "fondateur": "Méthode créée par le Dr David Berceli.",
+      "action": "Découvrir la méthode",
+      "etatTension": "tension",
+      "etatTremblement": "tremblements",
+      "etatCalme": "calme"
+    },
+    "formats": {
+      "surtitre": "Comment pratiquer",
+      "titre1": "À votre",
+      "titre2": "rythme",
+      "texte": "En privé, en groupe, en ligne ou dans votre organisme : choisissez la forme qui vous va."
+    },
+    "lieux": {
+      "surtitre": "Où pratiquer",
+      "titre1": "Quatre lieux,",
+      "titre2": "et votre salon",
+      "texte": "Saint-Jean-sur-Richelieu, le Vieux-Longueuil, Potton Springs en Estrie, et Zoom pour pratiquer depuis chez vous.",
+      "montreal": "Montréal",
+      "fleuve": "Fleuve Saint-Laurent",
+      "riviere": "Rivière Richelieu",
+      "frontiere": "États-Unis",
+      "region": "Région",
+      "estrie": "Estrie"
+    },
+    "isabelle": {
+      "surtitre": "Votre enseignante",
+      "titre1": "Isabelle",
+      "titre2": "Cloutier",
+      "texte": "Enseignante de yoga depuis 2006, Isabelle s’est formée au yoga thérapeutique, au yoga somatique, à la pleine conscience et à la méthode TRE®. Elle propose un yoga adapté à chacun, tourné vers l’observation de soi plutôt que vers la performance.",
+      "ans": "ans d’enseignement",
+      "formations": "formations suivies depuis 2005",
+      "titre1Role": "Enseignante en yoga et yoga thérapeutique",
+      "titre2Role": "Praticienne de la méthode TRE®",
+      "titre3Role": "Thérapeute somatique, membre du RITMA",
+      "titre4Role": "Facilitatrice en pleine conscience",
+      "lien": "Son parcours",
+      "credit": "Photo : djubox.ca"
+    },
+    "temoignages": {
+      "surtitre": "Ils en parlent",
+      "titre": "Ce qu’en disent les participants",
+      "texte": "Témoignages de participantes et de participants à la méthode TRE®.",
+      "lien": "Tous les témoignages"
+    },
+    "fin": {
+      "citation": "Vous est-il possible de retrouver les clefs de votre corps, d’en prendre possession, l’habiter enfin ?",
+      "auteur": "Thérèse Bertherat",
+      "titre1": "Envie",
+      "titre2": "d’essayer ?",
+      "texte": "Écrivez ou appelez Isabelle : elle vous aide à choisir entre une séance privée, un atelier ou une session.",
+      "courriel": "Courriel"
+    }
+  },
+  "activites": {
+    "tete": {
+      "surtitre": "Hiver et printemps 2027",
+      "titre1": "Douze",
+      "titre2": "rendez-vous,",
+      "titre3": "de janvier à juin",
+      "texte": "Ateliers d’introduction au TRE®, Pauses de saison, sessions de yoga doux et d’exploration somatique, à Saint-Jean-sur-Richelieu, à Potton Springs et en ligne.",
+      "action": "Voir les dates",
+      "alt": "Une salle de yoga prête pour un cours de groupe, tapis et couvertures, neige derrière la fenêtre"
+    },
+    "agenda": {
+      "titre": "L’agenda",
+      "prochaine": "Prochaine date : {titre}, {quand}",
+      "types": "Types d’activités",
+      "lieux": "Lieux",
+      "tousLieux": "Tous les lieux",
+      "saintJean": "Saint-Jean",
+      "estrie": "Estrie",
+      "enLigne": "En ligne",
+      "typeAtelier": "Atelier TRE®",
+      "typePause": "Pause de saison",
+      "typeYoga": "Yoga doux",
+      "typeExploration": "Exploration TRE®",
+      "toutes": "Toutes",
+      "ajouter": "Ajouter à mon agenda",
+      "ajoute": "Ajouté à mon agenda",
+      "reserver": "S’inscrire",
+      "attente": "Liste d’attente",
+      "complet": "Complet",
+      "encours": "En cours",
+      "aujourdhui": "Aujourd’hui",
+      "cesoir": "Ce soir",
+      "demain": "Demain",
+      "aucune": "Aucune date de ce type pour le moment.",
+      "tampon": "Ajouté",
+      "aussiEnLigne": "Aussi par Zoom",
+      "vide": "Aucune date pour ce choix. Essayez un autre lieu ou un autre type."
+    },
+    "session": {
+      "surtitre": "Comment ça se passe",
+      "titre1": "Une session,",
+      "titre2": "jeudi après jeudi",
+      "texte": "Les sessions durent 8 ou 10 semaines, le jeudi. Vous pratiquez à Saint-Jean-sur-Richelieu ou depuis chez vous, et vous gardez le lien avec le groupe.",
+      "point1": "Yoga doux : aucune expérience nécessaire. Apportez une couverture.",
+      "point2": "Exploration TRE® : pour les personnes déjà initiées, en atelier ou en séance privée.",
+      "point3": "Un cours manqué ? Reprise par Zoom ou en différé, lien valable 7 jours.",
+      "point4": "Inscription en cours de session possible au yoga doux : vous payez les cours restants.",
+      "alt": "Un groupe debout dans la posture de l’arbre"
+    },
+    "pause": {
+      "surtitre": "Les Pauses de saison",
+      "titre1": "Se déposer,",
+      "titre2": "en trois temps",
+      "texte": "Une fois par saison, un atelier pour se reposer, se tourner vers soi et retrouver le contact avec le corps, sans performance ni jugement. Aucune expérience nécessaire : des vêtements confortables et une couverture suffisent.",
+      "temps1": "Arriver",
+      "temps1Texte": "S’installer, arriver dans le moment présent, se rendre disponible.",
+      "temps2": "Explorer",
+      "temps2Texte": "Conscience du corps, automassage et mouvement doux.",
+      "temps3": "Relâcher",
+      "temps3Texte": "Une relaxation guidée pour laisser aller les tensions et l’agitation.",
+      "alt": "Un cercle de tapis et de couvertures dans une salle de bois, la forêt enneigée derrière"
+    },
+    "faq": {
+      "titre": "Questions pratiques"
+    },
+    "fin": {
+      "titre1": "Un doute",
+      "titre2": "sur le bon choix ?",
+      "texte": "Isabelle vous répond et vous oriente vers l’atelier ou la session qui vous convient."
+    }
+  },
+  "approches": {
+    "tete": {
+      "surtitre": "Approches somatiques",
+      "titre1": "Cinq approches,",
+      "titre2": "un seul",
+      "titre3": "corps",
+      "texte": "Une approche corps-esprit qui relie la sagesse du yoga et les connaissances actuelles sur le corps, pour retrouver de l’aisance et de l’autonomie.",
+      "action": "Commencer par le TRE®",
+      "alt": "Vu de haut : un tapis, une couverture, un coussin et des balles d’automassage colorées sur un plancher clair"
+    },
+    "sommaire": "Les cinq approches",
+    "lienTre": "La méthode TRE® en détail",
+    "lienActivites": "Voir les dates",
+    "lienPrive": "Demander une séance",
+    "balle": {
+      "titre": "Cinq gestes avec une balle",
+      "texte": "Touchez un geste pour le voir.",
+      "masser": "Masser",
+      "compresser": "Compresser",
+      "etirer": "Étirer",
+      "contracter": "Contracter",
+      "relacher": "Relâcher",
+      "masserTexte": "La balle roule lentement sous le pied, la cuisse ou le dos.",
+      "compresserTexte": "On laisse le poids du corps s’enfoncer, puis on attend.",
+      "etirerTexte": "La balle reste en place pendant que le tissu s’allonge autour.",
+      "contracterTexte": "On contracte le muscle sur la balle, quelques secondes.",
+      "relacherTexte": "Et on relâche : le tissu se détend, la respiration suit.",
+      "galerie": "Automassage avec balles, en images"
+    },
+    "aussi": {
+      "titre": "Et aussi",
+      "conscience": "Pleine conscience",
+      "conscienceTexte": "Facilitatrice en pleine conscience, Isabelle propose des méditations guidées, dont une série audio dans son studio virtuel.",
+      "rmt": "Méthode RMT",
+      "rmtTexte": "Des mouvements rythmiques doux (Rhythmic Movement Training), une approche à laquelle Isabelle s’est formée en 2021."
+    },
+    "fin": {
+      "titre1": "Par où",
+      "titre2": "commencer ?",
+      "texte": "Un atelier d’introduction, une Pause de saison ou une séance privée : Isabelle vous aide à choisir."
+    }
+  },
+  "tre": {
+    "tete": {
+      "surtitre": "Méthode TRE®",
+      "chiffre": "7",
+      "titre1": "exercices,",
+      "titre2": "puis le corps",
+      "titre3": "relâche",
+      "texte": "La méthode TRE® (Tension & Trauma Release Exercises) réactive un mécanisme naturel du corps : des tremblements qui aident à relâcher les tensions liées au stress. Isabelle en est praticienne.",
+      "action": "Voir les ateliers",
+      "alt": "Des ondes qui s’élargissent doucement sur une eau calme, à l’aube"
+    },
+    "quoi": {
+      "surtitre": "Ce que c’est",
+      "titre1": "Un mécanisme",
+      "titre2": "naturel",
+      "texte1": "Les exercices de TRE® réactivent un mécanisme autonome du corps : des tremblements et des vibrations, appelés neurogènes.",
+      "texte2": "Selon la méthode, ces tremblements aident à relâcher les tensions des muscles et des fascias, et à interrompre la boucle du stress. On les pratique dans un cadre sécuritaire : guidé au début, puis seul·e à la maison.",
+      "legende": "Faites défiler : la tension, les tremblements, puis le calme."
+    },
+    "fondateur": {
+      "surtitre": "Le fondateur",
+      "titre": "Le Dr David Berceli",
+      "texte": "Thérapeute, travailleur social et spécialiste du trauma, il a créé la méthode après avoir travaillé auprès de communautés touchées par des traumatismes collectifs. Des programmes TRE® existent aujourd’hui pour les militaires, les vétérans et les premiers répondants.",
+      "alt": "Dr David Berceli"
+    },
+    "formats": {
+      "surtitre": "Comment l’apprendre",
+      "titre1": "Quatre façons",
+      "titre2": "de commencer",
+      "prive": "Séance privée",
+      "priveTexte": "Seul·e, en duo ou en famille, à la Clinique ATMA (Vieux-Longueuil) ou à Saint-Jean-sur-Richelieu.",
+      "atelier": "Atelier d’introduction",
+      "atelierTexte": "2 h 30 en petit groupe pour comprendre et expérimenter les sept exercices.",
+      "session": "Exploration somatique",
+      "sessionTexte": "8 ou 10 cours pour approfondir, en présentiel ou par Zoom, une fois initié.",
+      "organisme": "Entreprises et organismes",
+      "organismeTexte": "Des ateliers sur demande pour votre équipe ou vos membres.",
+      "alt": "Genoux pliés sur un tapis, le corps au repos"
+    },
+    "dates": {
+      "surtitre": "Prochaines dates TRE®",
+      "titre": "Ateliers et sessions",
+      "lien": "Tout l’agenda"
+    },
+    "temoignages": {
+      "surtitre": "Témoignages",
+      "titre1": "Ce qu’ils",
+      "titre2": "en retiennent",
+      "note": "Expériences personnelles de participants : chacun vit la méthode à sa façon."
+    },
+    "fin": {
+      "titre1": "Prête,",
+      "titre2": "prêt à essayer ?",
+      "texte": "Un atelier d’introduction ou une séance privée : c’est le premier pas pour pratiquer seul·e ensuite."
+    }
+  },
+  "apropos": {
+    "tete": {
+      "surtitre": "À propos",
+      "titre1": "Isabelle",
+      "titre2": "Cloutier",
+      "texte": "Enseignante de yoga depuis 2006, Isabelle accompagne chacun vers un équilibre intérieur, loin de la performance : observer, ressentir, s’adapter.",
+      "action": "Lui écrire",
+      "depuis": "ans d’enseignement",
+      "alt": "Isabelle Cloutier, souriante, en veste noire"
+    },
+    "titres": {
+      "surtitre": "Ce qu’elle fait",
+      "titre1": "Cinq",
+      "titre2": "casquettes,",
+      "titre3": "une même attention",
+      "t1": "Enseignante en yoga et yoga thérapeutique",
+      "t2": "Facilitatrice en pleine conscience",
+      "t3": "Praticienne de la méthode TRE®",
+      "t4": "Thérapeute somatique, membre du RITMA",
+      "t5": "Intervenante en santé et conscience corporelle à Maison Vivre"
+    },
+    "parcours": {
+      "surtitre": "Son parcours",
+      "titre1": "Vingt ans",
+      "titre2": "à se former",
+      "texte": "Trente-deux formations depuis 2005, du hatha yoga à la théorie polyvagale. Filtrez par thème.",
+      "tous": "Tout",
+      "filtres": "Thèmes des formations"
+    },
+    "lieux": {
+      "surtitre": "Où la trouver",
+      "titre1": "Ses lieux",
+      "titre2": "et collaborations",
+      "maison": "Maison Vivre",
+      "maisonTexte": "Intervenante en santé et conscience corporelle.",
+      "organismes": "Entreprises et milieu communautaire",
+      "organismesTexte": "Ateliers sur demande."
+    },
+    "livres": {
+      "surtitre": "Ses réalisations",
+      "titre1": "Deux livres",
+      "titre2": "et un CD",
+      "livre1": "Le yoga bien-être",
+      "livre2": "Le yoga des enfants",
+      "editeur": "Éditions Coup d’œil · 9,95 $",
+      "cd": "Yoga Nidra, le sommeil éveillé",
+      "cdTexte": "CD de relaxation guidée, en vente à la Clinique ATMA et à l’Institut Mandala du Bouddha Manjusri.",
+      "alt1": "Couverture du livre Le yoga bien-être, d’Isabelle Cloutier",
+      "alt2": "Couverture du livre Le yoga des enfants, d’Isabelle Cloutier"
+    },
+    "fin": {
+      "titre1": "Faire",
+      "titre2": "connaissance",
+      "texte": "Le plus simple : un atelier, une Pause de saison, ou un premier échange par téléphone."
+    }
+  },
+  "contact": {
+    "tete": {
+      "surtitre": "Contact",
+      "titre1": "Écrire",
+      "titre2": "à Isabelle",
+      "texte": "Une question, une inscription, une séance privée ou un atelier pour votre organisme : écrivez ou appelez Isabelle.",
+      "telephone": "Téléphone",
+      "courriel": "Courriel",
+      "alt": "Une tasse de tisane sur le rebord d’une fenêtre, la neige dehors"
+    },
+    "formulaire": {
+      "titre": "Votre message",
+      "etapes": "Trois champs obligatoires : votre nom, votre courriel et votre message.",
+      "sujet": "C’est pour…",
+      "sujetActivite": "M’inscrire à une activité",
+      "sujetPrive": "Une séance privée",
+      "sujetEntreprise": "Un atelier pour mon organisme",
+      "sujetStudio": "Le studio virtuel",
+      "sujetAutre": "Autre chose",
+      "activite": "Activité choisie",
+      "activiteAucune": "Aucune pour le moment",
+      "nom": "Nom",
+      "email": "Courriel",
+      "tel": "Téléphone (facultatif)",
+      "message": "Message",
+      "donnees": "Vos coordonnées servent seulement à vous répondre. Elles ne sont ni vendues ni partagées. Politique de confidentialité : à compléter (Loi 25).",
+      "envoyer": "Envoyer",
+      "simule": "Maquette : rien n’a été envoyé. Sur le site final, Isabelle recevra votre message."
+    },
+    "lieux": {
+      "surtitre": "Les lieux",
+      "titre1": "Où se",
+      "titre2": "retrouver"
+    },
+    "reseaux": {
+      "titre": "Suivre Lalita Mati",
+      "texte": "Nouvelles, dates et vidéos sur Facebook et YouTube."
+    }
+  },
+  "introuvable": {
+    "titre1": "On respire,",
+    "titre2": "on revient.",
+    "texte": "Cette page n’existe pas, ou plus. Rien de grave : voici les chemins les plus fréquentés.",
+    "retour": "Retour à l’accueil",
+    "alt": "Un tapis vide et une balle verte qui roule vers le bord"
+  }
+}

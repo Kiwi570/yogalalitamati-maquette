@@ -1,0 +1,5745 @@
+{
+  "dossier": "/Users/paul/Downloads/yogalalitamati-recu",
+  "date": "2026-11-20T19:42:18.356Z",
+  "detection": "Vision (macOS) + mesures sharp",
+  "planches": [
+    "planche.jpg",
+    "planche-2.jpg",
+    "planche-3.jpg",
+    "planche-4.jpg"
+  ],
+  "legende_planche": "cadre jaune : sujet ; croix rouge : cadrage ; fond rose : à vérifier",
+  "doublons": [],
+  "images": [
+    {
+      "fichier": "logo.jpg",
+      "nom": "logo",
+      "drapeau": "logo",
+      "largeur": 179,
+      "hauteur": 181,
+      "ratio": "1:1",
+      "ratio_valeur": 0.989,
+      "orientation": "carre",
+      "format": "jpeg",
+      "poids": 31088,
+      "transparence": false,
+      "sujet": {
+        "x": 13.8,
+        "y": 9.5,
+        "l": 75,
+        "h": 69.7,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        51,
+        48
+      ],
+      "cadrage_css": "51% 48%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.44,
+          "ton": "clair",
+          "recouvre_sujet": 0.55
+        },
+        {
+          "cote": "bas",
+          "score": 0.36,
+          "ton": "clair",
+          "recouvre_sujet": 0.3
+        },
+        {
+          "cote": "droite",
+          "score": 0.29,
+          "ton": "clair",
+          "recouvre_sujet": 0.5
+        },
+        {
+          "cote": "gauche",
+          "score": 0.18,
+          "ton": "clair",
+          "recouvre_sujet": 0.46
+        }
+      ],
+      "qualite": {
+        "nettete": 56.4,
+        "bruit": 0.9,
+        "compression": 1.03,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "58657a5c85abc3c4",
+      "drapeaux": [
+        "logo"
+      ]
+    },
+    {
+      "fichier": "logo-clair.png",
+      "nom": "logo-clair",
+      "drapeau": "logo",
+      "largeur": 300,
+      "hauteur": 236,
+      "ratio": "5:4",
+      "ratio_valeur": 1.271,
+      "orientation": "paysage",
+      "format": "png",
+      "poids": 23178,
+      "transparence": true,
+      "sujet": {
+        "x": 12.5,
+        "y": 2.5,
+        "l": 61.9,
+        "h": 97.1,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        62
+      ],
+      "cadrage_css": "47% 62%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.52,
+          "ton": "clair",
+          "recouvre_sujet": 0.35
+        },
+        {
+          "cote": "haut",
+          "score": 0.52,
+          "ton": "clair",
+          "recouvre_sujet": 0.57
+        },
+        {
+          "cote": "gauche",
+          "score": 0.44,
+          "ton": "clair",
+          "recouvre_sujet": 0.67
+        },
+        {
+          "cote": "bas",
+          "score": 0.13,
+          "ton": "clair",
+          "recouvre_sujet": 0.61
+        }
+      ],
+      "qualite": {
+        "nettete": 41.4,
+        "bruit": 0.43,
+        "compression": 1,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": {
+        "niveau": "logo",
+        "a_verifier": false,
+        "texte": "Centre de méditation · et de ressourcement spirituel · POTTON SPRINGS",
+        "blocs": 3,
+        "surface": 23.7,
+        "details": [
+          {
+            "texte": "Centre de méditation",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "et de ressourcement spirituel",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "POTTON SPRINGS",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "0c0e16060c2325d3",
+      "drapeaux": [
+        "logo",
+        "texte du logo"
+      ]
+    },
+    {
+      "fichier": "logo-2.jpg",
+      "nom": "logo-2",
+      "drapeau": "logo",
+      "largeur": 260,
+      "hauteur": 94,
+      "ratio": "2.77",
+      "ratio_valeur": 2.766,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 22950,
+      "transparence": false,
+      "sujet": {
+        "x": 0.8,
+        "y": 0.7,
+        "l": 84.6,
+        "h": 91.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        45,
+        49
+      ],
+      "cadrage_css": "45% 49%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.13,
+          "ton": "clair",
+          "recouvre_sujet": 0.83
+        },
+        {
+          "cote": "droite",
+          "score": 0.07,
+          "ton": "clair",
+          "recouvre_sujet": 0.58
+        },
+        {
+          "cote": "bas",
+          "score": 0.01,
+          "ton": "clair",
+          "recouvre_sujet": 0.66
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 0.9
+        }
+      ],
+      "qualite": {
+        "nettete": 94.7,
+        "bruit": 0.72,
+        "compression": 1.01,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": {
+        "niveau": "logo",
+        "a_verifier": false,
+        "texte": "FONDATION · POORNA-JNANA YOGA · Méditation Spiritualité Stress-counselling",
+        "blocs": 3,
+        "surface": 27.3,
+        "details": [
+          {
+            "texte": "FONDATION",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "POORNA-JNANA YOGA",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Méditation Spiritualité Stress-counselling",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "48614d7d5a666468",
+      "drapeaux": [
+        "logo",
+        "texte du logo"
+      ]
+    },
+    {
+      "fichier": "logo-3.jpg",
+      "nom": "logo-3",
+      "drapeau": "logo",
+      "largeur": 279,
+      "hauteur": 181,
+      "ratio": "1.54",
+      "ratio_valeur": 1.541,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 7912,
+      "transparence": false,
+      "sujet": {
+        "x": 1,
+        "y": 7,
+        "l": 95.2,
+        "h": 88,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        57,
+        52
+      ],
+      "cadrage_css": "57% 52%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.36,
+          "ton": "clair",
+          "recouvre_sujet": 0.76
+        },
+        {
+          "cote": "gauche",
+          "score": 0.15,
+          "ton": "clair",
+          "recouvre_sujet": 0.86
+        },
+        {
+          "cote": "bas",
+          "score": 0.07,
+          "ton": "clair",
+          "recouvre_sujet": 0.82
+        },
+        {
+          "cote": "droite",
+          "score": 0.04,
+          "ton": "clair",
+          "recouvre_sujet": 0.8
+        }
+      ],
+      "qualite": {
+        "nettete": 55,
+        "bruit": 0.8,
+        "compression": 1.17,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "5a0a6c66f1311932",
+      "drapeaux": [
+        "logo"
+      ]
+    },
+    {
+      "fichier": "studio-virtuel-yoga.jpg",
+      "nom": "studio-virtuel-yoga",
+      "drapeau": "lieu",
+      "largeur": 2000,
+      "hauteur": 1470,
+      "ratio": "4:3",
+      "ratio_valeur": 1.361,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 444586,
+      "transparence": false,
+      "sujet": {
+        "x": 26.1,
+        "y": 20.9,
+        "l": 61.4,
+        "h": 58.1,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        55,
+        42
+      ],
+      "cadrage_css": "55% 42%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.55,
+          "ton": "moyen",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "haut",
+          "score": 0.4,
+          "ton": "moyen",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "droite",
+          "score": 0.35,
+          "ton": "moyen",
+          "recouvre_sujet": 0.4
+        },
+        {
+          "cote": "gauche",
+          "score": 0.31,
+          "ton": "moyen",
+          "recouvre_sujet": 0.2
+        }
+      ],
+      "qualite": {
+        "nettete": 57.6,
+        "bruit": 0.65,
+        "compression": 1.25,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "ee1eb2726f3323c0",
+      "drapeaux": [
+        "lieu"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante.jpg",
+      "nom": "retrouver-pouvoir-sante",
+      "drapeau": "autre",
+      "largeur": 2000,
+      "hauteur": 1684,
+      "ratio": "1.19",
+      "ratio_valeur": 1.188,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 581107,
+      "transparence": false,
+      "sujet": {
+        "x": 17.4,
+        "y": 1.2,
+        "l": 67.9,
+        "h": 94.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        51,
+        40
+      ],
+      "cadrage_css": "51% 40%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.45,
+          "ton": "moyen",
+          "recouvre_sujet": 0.53
+        },
+        {
+          "cote": "haut",
+          "score": 0.35,
+          "ton": "moyen",
+          "recouvre_sujet": 0.66
+        },
+        {
+          "cote": "droite",
+          "score": 0.34,
+          "ton": "moyen",
+          "recouvre_sujet": 0.6
+        },
+        {
+          "cote": "bas",
+          "score": 0.3,
+          "ton": "moyen",
+          "recouvre_sujet": 0.59
+        }
+      ],
+      "qualite": {
+        "nettete": 16.9,
+        "bruit": 0.82,
+        "compression": 1.43,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "Coregeous",
+        "blocs": 1,
+        "surface": 1.5,
+        "details": [
+          {
+            "texte": "Coregeous",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "cccccc3232969e1e",
+      "drapeaux": [
+        "autre",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-2.jpg",
+      "nom": "retrouver-pouvoir-sante-2",
+      "drapeau": "autre",
+      "largeur": 1920,
+      "hauteur": 1080,
+      "ratio": "16:9",
+      "ratio_valeur": 1.778,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 581276,
+      "transparence": false,
+      "sujet": {
+        "x": 23.1,
+        "y": 27.4,
+        "l": 16.9,
+        "h": 54.5,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        34,
+        49
+      ],
+      "cadrage_css": "34% 49%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.85,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "bas",
+          "score": 0.81,
+          "ton": "moyen",
+          "recouvre_sujet": 0.08
+        },
+        {
+          "cote": "haut",
+          "score": 0.74,
+          "ton": "moyen",
+          "recouvre_sujet": 0.04
+        },
+        {
+          "cote": "gauche",
+          "score": 0.72,
+          "ton": "clair",
+          "recouvre_sujet": 0.23
+        }
+      ],
+      "qualite": {
+        "nettete": 2.8,
+        "bruit": 0.44,
+        "compression": 1.16,
+        "faible": true,
+        "raisons": [
+          "floue"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "000201060606848d",
+      "drapeaux": [
+        "autre",
+        "floue",
+        "calme droite/bas/haut/gauche"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-3.png",
+      "nom": "retrouver-pouvoir-sante-3",
+      "drapeau": "autre",
+      "largeur": 795,
+      "hauteur": 795,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "png",
+      "poids": 270965,
+      "transparence": true,
+      "sujet": {
+        "x": 0.1,
+        "y": 23.9,
+        "l": 99.9,
+        "h": 42.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        50,
+        44
+      ],
+      "cadrage_css": "50% 44%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.46,
+          "ton": "clair",
+          "recouvre_sujet": 0.04
+        },
+        {
+          "cote": "haut",
+          "score": 0.43,
+          "ton": "clair",
+          "recouvre_sujet": 0.32
+        },
+        {
+          "cote": "gauche",
+          "score": 0.35,
+          "ton": "clair",
+          "recouvre_sujet": 0.42
+        },
+        {
+          "cote": "droite",
+          "score": 0.35,
+          "ton": "clair",
+          "recouvre_sujet": 0.42
+        }
+      ],
+      "qualite": {
+        "nettete": 35.3,
+        "bruit": 0.22,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "795 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "2b4d860f8e8e4d33",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "yoga-somatique.jpg",
+      "nom": "yoga-somatique",
+      "drapeau": "autre",
+      "largeur": 622,
+      "hauteur": 933,
+      "ratio": "2:3",
+      "ratio_valeur": 0.667,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 69924,
+      "transparence": false,
+      "sujet": {
+        "x": 10.6,
+        "y": 11.5,
+        "l": 70.4,
+        "h": 50.3,
+        "source": "visage"
+      },
+      "visages": 1,
+      "cadrage": [
+        46,
+        38
+      ],
+      "cadrage_css": "46% 38%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.77,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.6,
+          "ton": "sombre",
+          "recouvre_sujet": 0.26
+        },
+        {
+          "cote": "gauche",
+          "score": 0.55,
+          "ton": "sombre",
+          "recouvre_sujet": 0.37
+        },
+        {
+          "cote": "haut",
+          "score": 0.53,
+          "ton": "moyen",
+          "recouvre_sujet": 0.47
+        }
+      ],
+      "qualite": {
+        "nettete": 5.6,
+        "bruit": 0.31,
+        "compression": 1.22,
+        "faible": true,
+        "raisons": [
+          "622 px de large",
+          "floue"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "2c27233321230313",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "petite",
+        "floue",
+        "calme bas"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-4.jpg",
+      "nom": "retrouver-pouvoir-sante-4",
+      "drapeau": "autre",
+      "largeur": 933,
+      "hauteur": 622,
+      "ratio": "3:2",
+      "ratio_valeur": 1.5,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 100397,
+      "transparence": false,
+      "sujet": {
+        "x": 5.1,
+        "y": 0,
+        "l": 94.9,
+        "h": 99.6,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        53,
+        30
+      ],
+      "cadrage_css": "53% 30%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.87
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.95
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.94
+        }
+      ],
+      "qualite": {
+        "nettete": 26.7,
+        "bruit": 1.09,
+        "compression": 1.24,
+        "faible": true,
+        "raisons": [
+          "933 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "7c6a6a61636d2507",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-5.jpg",
+      "nom": "retrouver-pouvoir-sante-5",
+      "drapeau": "autre",
+      "largeur": 930,
+      "hauteur": 592,
+      "ratio": "16:10",
+      "ratio_valeur": 1.571,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 107233,
+      "transparence": false,
+      "sujet": {
+        "x": 2.5,
+        "y": 1.3,
+        "l": 97.1,
+        "h": 98.7,
+        "source": "corps"
+      },
+      "visages": 5,
+      "cadrage": [
+        53,
+        31
+      ],
+      "cadrage_css": "53% 31%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.13,
+          "ton": "sombre",
+          "recouvre_sujet": 0.93
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.98
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.93
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.97
+        }
+      ],
+      "qualite": {
+        "nettete": 26.2,
+        "bruit": 0.69,
+        "compression": 1.11,
+        "faible": true,
+        "raisons": [
+          "930 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "f4eeca4a4e626a6e",
+      "drapeaux": [
+        "autre",
+        "5 visages",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-6.jpg",
+      "nom": "retrouver-pouvoir-sante-6",
+      "drapeau": "autre",
+      "largeur": 585,
+      "hauteur": 613,
+      "ratio": "0.95",
+      "ratio_valeur": 0.954,
+      "orientation": "carre",
+      "format": "jpeg",
+      "poids": 69889,
+      "transparence": false,
+      "sujet": {
+        "x": 0.6,
+        "y": 4.1,
+        "l": 99.4,
+        "h": 87.5,
+        "source": "corps"
+      },
+      "visages": 2,
+      "cadrage": [
+        50,
+        30
+      ],
+      "cadrage_css": "50% 30%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.19,
+          "ton": "sombre",
+          "recouvre_sujet": 0.76
+        },
+        {
+          "cote": "droite",
+          "score": 0.18,
+          "ton": "sombre",
+          "recouvre_sujet": 0.88
+        },
+        {
+          "cote": "gauche",
+          "score": 0.1,
+          "ton": "moyen",
+          "recouvre_sujet": 0.86
+        },
+        {
+          "cote": "haut",
+          "score": 0.09,
+          "ton": "moyen",
+          "recouvre_sujet": 0.88
+        }
+      ],
+      "qualite": {
+        "nettete": 16.3,
+        "bruit": 0.69,
+        "compression": 1.15,
+        "faible": true,
+        "raisons": [
+          "585 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "8086e0c5d9d9593a",
+      "drapeaux": [
+        "autre",
+        "2 visages",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "yoga-posture-assise.jpg",
+      "nom": "yoga-posture-assise",
+      "drapeau": "autre",
+      "largeur": 491,
+      "hauteur": 473,
+      "ratio": "1.04",
+      "ratio_valeur": 1.038,
+      "orientation": "carre",
+      "format": "jpeg",
+      "poids": 1253933,
+      "transparence": false,
+      "sujet": {
+        "x": 8.9,
+        "y": 0.8,
+        "l": 80.8,
+        "h": 90.7,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        49,
+        44
+      ],
+      "cadrage_css": "49% 44%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.48,
+          "ton": "sombre",
+          "recouvre_sujet": 0.71
+        },
+        {
+          "cote": "bas",
+          "score": 0.33,
+          "ton": "sombre",
+          "recouvre_sujet": 0.61
+        },
+        {
+          "cote": "haut",
+          "score": 0.31,
+          "ton": "clair",
+          "recouvre_sujet": 0.79
+        },
+        {
+          "cote": "droite",
+          "score": 0.18,
+          "ton": "moyen",
+          "recouvre_sujet": 0.67
+        }
+      ],
+      "qualite": {
+        "nettete": 18.4,
+        "bruit": 0.41,
+        "compression": 1.3,
+        "faible": true,
+        "raisons": [
+          "491 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "b3f393b9993b0f3c",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "reveil.jpg",
+      "nom": "reveil",
+      "drapeau": "autre",
+      "largeur": 2000,
+      "hauteur": 1500,
+      "ratio": "4:3",
+      "ratio_valeur": 1.333,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 257515,
+      "transparence": false,
+      "sujet": {
+        "x": 26.5,
+        "y": 43.7,
+        "l": 73.5,
+        "h": 56.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        57,
+        65
+      ],
+      "cadrage_css": "57% 65%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.98,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.63,
+          "ton": "clair",
+          "recouvre_sujet": 0.19
+        },
+        {
+          "cote": "droite",
+          "score": 0.36,
+          "ton": "clair",
+          "recouvre_sujet": 0.56
+        },
+        {
+          "cote": "bas",
+          "score": 0.09,
+          "ton": "clair",
+          "recouvre_sujet": 0.74
+        }
+      ],
+      "qualite": {
+        "nettete": 25.2,
+        "bruit": 0.51,
+        "compression": 1.3,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "c0c0c8b687169a9a",
+      "drapeaux": [
+        "autre",
+        "calme haut"
+      ]
+    },
+    {
+      "fichier": "cours-parc.jpg",
+      "nom": "cours-parc",
+      "drapeau": "lieu",
+      "largeur": 2000,
+      "hauteur": 1333,
+      "ratio": "3:2",
+      "ratio_valeur": 1.5,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 299740,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 93.2,
+        "h": 59.8,
+        "source": "visage"
+      },
+      "visages": 3,
+      "cadrage": [
+        46,
+        30
+      ],
+      "cadrage_css": "46% 30%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.37,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.17,
+          "ton": "moyen",
+          "recouvre_sujet": 0.5
+        },
+        {
+          "cote": "gauche",
+          "score": 0.05,
+          "ton": "sombre",
+          "recouvre_sujet": 0.6
+        },
+        {
+          "cote": "haut",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.93
+        }
+      ],
+      "qualite": {
+        "nettete": 15.3,
+        "bruit": 0.51,
+        "compression": 1.37,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "fcbcb4d196168cac",
+      "drapeaux": [
+        "lieu",
+        "3 visages"
+      ]
+    },
+    {
+      "fichier": "yoga-ligne-enfants-ados.jpg",
+      "nom": "yoga-ligne-enfants-ados",
+      "drapeau": "autre",
+      "largeur": 2000,
+      "hauteur": 983,
+      "ratio": "2:1",
+      "ratio_valeur": 2.035,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 268251,
+      "transparence": false,
+      "sujet": {
+        "x": 9.8,
+        "y": 1.4,
+        "l": 77.5,
+        "h": 98.6,
+        "source": "corps"
+      },
+      "visages": 4,
+      "cadrage": [
+        47,
+        34
+      ],
+      "cadrage_css": "47% 34%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.05,
+          "ton": "clair",
+          "recouvre_sujet": 0.67
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 0.74
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 0.74
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.78
+        }
+      ],
+      "qualite": {
+        "nettete": 27.2,
+        "bruit": 0.65,
+        "compression": 1.23,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "6d0c194d6d253b1b",
+      "drapeaux": [
+        "autre",
+        "4 visages"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-7.jpg",
+      "nom": "retrouver-pouvoir-sante-7",
+      "drapeau": "autre",
+      "largeur": 1331,
+      "hauteur": 2000,
+      "ratio": "2:3",
+      "ratio_valeur": 0.666,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 479591,
+      "transparence": false,
+      "sujet": {
+        "x": 34.8,
+        "y": 25.3,
+        "l": 64.9,
+        "h": 74.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        60,
+        53
+      ],
+      "cadrage_css": "60% 53%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.76,
+          "ton": "moyen",
+          "recouvre_sujet": 0.1
+        },
+        {
+          "cote": "haut",
+          "score": 0.45,
+          "ton": "moyen",
+          "recouvre_sujet": 0.18
+        },
+        {
+          "cote": "bas",
+          "score": 0.43,
+          "ton": "sombre",
+          "recouvre_sujet": 0.64
+        },
+        {
+          "cote": "droite",
+          "score": 0.37,
+          "ton": "sombre",
+          "recouvre_sujet": 0.74
+        }
+      ],
+      "qualite": {
+        "nettete": 18.4,
+        "bruit": 1.28,
+        "compression": 1.04,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "d011011b170f0707",
+      "drapeaux": [
+        "autre",
+        "calme gauche"
+      ]
+    },
+    {
+      "fichier": "mandal-ame.jpg",
+      "nom": "mandal-ame",
+      "drapeau": "autre",
+      "largeur": 1711,
+      "hauteur": 1758,
+      "ratio": "0.97",
+      "ratio_valeur": 0.973,
+      "orientation": "carre",
+      "format": "jpeg",
+      "poids": 1290619,
+      "transparence": false,
+      "sujet": {
+        "x": 35.3,
+        "y": 25,
+        "l": 27.9,
+        "h": 35.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        50,
+        43
+      ],
+      "cadrage_css": "50% 43%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.24,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.21,
+          "ton": "moyen",
+          "recouvre_sujet": 0.04
+        },
+        {
+          "cote": "droite",
+          "score": 0.21,
+          "ton": "moyen",
+          "recouvre_sujet": 0.03
+        },
+        {
+          "cote": "haut",
+          "score": 0.18,
+          "ton": "clair",
+          "recouvre_sujet": 0.08
+        }
+      ],
+      "qualite": {
+        "nettete": 55.2,
+        "bruit": 3.74,
+        "compression": 1,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "8e0f4d33270f0f8f",
+      "drapeaux": [
+        "autre"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-8.jpg",
+      "nom": "retrouver-pouvoir-sante-8",
+      "drapeau": "autre",
+      "largeur": 2000,
+      "hauteur": 758,
+      "ratio": "2.64",
+      "ratio_valeur": 2.639,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 235067,
+      "transparence": false,
+      "sujet": {
+        "x": 40.5,
+        "y": 14.3,
+        "l": 24.9,
+        "h": 70,
+        "source": "visage"
+      },
+      "visages": 1,
+      "cadrage": [
+        53,
+        52
+      ],
+      "cadrage_css": "53% 52%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.24,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.22,
+          "ton": "sombre",
+          "recouvre_sujet": 0.09
+        },
+        {
+          "cote": "bas",
+          "score": 0.22,
+          "ton": "sombre",
+          "recouvre_sujet": 0.14
+        },
+        {
+          "cote": "haut",
+          "score": 0.2,
+          "ton": "sombre",
+          "recouvre_sujet": 0.15
+        }
+      ],
+      "qualite": {
+        "nettete": 42.2,
+        "bruit": 0.75,
+        "compression": 1.32,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "3ccc4c15c988cbcd",
+      "drapeaux": [
+        "autre",
+        "visage"
+      ]
+    },
+    {
+      "fichier": "s-allier-hiver.jpg",
+      "nom": "s-allier-hiver",
+      "drapeau": "autre",
+      "largeur": 1688,
+      "hauteur": 1055,
+      "ratio": "16:10",
+      "ratio_valeur": 1.6,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 91305,
+      "transparence": false,
+      "sujet": {
+        "x": 44.1,
+        "y": 35.3,
+        "l": 16.2,
+        "h": 38.2,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        52,
+        55
+      ],
+      "cadrage_css": "52% 55%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.75,
+          "ton": "clair",
+          "recouvre_sujet": 0.04
+        },
+        {
+          "cote": "haut",
+          "score": 0.6,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.59,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.52,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        }
+      ],
+      "qualite": {
+        "nettete": 14.1,
+        "bruit": 0.43,
+        "compression": 0.88,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "0dc4e0f99b4e1830",
+      "drapeaux": [
+        "autre",
+        "calme bas"
+      ]
+    },
+    {
+      "fichier": "surya-namaskar.jpg",
+      "nom": "surya-namaskar",
+      "drapeau": "autre",
+      "largeur": 1558,
+      "hauteur": 1072,
+      "ratio": "1.45",
+      "ratio_valeur": 1.453,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 1216478,
+      "transparence": false,
+      "sujet": {
+        "x": 37.8,
+        "y": 26.2,
+        "l": 31.5,
+        "h": 72.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        51,
+        54
+      ],
+      "cadrage_css": "51% 54%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.83,
+          "ton": "clair",
+          "recouvre_sujet": 0.08
+        },
+        {
+          "cote": "gauche",
+          "score": 0.55,
+          "ton": "moyen",
+          "recouvre_sujet": 0.04
+        },
+        {
+          "cote": "droite",
+          "score": 0.49,
+          "ton": "moyen",
+          "recouvre_sujet": 0.17
+        },
+        {
+          "cote": "bas",
+          "score": 0.31,
+          "ton": "sombre",
+          "recouvre_sujet": 0.3
+        }
+      ],
+      "qualite": {
+        "nettete": 8.4,
+        "bruit": 0.22,
+        "compression": 0.94,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "7169383271310b19",
+      "drapeaux": [
+        "autre",
+        "calme haut"
+      ]
+    },
+    {
+      "fichier": "cycle-saisons.png",
+      "nom": "cycle-saisons",
+      "drapeau": "autre",
+      "largeur": 1200,
+      "hauteur": 628,
+      "ratio": "1.91",
+      "ratio_valeur": 1.911,
+      "orientation": "paysage",
+      "format": "png",
+      "poids": 1854586,
+      "transparence": false,
+      "sujet": {
+        "x": 49.9,
+        "y": 0,
+        "l": 32.4,
+        "h": 64.6,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        65,
+        46
+      ],
+      "cadrage_css": "65% 46%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.23,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "bas",
+          "score": 0.21,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "haut",
+          "score": 0.16,
+          "ton": "clair",
+          "recouvre_sujet": 0.32
+        },
+        {
+          "cote": "droite",
+          "score": 0.12,
+          "ton": "clair",
+          "recouvre_sujet": 0.36
+        }
+      ],
+      "qualite": {
+        "nettete": 122,
+        "bruit": 3.33,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "1200 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "dada9a9f97d7f6b6",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "respirez-vie.jpg",
+      "nom": "respirez-vie",
+      "drapeau": "autre",
+      "largeur": 789,
+      "hauteur": 847,
+      "ratio": "0.93",
+      "ratio_valeur": 0.932,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 191030,
+      "transparence": false,
+      "sujet": {
+        "x": 6.7,
+        "y": 12.4,
+        "l": 82.4,
+        "h": 79.9,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        51,
+        43
+      ],
+      "cadrage_css": "51% 43%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.23,
+          "ton": "clair",
+          "recouvre_sujet": 0.53
+        },
+        {
+          "cote": "bas",
+          "score": 0.13,
+          "ton": "clair",
+          "recouvre_sujet": 0.64
+        },
+        {
+          "cote": "droite",
+          "score": 0.02,
+          "ton": "clair",
+          "recouvre_sujet": 0.58
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 0.67
+        }
+      ],
+      "qualite": {
+        "nettete": 104.9,
+        "bruit": 0.85,
+        "compression": 1.05,
+        "faible": true,
+        "raisons": [
+          "789 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "4d0b2b3333333333",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-9.jpg",
+      "nom": "retrouver-pouvoir-sante-9",
+      "drapeau": "autre",
+      "largeur": 933,
+      "hauteur": 622,
+      "ratio": "3:2",
+      "ratio_valeur": 1.5,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 87566,
+      "transparence": false,
+      "sujet": {
+        "x": 3.1,
+        "y": 6.4,
+        "l": 96.3,
+        "h": 93.6,
+        "source": "corps"
+      },
+      "visages": 5,
+      "cadrage": [
+        53,
+        34
+      ],
+      "cadrage_css": "53% 34%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.17,
+          "ton": "sombre",
+          "recouvre_sujet": 0.86
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.92
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.79
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.96
+        }
+      ],
+      "qualite": {
+        "nettete": 30,
+        "bruit": 0.68,
+        "compression": 1.17,
+        "faible": true,
+        "raisons": [
+          "933 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "f2ecca4a4e666a6e",
+      "drapeaux": [
+        "autre",
+        "5 visages",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-10.jpg",
+      "nom": "retrouver-pouvoir-sante-10",
+      "drapeau": "autre",
+      "largeur": 933,
+      "hauteur": 622,
+      "ratio": "3:2",
+      "ratio_valeur": 1.5,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 92020,
+      "transparence": false,
+      "sujet": {
+        "x": 13.4,
+        "y": 35.3,
+        "l": 34.8,
+        "h": 55.9,
+        "source": "visage"
+      },
+      "visages": 1,
+      "cadrage": [
+        31,
+        65
+      ],
+      "cadrage_css": "31% 65%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.59,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.39,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.36,
+          "ton": "moyen",
+          "recouvre_sujet": 0.37
+        },
+        {
+          "cote": "bas",
+          "score": 0.36,
+          "ton": "moyen",
+          "recouvre_sujet": 0.26
+        }
+      ],
+      "qualite": {
+        "nettete": 29.6,
+        "bruit": 0.96,
+        "compression": 1.21,
+        "faible": true,
+        "raisons": [
+          "933 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "c0c11c59cdccd870",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "roue-vie.jpg",
+      "nom": "roue-vie",
+      "drapeau": "oeuvre",
+      "largeur": 637,
+      "hauteur": 800,
+      "ratio": "4:5",
+      "ratio_valeur": 0.796,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 196064,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 23.2,
+        "l": 98.7,
+        "h": 76.7,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        49,
+        52
+      ],
+      "cadrage_css": "49% 52%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.08,
+          "ton": "moyen",
+          "recouvre_sujet": 0.33
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.77
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.74
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.98
+        }
+      ],
+      "qualite": {
+        "nettete": 75.5,
+        "bruit": 2.76,
+        "compression": 1.08,
+        "faible": true,
+        "raisons": [
+          "637 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "0f6e792c3c360e0e",
+      "drapeaux": [
+        "oeuvre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "shanti-mantras-ii.jpg",
+      "nom": "shanti-mantras-ii",
+      "drapeau": "autre",
+      "largeur": 848,
+      "hauteur": 500,
+      "ratio": "1.7",
+      "ratio_valeur": 1.696,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 139276,
+      "transparence": false,
+      "sujet": {
+        "x": 42,
+        "y": 60.6,
+        "l": 17.2,
+        "h": 18.9,
+        "source": "visage"
+      },
+      "visages": 2,
+      "cadrage": [
+        51,
+        69
+      ],
+      "cadrage_css": "51% 69%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.29,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "haut",
+          "score": 0.27,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.24,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "bas",
+          "score": 0.24,
+          "ton": "moyen",
+          "recouvre_sujet": 0.07
+        }
+      ],
+      "qualite": {
+        "nettete": 26.7,
+        "bruit": 1.27,
+        "compression": 1.39,
+        "faible": true,
+        "raisons": [
+          "848 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "f81c5c58584c49d3",
+      "drapeaux": [
+        "autre",
+        "2 visages",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "groupes-posturaux.jpg",
+      "nom": "groupes-posturaux",
+      "drapeau": "autre",
+      "largeur": 448,
+      "hauteur": 650,
+      "ratio": "0.69",
+      "ratio_valeur": 0.689,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 71413,
+      "transparence": false,
+      "sujet": {
+        "x": 8.4,
+        "y": 5.2,
+        "l": 85.9,
+        "h": 58.2,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        52,
+        40
+      ],
+      "cadrage_css": "52% 40%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.24,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.08,
+          "ton": "clair",
+          "recouvre_sujet": 0.46
+        },
+        {
+          "cote": "droite",
+          "score": 0.07,
+          "ton": "clair",
+          "recouvre_sujet": 0.5
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 0.73
+        }
+      ],
+      "qualite": {
+        "nettete": 58.8,
+        "bruit": 1.7,
+        "compression": 1.12,
+        "faible": true,
+        "raisons": [
+          "448 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "d0eab8acaadacac8",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-11.jpg",
+      "nom": "retrouver-pouvoir-sante-11",
+      "drapeau": "autre",
+      "largeur": 415,
+      "hauteur": 622,
+      "ratio": "2:3",
+      "ratio_valeur": 0.667,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 60965,
+      "transparence": false,
+      "sujet": {
+        "x": 33.5,
+        "y": 31.9,
+        "l": 47.1,
+        "h": 41.5,
+        "source": "visage"
+      },
+      "visages": 1,
+      "cadrage": [
+        57,
+        50
+      ],
+      "cadrage_css": "57% 50%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.48,
+          "ton": "sombre",
+          "recouvre_sujet": 0.04
+        },
+        {
+          "cote": "gauche",
+          "score": 0.45,
+          "ton": "moyen",
+          "recouvre_sujet": 0.07
+        },
+        {
+          "cote": "bas",
+          "score": 0.37,
+          "ton": "moyen",
+          "recouvre_sujet": 0.11
+        },
+        {
+          "cote": "droite",
+          "score": 0.32,
+          "ton": "moyen",
+          "recouvre_sujet": 0.21
+        }
+      ],
+      "qualite": {
+        "nettete": 48.2,
+        "bruit": 0.98,
+        "compression": 1.15,
+        "faible": true,
+        "raisons": [
+          "415 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "e3e33a3faf321fe7",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "douce-musique.jpg",
+      "nom": "douce-musique",
+      "drapeau": "autre",
+      "largeur": 564,
+      "hauteur": 448,
+      "ratio": "5:4",
+      "ratio_valeur": 1.259,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 72843,
+      "transparence": false,
+      "sujet": {
+        "x": 58.9,
+        "y": 4.5,
+        "l": 28.5,
+        "h": 93.1,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        68,
+        29
+      ],
+      "cadrage_css": "68% 29%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.31,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "bas",
+          "score": 0.3,
+          "ton": "sombre",
+          "recouvre_sujet": 0.27
+        },
+        {
+          "cote": "haut",
+          "score": 0.25,
+          "ton": "moyen",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "droite",
+          "score": 0.18,
+          "ton": "sombre",
+          "recouvre_sujet": 0.64
+        }
+      ],
+      "qualite": {
+        "nettete": 45.9,
+        "bruit": 2.25,
+        "compression": 1.07,
+        "faible": true,
+        "raisons": [
+          "564 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "f2e0e0f0b0f0c4d4",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "bienvenue.jpg",
+      "nom": "bienvenue",
+      "drapeau": "autre",
+      "largeur": 564,
+      "hauteur": 394,
+      "ratio": "1.43",
+      "ratio_valeur": 1.431,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 108137,
+      "transparence": false,
+      "sujet": {
+        "x": 41.8,
+        "y": 18.5,
+        "l": 58.2,
+        "h": 69.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        60,
+        43
+      ],
+      "cadrage_css": "60% 43%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.42,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "haut",
+          "score": 0.33,
+          "ton": "clair",
+          "recouvre_sujet": 0.27
+        },
+        {
+          "cote": "bas",
+          "score": 0.13,
+          "ton": "moyen",
+          "recouvre_sujet": 0.38
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.69
+        }
+      ],
+      "qualite": {
+        "nettete": 87.8,
+        "bruit": 0.93,
+        "compression": 1.11,
+        "faible": true,
+        "raisons": [
+          "564 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "0c0d1391d1f794dc",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "yoga-ligne.jpg",
+      "nom": "yoga-ligne",
+      "drapeau": "autre",
+      "largeur": 411,
+      "hauteur": 357,
+      "ratio": "1.15",
+      "ratio_valeur": 1.151,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 54216,
+      "transparence": false,
+      "sujet": {
+        "x": 1.6,
+        "y": 0.8,
+        "l": 97.9,
+        "h": 92.5,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        25,
+        55
+      ],
+      "cadrage_css": "25% 55%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.33,
+          "ton": "sombre",
+          "recouvre_sujet": 0.79
+        },
+        {
+          "cote": "gauche",
+          "score": 0.28,
+          "ton": "sombre",
+          "recouvre_sujet": 0.89
+        },
+        {
+          "cote": "droite",
+          "score": 0.24,
+          "ton": "sombre",
+          "recouvre_sujet": 0.91
+        },
+        {
+          "cote": "haut",
+          "score": 0.22,
+          "ton": "sombre",
+          "recouvre_sujet": 0.96
+        }
+      ],
+      "qualite": {
+        "nettete": 27,
+        "bruit": 1.02,
+        "compression": 1.33,
+        "faible": true,
+        "raisons": [
+          "411 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "9161f8f0e1e3fa79",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "meditation.jpg",
+      "nom": "meditation",
+      "drapeau": "autre",
+      "largeur": 2000,
+      "hauteur": 1331,
+      "ratio": "3:2",
+      "ratio_valeur": 1.503,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 103977,
+      "transparence": false,
+      "sujet": {
+        "x": 33.4,
+        "y": 18.3,
+        "l": 53,
+        "h": 56.9,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        52,
+        39
+      ],
+      "cadrage_css": "52% 39%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.79,
+          "ton": "clair",
+          "recouvre_sujet": 0.09
+        },
+        {
+          "cote": "bas",
+          "score": 0.71,
+          "ton": "clair",
+          "recouvre_sujet": 0.15
+        },
+        {
+          "cote": "haut",
+          "score": 0.65,
+          "ton": "clair",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "droite",
+          "score": 0.58,
+          "ton": "clair",
+          "recouvre_sujet": 0.38
+        }
+      ],
+      "qualite": {
+        "nettete": 3.6,
+        "bruit": 0.17,
+        "compression": 1.85,
+        "faible": true,
+        "raisons": [
+          "floue",
+          "compression visible"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "e0914f6d9393a9f4",
+      "drapeaux": [
+        "autre",
+        "floue",
+        "compression visible",
+        "calme gauche/bas/haut"
+      ]
+    },
+    {
+      "fichier": "yoga-introduction-tutoriels.jpg",
+      "nom": "yoga-introduction-tutoriels",
+      "drapeau": "autre",
+      "largeur": 2000,
+      "hauteur": 1125,
+      "ratio": "16:9",
+      "ratio_valeur": 1.778,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 238098,
+      "transparence": false,
+      "sujet": {
+        "x": 14.9,
+        "y": 18.6,
+        "l": 55.7,
+        "h": 72.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        46,
+        57
+      ],
+      "cadrage_css": "46% 57%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.31,
+          "ton": "sombre",
+          "recouvre_sujet": 0.26
+        },
+        {
+          "cote": "gauche",
+          "score": 0.2,
+          "ton": "sombre",
+          "recouvre_sujet": 0.46
+        },
+        {
+          "cote": "droite",
+          "score": 0.13,
+          "ton": "moyen",
+          "recouvre_sujet": 0.19
+        },
+        {
+          "cote": "bas",
+          "score": 0.05,
+          "ton": "moyen",
+          "recouvre_sujet": 0.42
+        }
+      ],
+      "qualite": {
+        "nettete": 9.8,
+        "bruit": 0.4,
+        "compression": 1.48,
+        "faible": true,
+        "raisons": [
+          "compression visible"
+        ]
+      },
+      "lisible": {
+        "niveau": "marque",
+        "a_verifier": true,
+        "texte": "IPT BALI · TRAPY BALL",
+        "blocs": 2,
+        "surface": 0.3,
+        "details": [
+          {
+            "texte": "IPT BALI",
+            "niveau": "marque"
+          },
+          {
+            "texte": "TRAPY BALL",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "2c6e67b936d55c4c",
+      "drapeaux": [
+        "autre",
+        "compression visible",
+        "filigrane ou marque"
+      ]
+    },
+    {
+      "fichier": "studio-virtuel.jpg",
+      "nom": "studio-virtuel",
+      "drapeau": "lieu",
+      "largeur": 2000,
+      "hauteur": 1057,
+      "ratio": "1.89",
+      "ratio_valeur": 1.892,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 326460,
+      "transparence": false,
+      "sujet": {
+        "x": 29.4,
+        "y": 29.3,
+        "l": 49.7,
+        "h": 55.5,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        53,
+        51
+      ],
+      "cadrage_css": "53% 51%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.55,
+          "ton": "moyen",
+          "recouvre_sujet": 0.08
+        },
+        {
+          "cote": "droite",
+          "score": 0.34,
+          "ton": "moyen",
+          "recouvre_sujet": 0.27
+        },
+        {
+          "cote": "gauche",
+          "score": 0.21,
+          "ton": "moyen",
+          "recouvre_sujet": 0.15
+        },
+        {
+          "cote": "bas",
+          "score": 0.13,
+          "ton": "moyen",
+          "recouvre_sujet": 0.28
+        }
+      ],
+      "qualite": {
+        "nettete": 72.2,
+        "bruit": 0.59,
+        "compression": 1.27,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "e61e96b2f26a2f23",
+      "drapeaux": [
+        "lieu"
+      ]
+    },
+    {
+      "fichier": "studio-virtuel-2.jpg",
+      "nom": "studio-virtuel-2",
+      "drapeau": "lieu",
+      "largeur": 1920,
+      "hauteur": 1080,
+      "ratio": "16:9",
+      "ratio_valeur": 1.778,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 1601745,
+      "transparence": false,
+      "sujet": {
+        "x": 27,
+        "y": 42,
+        "l": 38.5,
+        "h": 50.1,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        31,
+        60
+      ],
+      "cadrage_css": "31% 60%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.64,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.48,
+          "ton": "moyen",
+          "recouvre_sujet": 0.07
+        },
+        {
+          "cote": "gauche",
+          "score": 0.43,
+          "ton": "moyen",
+          "recouvre_sujet": 0.16
+        },
+        {
+          "cote": "bas",
+          "score": 0.2,
+          "ton": "moyen",
+          "recouvre_sujet": 0.3
+        }
+      ],
+      "qualite": {
+        "nettete": 9.7,
+        "bruit": 0.22,
+        "compression": 1.75,
+        "faible": true,
+        "raisons": [
+          "compression visible"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "6c32323071351514",
+      "drapeaux": [
+        "lieu",
+        "visage",
+        "compression visible"
+      ]
+    },
+    {
+      "fichier": "pleine-conscience-meditations-audios.jpg",
+      "nom": "pleine-conscience-meditations-audios",
+      "drapeau": "autre",
+      "largeur": 1835,
+      "hauteur": 819,
+      "ratio": "2.24",
+      "ratio_valeur": 2.241,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 385908,
+      "transparence": false,
+      "sujet": {
+        "x": 26.5,
+        "y": 0.6,
+        "l": 43.7,
+        "h": 90.7,
+        "source": "corps"
+      },
+      "visages": 0,
+      "cadrage": [
+        48,
+        28
+      ],
+      "cadrage_css": "48% 28%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.52,
+          "ton": "clair",
+          "recouvre_sujet": 0.23
+        },
+        {
+          "cote": "haut",
+          "score": 0.46,
+          "ton": "moyen",
+          "recouvre_sujet": 0.43
+        },
+        {
+          "cote": "gauche",
+          "score": 0.38,
+          "ton": "moyen",
+          "recouvre_sujet": 0.31
+        },
+        {
+          "cote": "bas",
+          "score": 0.26,
+          "ton": "moyen",
+          "recouvre_sujet": 0.33
+        }
+      ],
+      "qualite": {
+        "nettete": 23.9,
+        "bruit": 1.61,
+        "compression": 0.98,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "9c9c9c8c8d99d9dd",
+      "drapeaux": [
+        "autre"
+      ]
+    },
+    {
+      "fichier": "studio-virtuel-3.jpg",
+      "nom": "studio-virtuel-3",
+      "drapeau": "lieu",
+      "largeur": 1276,
+      "hauteur": 657,
+      "ratio": "1.94",
+      "ratio_valeur": 1.942,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 86392,
+      "transparence": false,
+      "sujet": {
+        "x": 12.1,
+        "y": 49.7,
+        "l": 56.5,
+        "h": 50.3,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        18,
+        75
+      ],
+      "cadrage_css": "18% 75%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.65,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.46,
+          "ton": "moyen",
+          "recouvre_sujet": 0.11
+        },
+        {
+          "cote": "gauche",
+          "score": 0.41,
+          "ton": "moyen",
+          "recouvre_sujet": 0.35
+        },
+        {
+          "cote": "bas",
+          "score": 0.17,
+          "ton": "moyen",
+          "recouvre_sujet": 0.56
+        }
+      ],
+      "qualite": {
+        "nettete": 10.6,
+        "bruit": 0.28,
+        "compression": 0.94,
+        "faible": true,
+        "raisons": [
+          "1276 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "b2327070505c8c4f",
+      "drapeaux": [
+        "lieu",
+        "visage",
+        "petite",
+        "calme haut"
+      ]
+    },
+    {
+      "fichier": "studio-virtuel-4.jpg",
+      "nom": "studio-virtuel-4",
+      "drapeau": "lieu",
+      "largeur": 1220,
+      "hauteur": 669,
+      "ratio": "1.82",
+      "ratio_valeur": 1.824,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 89415,
+      "transparence": false,
+      "sujet": {
+        "x": 11.4,
+        "y": 51.3,
+        "l": 87.1,
+        "h": 46.6,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        19,
+        75
+      ],
+      "cadrage_css": "19% 75%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.58,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.32,
+          "ton": "moyen",
+          "recouvre_sujet": 0.33
+        },
+        {
+          "cote": "droite",
+          "score": 0.22,
+          "ton": "moyen",
+          "recouvre_sujet": 0.45
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.82
+        }
+      ],
+      "qualite": {
+        "nettete": 12.5,
+        "bruit": 0.31,
+        "compression": 0.9,
+        "faible": true,
+        "raisons": [
+          "1220 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "9331717039084e4b",
+      "drapeaux": [
+        "lieu",
+        "visage",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "hatha-yoga-11-seances.png",
+      "nom": "hatha-yoga-11-seances",
+      "drapeau": "autre",
+      "largeur": 817,
+      "hauteur": 651,
+      "ratio": "5:4",
+      "ratio_valeur": 1.255,
+      "orientation": "paysage",
+      "format": "png",
+      "poids": 746605,
+      "transparence": true,
+      "sujet": {
+        "x": 28.1,
+        "y": 12.1,
+        "l": 48.2,
+        "h": 73.8,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        48,
+        32
+      ],
+      "cadrage_css": "48% 32%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.51,
+          "ton": "clair",
+          "recouvre_sujet": 0.3
+        },
+        {
+          "cote": "bas",
+          "score": 0.41,
+          "ton": "clair",
+          "recouvre_sujet": 0.29
+        },
+        {
+          "cote": "haut",
+          "score": 0.38,
+          "ton": "clair",
+          "recouvre_sujet": 0.32
+        },
+        {
+          "cote": "gauche",
+          "score": 0.35,
+          "ton": "clair",
+          "recouvre_sujet": 0.22
+        }
+      ],
+      "qualite": {
+        "nettete": 27.2,
+        "bruit": 0.94,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "817 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "document",
+        "a_verifier": true,
+        "texte": "ISABELLE CLOUTIER · *COLLECTION GYM DOUCEUR+ · YOGA · bien-être · postures pour · améliorer la santé et · la qualité de vie · Coup dreil",
+        "blocs": 8,
+        "surface": 7.8,
+        "details": [
+          {
+            "texte": "ISABELLE CLOUTIER",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "*COLLECTION GYM DOUCEUR+",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "YOGA",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "bien-être",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "postures pour",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "améliorer la santé et",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "la qualité de vie",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Coup dreil",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "6e6e1e1c1e960e5a",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "petite",
+        "document lisible"
+      ]
+    },
+    {
+      "fichier": "studio-virtuel-5.jpg",
+      "nom": "studio-virtuel-5",
+      "drapeau": "lieu",
+      "largeur": 688,
+      "hauteur": 663,
+      "ratio": "1.04",
+      "ratio_valeur": 1.038,
+      "orientation": "carre",
+      "format": "jpeg",
+      "poids": 74226,
+      "transparence": false,
+      "sujet": {
+        "x": 10.5,
+        "y": 19.6,
+        "l": 84.5,
+        "h": 66.3,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        27,
+        38
+      ],
+      "cadrage_css": "27% 38%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.52,
+          "ton": "clair",
+          "recouvre_sujet": 0.37
+        },
+        {
+          "cote": "droite",
+          "score": 0.44,
+          "ton": "moyen",
+          "recouvre_sujet": 0.58
+        },
+        {
+          "cote": "gauche",
+          "score": 0.32,
+          "ton": "moyen",
+          "recouvre_sujet": 0.49
+        },
+        {
+          "cote": "bas",
+          "score": 0.32,
+          "ton": "sombre",
+          "recouvre_sujet": 0.5
+        }
+      ],
+      "qualite": {
+        "nettete": 14.3,
+        "bruit": 0.34,
+        "compression": 1.45,
+        "faible": true,
+        "raisons": [
+          "688 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "e16060f09c0d3f70",
+      "drapeaux": [
+        "lieu",
+        "visage",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "studio-virtuel-6.jpg",
+      "nom": "studio-virtuel-6",
+      "drapeau": "lieu",
+      "largeur": 608,
+      "hauteur": 652,
+      "ratio": "0.93",
+      "ratio_valeur": 0.933,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 70033,
+      "transparence": false,
+      "sujet": {
+        "x": 20.6,
+        "y": 17.6,
+        "l": 48.3,
+        "h": 82.4,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        49,
+        40
+      ],
+      "cadrage_css": "49% 40%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.58,
+          "ton": "clair",
+          "recouvre_sujet": 0.24
+        },
+        {
+          "cote": "droite",
+          "score": 0.54,
+          "ton": "moyen",
+          "recouvre_sujet": 0.18
+        },
+        {
+          "cote": "gauche",
+          "score": 0.49,
+          "ton": "moyen",
+          "recouvre_sujet": 0.4
+        },
+        {
+          "cote": "bas",
+          "score": 0.3,
+          "ton": "moyen",
+          "recouvre_sujet": 0.48
+        }
+      ],
+      "qualite": {
+        "nettete": 11.7,
+        "bruit": 0.37,
+        "compression": 1.33,
+        "faible": true,
+        "raisons": [
+          "608 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "e86868d4389c9ec6",
+      "drapeaux": [
+        "lieu",
+        "visage",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "automassage-pieds-chevilles-jambes.jpg",
+      "nom": "automassage-pieds-chevilles-jambes",
+      "drapeau": "lieu",
+      "largeur": 625,
+      "hauteur": 479,
+      "ratio": "4:3",
+      "ratio_valeur": 1.305,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 63107,
+      "transparence": false,
+      "sujet": {
+        "x": 3.5,
+        "y": 10.9,
+        "l": 86.5,
+        "h": 89,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        52,
+        43
+      ],
+      "cadrage_css": "52% 43%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.37,
+          "ton": "moyen",
+          "recouvre_sujet": 0.6
+        },
+        {
+          "cote": "gauche",
+          "score": 0.34,
+          "ton": "moyen",
+          "recouvre_sujet": 0.81
+        },
+        {
+          "cote": "droite",
+          "score": 0.28,
+          "ton": "moyen",
+          "recouvre_sujet": 0.67
+        },
+        {
+          "cote": "bas",
+          "score": 0.23,
+          "ton": "moyen",
+          "recouvre_sujet": 0.86
+        }
+      ],
+      "qualite": {
+        "nettete": 23.9,
+        "bruit": 0.5,
+        "compression": 1.22,
+        "faible": true,
+        "raisons": [
+          "625 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "b4a49695a4c696a6",
+      "drapeaux": [
+        "lieu",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "pawanmuktasanas-3-series-therapeutiques.png",
+      "nom": "pawanmuktasanas-3-series-therapeutiques",
+      "drapeau": "autre",
+      "largeur": 453,
+      "hauteur": 453,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "png",
+      "poids": 289356,
+      "transparence": true,
+      "sujet": {
+        "x": 8.2,
+        "y": 7.9,
+        "l": 83.7,
+        "h": 84.6,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        50,
+        45
+      ],
+      "cadrage_css": "50% 45%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.3,
+          "ton": "clair",
+          "recouvre_sujet": 0.65
+        },
+        {
+          "cote": "bas",
+          "score": 0.29,
+          "ton": "clair",
+          "recouvre_sujet": 0.66
+        },
+        {
+          "cote": "gauche",
+          "score": 0.22,
+          "ton": "clair",
+          "recouvre_sujet": 0.67
+        },
+        {
+          "cote": "droite",
+          "score": 0.22,
+          "ton": "clair",
+          "recouvre_sujet": 0.67
+        }
+      ],
+      "qualite": {
+        "nettete": 157.1,
+        "bruit": 0.93,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "453 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "160f0f0f0f0f0f16",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-12.jpg",
+      "nom": "retrouver-pouvoir-sante-12",
+      "drapeau": "autre",
+      "largeur": 900,
+      "hauteur": 1200,
+      "ratio": "3:4",
+      "ratio_valeur": 0.75,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 631351,
+      "transparence": false,
+      "sujet": {
+        "x": 21.1,
+        "y": 3.6,
+        "l": 62.7,
+        "h": 50.3,
+        "source": "visage"
+      },
+      "visages": 1,
+      "cadrage": [
+        52,
+        30
+      ],
+      "cadrage_css": "52% 30%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.6,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.57,
+          "ton": "moyen",
+          "recouvre_sujet": 0.24
+        },
+        {
+          "cote": "droite",
+          "score": 0.44,
+          "ton": "sombre",
+          "recouvre_sujet": 0.3
+        },
+        {
+          "cote": "haut",
+          "score": 0.41,
+          "ton": "clair",
+          "recouvre_sujet": 0.56
+        }
+      ],
+      "qualite": {
+        "nettete": 42.3,
+        "bruit": 1.28,
+        "compression": 1.01,
+        "faible": true,
+        "raisons": [
+          "900 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "marque",
+        "a_verifier": true,
+        "texte": "[© www.djubox.ca ]",
+        "blocs": 1,
+        "surface": 0.2,
+        "details": [
+          {
+            "texte": "[© www.djubox.ca ]",
+            "niveau": "marque"
+          }
+        ]
+      },
+      "empreinte": "c452121b1b113333",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "petite",
+        "filigrane ou marque"
+      ]
+    },
+    {
+      "fichier": "livres.png",
+      "nom": "livres",
+      "drapeau": "autre",
+      "largeur": 1066,
+      "hauteur": 847,
+      "ratio": "5:4",
+      "ratio_valeur": 1.259,
+      "orientation": "paysage",
+      "format": "png",
+      "poids": 935841,
+      "transparence": true,
+      "sujet": {
+        "x": 18.8,
+        "y": 10.7,
+        "l": 75.6,
+        "h": 78.5,
+        "source": "corps"
+      },
+      "visages": 2,
+      "cadrage": [
+        42,
+        38
+      ],
+      "cadrage_css": "42% 38%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.28,
+          "ton": "moyen",
+          "recouvre_sujet": 0.42
+        },
+        {
+          "cote": "bas",
+          "score": 0.25,
+          "ton": "moyen",
+          "recouvre_sujet": 0.52
+        },
+        {
+          "cote": "haut",
+          "score": 0.19,
+          "ton": "clair",
+          "recouvre_sujet": 0.52
+        },
+        {
+          "cote": "droite",
+          "score": 0.04,
+          "ton": "clair",
+          "recouvre_sujet": 0.68
+        }
+      ],
+      "qualite": {
+        "nettete": 46.5,
+        "bruit": 0.55,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "1066 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "ISABELLE CLOUTIER · + COLLECTION GYM DOUCEUR + · yoGa · des enfants · postures simples · et amusantes pour · se détendre · Les Éditions · Coup dheil",
+        "blocs": 9,
+        "surface": 9.5,
+        "details": [
+          {
+            "texte": "ISABELLE CLOUTIER",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "+ COLLECTION GYM DOUCEUR +",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "yoGa",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "des enfants",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "postures simples",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "et amusantes pour",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "se détendre",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Les Éditions",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Coup dheil",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "5cdedefea6fe9eb2",
+      "drapeaux": [
+        "autre",
+        "2 visages",
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-13.jpg",
+      "nom": "retrouver-pouvoir-sante-13",
+      "drapeau": "autre",
+      "largeur": 960,
+      "hauteur": 642,
+      "ratio": "3:2",
+      "ratio_valeur": 1.495,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 167578,
+      "transparence": false,
+      "sujet": {
+        "x": 13.6,
+        "y": 29.7,
+        "l": 21.3,
+        "h": 44.2,
+        "source": "corps"
+      },
+      "visages": 0,
+      "cadrage": [
+        24,
+        43
+      ],
+      "cadrage_css": "24% 43%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.35,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "bas",
+          "score": 0.21,
+          "ton": "moyen",
+          "recouvre_sujet": 0.05
+        },
+        {
+          "cote": "haut",
+          "score": 0.2,
+          "ton": "moyen",
+          "recouvre_sujet": 0.03
+        },
+        {
+          "cote": "gauche",
+          "score": 0.17,
+          "ton": "moyen",
+          "recouvre_sujet": 0.24
+        }
+      ],
+      "qualite": {
+        "nettete": 43.3,
+        "bruit": 1.42,
+        "compression": 1.24,
+        "faible": true,
+        "raisons": [
+          "960 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "bf3f3f7f7f7fff6f",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-14.jpg",
+      "nom": "retrouver-pouvoir-sante-14",
+      "drapeau": "autre",
+      "largeur": 2000,
+      "hauteur": 1018,
+      "ratio": "2:1",
+      "ratio_valeur": 1.965,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 299017,
+      "transparence": false,
+      "sujet": {
+        "x": 29.4,
+        "y": 26.5,
+        "l": 22.1,
+        "h": 32.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        40,
+        43
+      ],
+      "cadrage_css": "40% 43%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.75,
+          "ton": "moyen",
+          "recouvre_sujet": 0.05
+        },
+        {
+          "cote": "droite",
+          "score": 0.64,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.47,
+          "ton": "sombre",
+          "recouvre_sujet": 0.09
+        },
+        {
+          "cote": "bas",
+          "score": 0.2,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        }
+      ],
+      "qualite": {
+        "nettete": 18,
+        "bruit": 0.8,
+        "compression": 1.45,
+        "faible": true,
+        "raisons": [
+          "compression visible"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "bebe1c181c2c2e9c",
+      "drapeaux": [
+        "autre",
+        "compression visible",
+        "calme haut"
+      ]
+    },
+    {
+      "fichier": "atelier-introduction-methode-tre.jpg",
+      "nom": "atelier-introduction-methode-tre",
+      "drapeau": "lieu",
+      "largeur": 1857,
+      "hauteur": 1041,
+      "ratio": "16:9",
+      "ratio_valeur": 1.784,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 399619,
+      "transparence": false,
+      "sujet": {
+        "x": 45.6,
+        "y": 27.9,
+        "l": 22.1,
+        "h": 36.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        57,
+        47
+      ],
+      "cadrage_css": "57% 47%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.75,
+          "ton": "moyen",
+          "recouvre_sujet": 0.04
+        },
+        {
+          "cote": "gauche",
+          "score": 0.63,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.51,
+          "ton": "sombre",
+          "recouvre_sujet": 0.07
+        },
+        {
+          "cote": "bas",
+          "score": 0.22,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        }
+      ],
+      "qualite": {
+        "nettete": 15.7,
+        "bruit": 1.05,
+        "compression": 1.1,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "068686c7879b1b86",
+      "drapeaux": [
+        "lieu",
+        "calme haut"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-15.jpg",
+      "nom": "retrouver-pouvoir-sante-15",
+      "drapeau": "autre",
+      "largeur": 470,
+      "hauteur": 470,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "jpeg",
+      "poids": 20765,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 100,
+        "h": 100,
+        "source": "visage"
+      },
+      "visages": 1,
+      "cadrage": [
+        46,
+        55
+      ],
+      "cadrage_css": "46% 55%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.21,
+          "ton": "clair",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "droite",
+          "score": 0.16,
+          "ton": "moyen",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "bas",
+          "score": 0.14,
+          "ton": "sombre",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "gauche",
+          "score": 0.13,
+          "ton": "moyen",
+          "recouvre_sujet": 1
+        }
+      ],
+      "qualite": {
+        "nettete": 8.3,
+        "bruit": 0.41,
+        "compression": 1.48,
+        "faible": true,
+        "raisons": [
+          "470 px de large",
+          "compression visible"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "0eb3f062e9617130",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "petite",
+        "compression visible"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-16.jpg",
+      "nom": "retrouver-pouvoir-sante-16",
+      "drapeau": "autre",
+      "largeur": 933,
+      "hauteur": 622,
+      "ratio": "3:2",
+      "ratio_valeur": 1.5,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 73528,
+      "transparence": false,
+      "sujet": {
+        "x": 10.6,
+        "y": 11.5,
+        "l": 70.4,
+        "h": 50.3,
+        "source": "visage"
+      },
+      "visages": 1,
+      "cadrage": [
+        46,
+        38
+      ],
+      "cadrage_css": "46% 38%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.72,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.62,
+          "ton": "sombre",
+          "recouvre_sujet": 0.26
+        },
+        {
+          "cote": "gauche",
+          "score": 0.56,
+          "ton": "moyen",
+          "recouvre_sujet": 0.37
+        },
+        {
+          "cote": "haut",
+          "score": 0.54,
+          "ton": "sombre",
+          "recouvre_sujet": 0.47
+        }
+      ],
+      "qualite": {
+        "nettete": 5.5,
+        "bruit": 0.31,
+        "compression": 1.74,
+        "faible": true,
+        "raisons": [
+          "933 px de large",
+          "floue",
+          "compression visible"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "2c27233321230313",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "petite",
+        "floue",
+        "compression visible",
+        "calme bas"
+      ]
+    },
+    {
+      "fichier": "yoga-somatique-2.jpg",
+      "nom": "yoga-somatique-2",
+      "drapeau": "autre",
+      "largeur": 415,
+      "hauteur": 622,
+      "ratio": "2:3",
+      "ratio_valeur": 0.667,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 57044,
+      "transparence": false,
+      "sujet": {
+        "x": 0.4,
+        "y": 5.2,
+        "l": 99.6,
+        "h": 94.8,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        50,
+        34
+      ],
+      "cadrage_css": "50% 34%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.11,
+          "ton": "moyen",
+          "recouvre_sujet": 0.85
+        },
+        {
+          "cote": "droite",
+          "score": 0.1,
+          "ton": "sombre",
+          "recouvre_sujet": 0.95
+        },
+        {
+          "cote": "bas",
+          "score": 0.1,
+          "ton": "sombre",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "gauche",
+          "score": 0.03,
+          "ton": "sombre",
+          "recouvre_sujet": 0.94
+        }
+      ],
+      "qualite": {
+        "nettete": 26,
+        "bruit": 1.06,
+        "compression": 1.17,
+        "faible": true,
+        "raisons": [
+          "415 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "bc6f65e0e06c4e01",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-17.png",
+      "nom": "retrouver-pouvoir-sante-17",
+      "drapeau": "autre",
+      "largeur": 1536,
+      "hauteur": 1024,
+      "ratio": "3:2",
+      "ratio_valeur": 1.5,
+      "orientation": "paysage",
+      "format": "png",
+      "poids": 2100281,
+      "transparence": false,
+      "sujet": {
+        "x": 58.6,
+        "y": 50.1,
+        "l": 40.1,
+        "h": 42.1,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        73,
+        67
+      ],
+      "cadrage_css": "73% 67%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.44,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.26,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "bas",
+          "score": 0.14,
+          "ton": "moyen",
+          "recouvre_sujet": 0.31
+        },
+        {
+          "cote": "droite",
+          "score": 0.08,
+          "ton": "moyen",
+          "recouvre_sujet": 0.41
+        }
+      ],
+      "qualite": {
+        "nettete": 20.6,
+        "bruit": 0.82,
+        "compression": 1,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "6869b1cb3913f3b9",
+      "drapeaux": [
+        "autre"
+      ]
+    },
+    {
+      "fichier": "atelier-introduction-methode-tre-2.png",
+      "nom": "atelier-introduction-methode-tre-2",
+      "drapeau": "lieu",
+      "largeur": 1536,
+      "hauteur": 1024,
+      "ratio": "3:2",
+      "ratio_valeur": 1.5,
+      "orientation": "paysage",
+      "format": "png",
+      "poids": 2023773,
+      "transparence": false,
+      "sujet": {
+        "x": 64.4,
+        "y": 61.6,
+        "l": 24.6,
+        "h": 33.6,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        71,
+        71
+      ],
+      "cadrage_css": "71% 71%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.27,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.26,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.18,
+          "ton": "clair",
+          "recouvre_sujet": 0.21
+        },
+        {
+          "cote": "bas",
+          "score": 0.17,
+          "ton": "moyen",
+          "recouvre_sujet": 0.21
+        }
+      ],
+      "qualite": {
+        "nettete": 20.9,
+        "bruit": 0.75,
+        "compression": 1,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "facacecad899f379",
+      "drapeaux": [
+        "lieu"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-18.jpg",
+      "nom": "retrouver-pouvoir-sante-18",
+      "drapeau": "autre",
+      "largeur": 2000,
+      "hauteur": 1400,
+      "ratio": "1.43",
+      "ratio_valeur": 1.429,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 219542,
+      "transparence": false,
+      "sujet": {
+        "x": 0.1,
+        "y": 36.7,
+        "l": 32.5,
+        "h": 63.3,
+        "source": "corps"
+      },
+      "visages": 4,
+      "cadrage": [
+        52,
+        54
+      ],
+      "cadrage_css": "52% 54%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.61,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.34,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "bas",
+          "score": 0.17,
+          "ton": "moyen",
+          "recouvre_sujet": 0.33
+        },
+        {
+          "cote": "gauche",
+          "score": 0.09,
+          "ton": "moyen",
+          "recouvre_sujet": 0.51
+        }
+      ],
+      "qualite": {
+        "nettete": 10.2,
+        "bruit": 0.37,
+        "compression": 1.27,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "b4b4b66434747468",
+      "drapeaux": [
+        "autre",
+        "4 visages"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-19.jpg",
+      "nom": "retrouver-pouvoir-sante-19",
+      "drapeau": "autre",
+      "largeur": 2000,
+      "hauteur": 1335,
+      "ratio": "3:2",
+      "ratio_valeur": 1.498,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 288588,
+      "transparence": false,
+      "sujet": {
+        "x": 31.3,
+        "y": 35.8,
+        "l": 68.4,
+        "h": 50.7,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        56,
+        49
+      ],
+      "cadrage_css": "56% 49%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.47,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.37,
+          "ton": "clair",
+          "recouvre_sujet": 0.11
+        },
+        {
+          "cote": "bas",
+          "score": 0.32,
+          "ton": "moyen",
+          "recouvre_sujet": 0.42
+        },
+        {
+          "cote": "droite",
+          "score": 0.18,
+          "ton": "clair",
+          "recouvre_sujet": 0.5
+        }
+      ],
+      "qualite": {
+        "nettete": 7,
+        "bruit": 0.48,
+        "compression": 1.6,
+        "faible": true,
+        "raisons": [
+          "compression visible"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "2c2c8dc9e5d0c868",
+      "drapeaux": [
+        "autre",
+        "compression visible"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-20.jpg",
+      "nom": "retrouver-pouvoir-sante-20",
+      "drapeau": "autre",
+      "largeur": 2000,
+      "hauteur": 1334,
+      "ratio": "3:2",
+      "ratio_valeur": 1.499,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 172477,
+      "transparence": false,
+      "sujet": {
+        "x": 8,
+        "y": 20.8,
+        "l": 64.8,
+        "h": 79.2,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        61
+      ],
+      "cadrage_css": "47% 61%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.77,
+          "ton": "clair",
+          "recouvre_sujet": 0.26
+        },
+        {
+          "cote": "droite",
+          "score": 0.49,
+          "ton": "clair",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "gauche",
+          "score": 0.12,
+          "ton": "clair",
+          "recouvre_sujet": 0.63
+        },
+        {
+          "cote": "bas",
+          "score": 0.1,
+          "ton": "clair",
+          "recouvre_sujet": 0.65
+        }
+      ],
+      "qualite": {
+        "nettete": 14.3,
+        "bruit": 0.36,
+        "compression": 1.24,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "a6822aaa56444666",
+      "drapeaux": [
+        "autre",
+        "calme haut"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-21.jpg",
+      "nom": "retrouver-pouvoir-sante-21",
+      "drapeau": "autre",
+      "largeur": 2000,
+      "hauteur": 1333,
+      "ratio": "3:2",
+      "ratio_valeur": 1.5,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 304190,
+      "transparence": false,
+      "sujet": {
+        "x": 14.6,
+        "y": 1.2,
+        "l": 69.5,
+        "h": 97.5,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        52,
+        29
+      ],
+      "cadrage_css": "52% 29%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.34,
+          "ton": "sombre",
+          "recouvre_sujet": 0.67
+        },
+        {
+          "cote": "gauche",
+          "score": 0.14,
+          "ton": "sombre",
+          "recouvre_sujet": 0.62
+        },
+        {
+          "cote": "droite",
+          "score": 0.12,
+          "ton": "sombre",
+          "recouvre_sujet": 0.59
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.67
+        }
+      ],
+      "qualite": {
+        "nettete": 17.1,
+        "bruit": 0.54,
+        "compression": 1.43,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "f092b9f970d692a6",
+      "drapeaux": [
+        "autre",
+        "visage"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-22.jpg",
+      "nom": "retrouver-pouvoir-sante-22",
+      "drapeau": "autre",
+      "largeur": 2000,
+      "hauteur": 1333,
+      "ratio": "3:2",
+      "ratio_valeur": 1.5,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 198710,
+      "transparence": false,
+      "sujet": {
+        "x": 20.4,
+        "y": 34.4,
+        "l": 53.4,
+        "h": 41.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        46,
+        52
+      ],
+      "cadrage_css": "46% 52%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.59,
+          "ton": "clair",
+          "recouvre_sujet": 0.01
+        },
+        {
+          "cote": "droite",
+          "score": 0.36,
+          "ton": "moyen",
+          "recouvre_sujet": 0.14
+        },
+        {
+          "cote": "bas",
+          "score": 0.35,
+          "ton": "sombre",
+          "recouvre_sujet": 0.17
+        },
+        {
+          "cote": "gauche",
+          "score": 0.34,
+          "ton": "moyen",
+          "recouvre_sujet": 0.2
+        }
+      ],
+      "qualite": {
+        "nettete": 11.5,
+        "bruit": 0.38,
+        "compression": 1.38,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "mindfulness",
+        "blocs": 1,
+        "surface": 9.3,
+        "details": [
+          {
+            "texte": "mindfulness",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "6565652d69e9b4f0",
+      "drapeaux": [
+        "autre",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-23.jpg",
+      "nom": "retrouver-pouvoir-sante-23",
+      "drapeau": "autre",
+      "largeur": 2000,
+      "hauteur": 1333,
+      "ratio": "3:2",
+      "ratio_valeur": 1.5,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 217428,
+      "transparence": false,
+      "sujet": {
+        "x": 9.5,
+        "y": 8.4,
+        "l": 90.5,
+        "h": 86.6,
+        "source": "corps"
+      },
+      "visages": 3,
+      "cadrage": [
+        33,
+        39
+      ],
+      "cadrage_css": "33% 39%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.31,
+          "ton": "clair",
+          "recouvre_sujet": 0.69
+        },
+        {
+          "cote": "droite",
+          "score": 0.17,
+          "ton": "moyen",
+          "recouvre_sujet": 0.87
+        },
+        {
+          "cote": "gauche",
+          "score": 0.09,
+          "ton": "clair",
+          "recouvre_sujet": 0.66
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.78
+        }
+      ],
+      "qualite": {
+        "nettete": 23.6,
+        "bruit": 0.46,
+        "compression": 1.23,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "aeee8e4656364386",
+      "drapeaux": [
+        "autre",
+        "3 visages"
+      ]
+    },
+    {
+      "fichier": "retrouver-pouvoir-sante-24.jpg",
+      "nom": "retrouver-pouvoir-sante-24",
+      "drapeau": "autre",
+      "largeur": 2000,
+      "hauteur": 1289,
+      "ratio": "1.55",
+      "ratio_valeur": 1.552,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 340668,
+      "transparence": false,
+      "sujet": {
+        "x": 22.2,
+        "y": 14.8,
+        "l": 74.5,
+        "h": 65.2,
+        "source": "corps"
+      },
+      "visages": 4,
+      "cadrage": [
+        39,
+        33
+      ],
+      "cadrage_css": "39% 33%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.47,
+          "ton": "moyen",
+          "recouvre_sujet": 0.32
+        },
+        {
+          "cote": "gauche",
+          "score": 0.26,
+          "ton": "moyen",
+          "recouvre_sujet": 0.29
+        },
+        {
+          "cote": "droite",
+          "score": 0.12,
+          "ton": "moyen",
+          "recouvre_sujet": 0.6
+        },
+        {
+          "cote": "haut",
+          "score": 0.05,
+          "ton": "moyen",
+          "recouvre_sujet": 0.43
+        }
+      ],
+      "qualite": {
+        "nettete": 27.9,
+        "bruit": 0.73,
+        "compression": 1.2,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "6c94f33333199c8e",
+      "drapeaux": [
+        "autre",
+        "4 visages"
+      ]
+    },
+    {
+      "fichier": "yoga-maison.jpg",
+      "nom": "yoga-maison",
+      "drapeau": "lieu",
+      "largeur": 1151,
+      "hauteur": 586,
+      "ratio": "2:1",
+      "ratio_valeur": 1.964,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 138430,
+      "transparence": false,
+      "sujet": {
+        "x": 30.4,
+        "y": 59.1,
+        "l": 33.3,
+        "h": 39.2,
+        "source": "corps"
+      },
+      "visages": 2,
+      "cadrage": [
+        62,
+        61
+      ],
+      "cadrage_css": "62% 61%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.33,
+          "ton": "clair",
+          "recouvre_sujet": 0.32
+        },
+        {
+          "cote": "gauche",
+          "score": 0.31,
+          "ton": "clair",
+          "recouvre_sujet": 0.09
+        },
+        {
+          "cote": "haut",
+          "score": 0.2,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.19,
+          "ton": "clair",
+          "recouvre_sujet": 0.04
+        }
+      ],
+      "qualite": {
+        "nettete": 82.1,
+        "bruit": 0.55,
+        "compression": 1.02,
+        "faible": true,
+        "raisons": [
+          "1151 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "document",
+        "a_verifier": true,
+        "texte": "Plan d'abonnement · • Abonnement aux cours en ligne · 29.99S/mois - MENSUEL · Type de formation · Ateliers et programmes en ligne · • Atelier d'AUTOMASSAGE avec",
+        "blocs": 26,
+        "surface": 13.6,
+        "details": [
+          {
+            "texte": "Plan d'abonnement",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "• Abonnement aux cours en ligne",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "29.99S/mois - MENSUEL",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Type de formation",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Ateliers et programmes en ligne",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "• Atelier d'AUTOMASSAGE avec balles",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "• Ateliers de YOGA",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Cours en ligne (avec abonnement)",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "• HATHA YOGA (classique)",
+            "niveau": "marque"
+          },
+          {
+            "texte": "• YOGA DOUX (thérapeutique)",
+            "niveau": "marque"
+          },
+          {
+            "texte": "• YOGA SOMATIQUE (Somayog)",
+            "niveau": "marque"
+          },
+          {
+            "texte": "HATHA YOGA (classique)",
+            "niveau": "marque"
+          }
+        ]
+      },
+      "empreinte": "898d89d3878e9e8e",
+      "drapeaux": [
+        "lieu",
+        "2 visages",
+        "petite",
+        "document lisible"
+      ]
+    },
+    {
+      "fichier": "s-allier-hiver-2.jpg",
+      "nom": "s-allier-hiver-2",
+      "drapeau": "autre",
+      "largeur": 1536,
+      "hauteur": 1146,
+      "ratio": "4:3",
+      "ratio_valeur": 1.34,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 420699,
+      "transparence": false,
+      "sujet": {
+        "x": 24.1,
+        "y": 25.8,
+        "l": 67,
+        "h": 74.2,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        54,
+        52
+      ],
+      "cadrage_css": "54% 52%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.34,
+          "ton": "moyen",
+          "recouvre_sujet": 0.18
+        },
+        {
+          "cote": "gauche",
+          "score": 0.26,
+          "ton": "moyen",
+          "recouvre_sujet": 0.29
+        },
+        {
+          "cote": "droite",
+          "score": 0.12,
+          "ton": "moyen",
+          "recouvre_sujet": 0.58
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.67
+        }
+      ],
+      "qualite": {
+        "nettete": 12.2,
+        "bruit": 0.62,
+        "compression": 1.28,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "e0fcd4f3a5254d4d",
+      "drapeaux": [
+        "autre"
+      ]
+    },
+    {
+      "fichier": "s-allier-hiver-3.jpg",
+      "nom": "s-allier-hiver-3",
+      "drapeau": "autre",
+      "largeur": 1152,
+      "hauteur": 768,
+      "ratio": "3:2",
+      "ratio_valeur": 1.5,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 632938,
+      "transparence": false,
+      "sujet": {
+        "x": 35.3,
+        "y": 32.4,
+        "l": 33.8,
+        "h": 44.1,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        53,
+        53
+      ],
+      "cadrage_css": "53% 53%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.68,
+          "ton": "clair",
+          "recouvre_sujet": 0.03
+        },
+        {
+          "cote": "gauche",
+          "score": 0.59,
+          "ton": "clair",
+          "recouvre_sujet": 0.05
+        },
+        {
+          "cote": "droite",
+          "score": 0.42,
+          "ton": "clair",
+          "recouvre_sujet": 0.1
+        },
+        {
+          "cote": "bas",
+          "score": 0.34,
+          "ton": "clair",
+          "recouvre_sujet": 0.11
+        }
+      ],
+      "qualite": {
+        "nettete": 17.5,
+        "bruit": 1.33,
+        "compression": 0.98,
+        "faible": true,
+        "raisons": [
+          "1152 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "0d3868d31aa8c293",
+      "drapeaux": [
+        "autre",
+        "petite",
+        "calme haut"
+      ]
+    },
+    {
+      "fichier": "s-allier-hiver-4.png",
+      "nom": "s-allier-hiver-4",
+      "drapeau": "autre",
+      "largeur": 474,
+      "hauteur": 345,
+      "ratio": "1.37",
+      "ratio_valeur": 1.374,
+      "orientation": "paysage",
+      "format": "png",
+      "poids": 123000,
+      "transparence": true,
+      "sujet": {
+        "x": 7.1,
+        "y": 4.8,
+        "l": 78.2,
+        "h": 63.9,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        48,
+        33
+      ],
+      "cadrage_css": "48% 33%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.6,
+          "ton": "clair",
+          "recouvre_sujet": 0.08
+        },
+        {
+          "cote": "gauche",
+          "score": 0.45,
+          "ton": "clair",
+          "recouvre_sujet": 0.53
+        },
+        {
+          "cote": "droite",
+          "score": 0.42,
+          "ton": "clair",
+          "recouvre_sujet": 0.4
+        },
+        {
+          "cote": "haut",
+          "score": 0.31,
+          "ton": "clair",
+          "recouvre_sujet": 0.67
+        }
+      ],
+      "qualite": {
+        "nettete": 9.8,
+        "bruit": 0.54,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "474 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "93992525a5a6a663",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "s-allier-hiver-5.jpg",
+      "nom": "s-allier-hiver-5",
+      "drapeau": "autre",
+      "largeur": 450,
+      "hauteur": 300,
+      "ratio": "3:2",
+      "ratio_valeur": 1.5,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 104740,
+      "transparence": false,
+      "sujet": {
+        "x": 53.1,
+        "y": 38,
+        "l": 25.6,
+        "h": 44,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        64,
+        55
+      ],
+      "cadrage_css": "64% 55%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.54,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "haut",
+          "score": 0.45,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "bas",
+          "score": 0.44,
+          "ton": "sombre",
+          "recouvre_sujet": 0.12
+        },
+        {
+          "cote": "droite",
+          "score": 0.28,
+          "ton": "sombre",
+          "recouvre_sujet": 0.21
+        }
+      ],
+      "qualite": {
+        "nettete": 40.2,
+        "bruit": 0.93,
+        "compression": 1.02,
+        "faible": true,
+        "raisons": [
+          "450 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "e1f1d292f0e8e4e6",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "flexions-avant.jpg",
+      "nom": "flexions-avant",
+      "drapeau": "autre",
+      "largeur": 640,
+      "hauteur": 443,
+      "ratio": "1.44",
+      "ratio_valeur": 1.445,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 736913,
+      "transparence": false,
+      "sujet": {
+        "x": 39,
+        "y": 0,
+        "l": 58.7,
+        "h": 90.7,
+        "source": "visage"
+      },
+      "visages": 1,
+      "cadrage": [
+        68,
+        41
+      ],
+      "cadrage_css": "68% 41%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.34,
+          "ton": "clair",
+          "recouvre_sujet": 0.02
+        },
+        {
+          "cote": "haut",
+          "score": 0.23,
+          "ton": "clair",
+          "recouvre_sujet": 0.59
+        },
+        {
+          "cote": "bas",
+          "score": 0.16,
+          "ton": "moyen",
+          "recouvre_sujet": 0.43
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.85
+        }
+      ],
+      "qualite": {
+        "nettete": 72.7,
+        "bruit": 2.17,
+        "compression": 1.01,
+        "faible": true,
+        "raisons": [
+          "640 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "13272561e33b23b2",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "flexions-avant-2.jpg",
+      "nom": "flexions-avant-2",
+      "drapeau": "autre",
+      "largeur": 545,
+      "hauteur": 440,
+      "ratio": "5:4",
+      "ratio_valeur": 1.239,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 48656,
+      "transparence": false,
+      "sujet": {
+        "x": 17.6,
+        "y": 8.8,
+        "l": 44.1,
+        "h": 60.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        40,
+        39
+      ],
+      "cadrage_css": "40% 39%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.28,
+          "ton": "clair",
+          "recouvre_sujet": 0.03
+        },
+        {
+          "cote": "bas",
+          "score": 0.25,
+          "ton": "clair",
+          "recouvre_sujet": 0.05
+        },
+        {
+          "cote": "gauche",
+          "score": 0.16,
+          "ton": "clair",
+          "recouvre_sujet": 0.34
+        },
+        {
+          "cote": "haut",
+          "score": 0.13,
+          "ton": "clair",
+          "recouvre_sujet": 0.33
+        }
+      ],
+      "qualite": {
+        "nettete": 104.9,
+        "bruit": 1.12,
+        "compression": 1.03,
+        "faible": true,
+        "raisons": [
+          "545 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "document",
+        "a_verifier": true,
+        "texte": "Erector · spinae · Gluteus · maximus · Gastrocnemius · Erector · spinae · Hamstrings · Scalp · fascia · Sacrotuberous · ligament · Gastrocnemius · Achilles · te",
+        "blocs": 18,
+        "surface": 4.4,
+        "details": [
+          {
+            "texte": "Erector",
+            "niveau": "marque"
+          },
+          {
+            "texte": "spinae",
+            "niveau": "marque"
+          },
+          {
+            "texte": "Gluteus",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "maximus",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Gastrocnemius",
+            "niveau": "marque"
+          },
+          {
+            "texte": "Erector",
+            "niveau": "marque"
+          },
+          {
+            "texte": "spinae",
+            "niveau": "marque"
+          },
+          {
+            "texte": "Hamstrings",
+            "niveau": "marque"
+          },
+          {
+            "texte": "Scalp",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "fascia",
+            "niveau": "marque"
+          },
+          {
+            "texte": "Sacrotuberous",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ligament",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "07b7a9971d667575",
+      "drapeaux": [
+        "autre",
+        "petite",
+        "document lisible"
+      ]
+    },
+    {
+      "fichier": "sylvie-sabourin.jpg",
+      "nom": "sylvie-sabourin",
+      "drapeau": "autre",
+      "largeur": 2000,
+      "hauteur": 1500,
+      "ratio": "4:3",
+      "ratio_valeur": 1.333,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 681372,
+      "transparence": false,
+      "sujet": {
+        "x": 36.9,
+        "y": 21.7,
+        "l": 16.6,
+        "h": 62.4,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        46,
+        38
+      ],
+      "cadrage_css": "46% 38%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.64,
+          "ton": "sombre",
+          "recouvre_sujet": 0.09
+        },
+        {
+          "cote": "gauche",
+          "score": 0.32,
+          "ton": "sombre",
+          "recouvre_sujet": 0.05
+        },
+        {
+          "cote": "droite",
+          "score": 0.3,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "haut",
+          "score": 0.18,
+          "ton": "moyen",
+          "recouvre_sujet": 0.06
+        }
+      ],
+      "qualite": {
+        "nettete": 54.8,
+        "bruit": 1.66,
+        "compression": 1.13,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "dc7454ccdeb7efe6",
+      "drapeaux": [
+        "autre",
+        "visage"
+      ]
+    },
+    {
+      "fichier": "reveil-2.jpg",
+      "nom": "reveil-2",
+      "drapeau": "autre",
+      "largeur": 1920,
+      "hauteur": 1080,
+      "ratio": "16:9",
+      "ratio_valeur": 1.778,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 225667,
+      "transparence": false,
+      "sujet": {
+        "x": 20.1,
+        "y": 6.8,
+        "l": 74,
+        "h": 80.1,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        49,
+        45
+      ],
+      "cadrage_css": "49% 45%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.17,
+          "ton": "sombre",
+          "recouvre_sujet": 0.4
+        },
+        {
+          "cote": "haut",
+          "score": 0.17,
+          "ton": "sombre",
+          "recouvre_sujet": 0.6
+        },
+        {
+          "cote": "bas",
+          "score": 0.09,
+          "ton": "moyen",
+          "recouvre_sujet": 0.46
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.68
+        }
+      ],
+      "qualite": {
+        "nettete": 21.3,
+        "bruit": 0.57,
+        "compression": 1.47,
+        "faible": true,
+        "raisons": [
+          "compression visible"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "8c4cde36d1a38f38",
+      "drapeaux": [
+        "autre",
+        "compression visible"
+      ]
+    },
+    {
+      "fichier": "mandal-ame-2.jpg",
+      "nom": "mandal-ame-2",
+      "drapeau": "autre",
+      "largeur": 500,
+      "hauteur": 500,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "jpeg",
+      "poids": 47275,
+      "transparence": false,
+      "sujet": {
+        "x": 37.2,
+        "y": 30,
+        "l": 36.5,
+        "h": 39.5,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        51,
+        49
+      ],
+      "cadrage_css": "51% 49%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.71,
+          "ton": "sombre",
+          "recouvre_sujet": 0.03
+        },
+        {
+          "cote": "droite",
+          "score": 0.68,
+          "ton": "sombre",
+          "recouvre_sujet": 0.14
+        },
+        {
+          "cote": "bas",
+          "score": 0.68,
+          "ton": "moyen",
+          "recouvre_sujet": 0.05
+        },
+        {
+          "cote": "haut",
+          "score": 0.62,
+          "ton": "sombre",
+          "recouvre_sujet": 0.05
+        }
+      ],
+      "qualite": {
+        "nettete": 33.2,
+        "bruit": 0.28,
+        "compression": 0.99,
+        "faible": true,
+        "raisons": [
+          "500 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "Alexandra Dechezelle · Préfoce de Rosette Poletti · Mandal'âme · La créativité éphémère et sacrée · un toutes · Editions",
+        "blocs": 6,
+        "surface": 13.8,
+        "details": [
+          {
+            "texte": "Alexandra Dechezelle",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Préfoce de Rosette Poletti",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Mandal'âme",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "La créativité éphémère et sacrée",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "un toutes",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Editions",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "32d8dcbc2c0bc372",
+      "drapeaux": [
+        "autre",
+        "petite",
+        "texte décoratif",
+        "calme gauche/droite/bas"
+      ]
+    },
+    {
+      "fichier": "ajustements-assise.jpg",
+      "nom": "ajustements-assise",
+      "drapeau": "autre",
+      "largeur": 1280,
+      "hauteur": 720,
+      "ratio": "16:9",
+      "ratio_valeur": 1.778,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 83754,
+      "transparence": false,
+      "sujet": {
+        "x": 29.4,
+        "y": 17.8,
+        "l": 37.8,
+        "h": 79.4,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        48,
+        39
+      ],
+      "cadrage_css": "48% 39%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.42,
+          "ton": "moyen",
+          "recouvre_sujet": 0.21
+        },
+        {
+          "cote": "haut",
+          "score": 0.42,
+          "ton": "clair",
+          "recouvre_sujet": 0.19
+        },
+        {
+          "cote": "droite",
+          "score": 0.3,
+          "ton": "moyen",
+          "recouvre_sujet": 0.14
+        },
+        {
+          "cote": "bas",
+          "score": 0.11,
+          "ton": "moyen",
+          "recouvre_sujet": 0.35
+        }
+      ],
+      "qualite": {
+        "nettete": 16.9,
+        "bruit": 0.34,
+        "compression": 1.51,
+        "faible": true,
+        "raisons": [
+          "compression visible"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "b232787071341417",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "compression visible"
+      ]
+    },
+    {
+      "fichier": "ajustements-flexions-avant-position.jpg",
+      "nom": "ajustements-flexions-avant-position",
+      "drapeau": "autre",
+      "largeur": 1280,
+      "hauteur": 720,
+      "ratio": "16:9",
+      "ratio_valeur": 1.778,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 75764,
+      "transparence": false,
+      "sujet": {
+        "x": 32.2,
+        "y": 26.8,
+        "l": 46,
+        "h": 63.4,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        44,
+        44
+      ],
+      "cadrage_css": "44% 44%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.54,
+          "ton": "clair",
+          "recouvre_sujet": 0.11
+        },
+        {
+          "cote": "gauche",
+          "score": 0.45,
+          "ton": "moyen",
+          "recouvre_sujet": 0.12
+        },
+        {
+          "cote": "droite",
+          "score": 0.32,
+          "ton": "moyen",
+          "recouvre_sujet": 0.29
+        },
+        {
+          "cote": "bas",
+          "score": 0.23,
+          "ton": "moyen",
+          "recouvre_sujet": 0.33
+        }
+      ],
+      "qualite": {
+        "nettete": 13.4,
+        "bruit": 0.27,
+        "compression": 1.62,
+        "faible": true,
+        "raisons": [
+          "compression visible"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "9292387030644666",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "compression visible"
+      ]
+    },
+    {
+      "fichier": "alternatives-posture-chandelle-charrue.jpg",
+      "nom": "alternatives-posture-chandelle-charrue",
+      "drapeau": "autre",
+      "largeur": 1280,
+      "hauteur": 720,
+      "ratio": "16:9",
+      "ratio_valeur": 1.778,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 55011,
+      "transparence": false,
+      "sujet": {
+        "x": 41.3,
+        "y": 23.4,
+        "l": 19.2,
+        "h": 70.7,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        50,
+        43
+      ],
+      "cadrage_css": "50% 43%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.71,
+          "ton": "moyen",
+          "recouvre_sujet": 0.06
+        },
+        {
+          "cote": "gauche",
+          "score": 0.66,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.62,
+          "ton": "moyen",
+          "recouvre_sujet": 0.01
+        },
+        {
+          "cote": "bas",
+          "score": 0.6,
+          "ton": "sombre",
+          "recouvre_sujet": 0.16
+        }
+      ],
+      "qualite": {
+        "nettete": 18.7,
+        "bruit": 0.23,
+        "compression": 1.37,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "Posture de la chandelle & charruen · Alternatives",
+        "blocs": 2,
+        "surface": 16.2,
+        "details": [
+          {
+            "texte": "Posture de la chandelle & charruen",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Alternatives",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "1332797828281616",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "texte décoratif",
+        "calme haut/gauche"
+      ]
+    },
+    {
+      "fichier": "alignement-posture-montagne.jpg",
+      "nom": "alignement-posture-montagne",
+      "drapeau": "lieu",
+      "largeur": 1280,
+      "hauteur": 720,
+      "ratio": "16:9",
+      "ratio_valeur": 1.778,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 73045,
+      "transparence": false,
+      "sujet": {
+        "x": 20.4,
+        "y": 27.3,
+        "l": 55.8,
+        "h": 64.9,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        64,
+        59
+      ],
+      "cadrage_css": "64% 59%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.54,
+          "ton": "clair",
+          "recouvre_sujet": 0.12
+        },
+        {
+          "cote": "gauche",
+          "score": 0.35,
+          "ton": "moyen",
+          "recouvre_sujet": 0.32
+        },
+        {
+          "cote": "droite",
+          "score": 0.29,
+          "ton": "moyen",
+          "recouvre_sujet": 0.26
+        },
+        {
+          "cote": "bas",
+          "score": 0.2,
+          "ton": "moyen",
+          "recouvre_sujet": 0.43
+        }
+      ],
+      "qualite": {
+        "nettete": 11.8,
+        "bruit": 0.27,
+        "compression": 1.59,
+        "faible": true,
+        "raisons": [
+          "compression visible"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "921218181c2d2515",
+      "drapeaux": [
+        "lieu",
+        "visage",
+        "compression visible"
+      ]
+    },
+    {
+      "fichier": "ajustements-position-relaxation.jpg",
+      "nom": "ajustements-position-relaxation",
+      "drapeau": "autre",
+      "largeur": 480,
+      "hauteur": 360,
+      "ratio": "4:3",
+      "ratio_valeur": 1.333,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 9073,
+      "transparence": false,
+      "sujet": {
+        "x": 32.4,
+        "y": 31.4,
+        "l": 33.5,
+        "h": 49.7,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        50,
+        45
+      ],
+      "cadrage_css": "50% 45%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.53,
+          "ton": "sombre",
+          "recouvre_sujet": 0.09
+        },
+        {
+          "cote": "haut",
+          "score": 0.53,
+          "ton": "sombre",
+          "recouvre_sujet": 0.03
+        },
+        {
+          "cote": "bas",
+          "score": 0.53,
+          "ton": "sombre",
+          "recouvre_sujet": 0.15
+        },
+        {
+          "cote": "droite",
+          "score": 0.51,
+          "ton": "sombre",
+          "recouvre_sujet": 0.07
+        }
+      ],
+      "qualite": {
+        "nettete": 31.3,
+        "bruit": 0.37,
+        "compression": 1.61,
+        "faible": true,
+        "raisons": [
+          "480 px de large",
+          "compression visible"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "Ajustements de la position · de relaxation",
+        "blocs": 2,
+        "surface": 9.1,
+        "details": [
+          {
+            "texte": "Ajustements de la position",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "de relaxation",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "6d9333797157de20",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "petite",
+        "compression visible",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "ajustements-posture-enfant.jpg",
+      "nom": "ajustements-posture-enfant",
+      "drapeau": "autre",
+      "largeur": 480,
+      "hauteur": 360,
+      "ratio": "4:3",
+      "ratio_valeur": 1.333,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 10527,
+      "transparence": false,
+      "sujet": {
+        "x": 43.7,
+        "y": 27.4,
+        "l": 30.3,
+        "h": 52.9,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        50,
+        42
+      ],
+      "cadrage_css": "50% 42%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.46,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "haut",
+          "score": 0.4,
+          "ton": "moyen",
+          "recouvre_sujet": 0.07
+        },
+        {
+          "cote": "droite",
+          "score": 0.27,
+          "ton": "moyen",
+          "recouvre_sujet": 0.19
+        },
+        {
+          "cote": "bas",
+          "score": 0.27,
+          "ton": "sombre",
+          "recouvre_sujet": 0.13
+        }
+      ],
+      "qualite": {
+        "nettete": 31.7,
+        "bruit": 0.42,
+        "compression": 1.47,
+        "faible": true,
+        "raisons": [
+          "480 px de large",
+          "compression visible"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "6c922a7030444632",
+      "drapeaux": [
+        "autre",
+        "visage",
+        "petite",
+        "compression visible"
+      ]
+    },
+    {
+      "fichier": "ajustements-postures-chandelle-charrue.jpg",
+      "nom": "ajustements-postures-chandelle-charrue",
+      "drapeau": "lieu",
+      "largeur": 480,
+      "hauteur": 360,
+      "ratio": "4:3",
+      "ratio_valeur": 1.333,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 8758,
+      "transparence": false,
+      "sujet": {
+        "x": 45,
+        "y": 30.5,
+        "l": 24,
+        "h": 53.5,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        54,
+        45
+      ],
+      "cadrage_css": "54% 45%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.66,
+          "ton": "sombre",
+          "recouvre_sujet": 0.03
+        },
+        {
+          "cote": "bas",
+          "score": 0.65,
+          "ton": "sombre",
+          "recouvre_sujet": 0.13
+        },
+        {
+          "cote": "droite",
+          "score": 0.56,
+          "ton": "sombre",
+          "recouvre_sujet": 0.12
+        },
+        {
+          "cote": "gauche",
+          "score": 0.52,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        }
+      ],
+      "qualite": {
+        "nettete": 60.1,
+        "bruit": 0.3,
+        "compression": 1.2,
+        "faible": true,
+        "raisons": [
+          "480 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "Postures de la chandelle & charrue · Ajustements",
+        "blocs": 2,
+        "surface": 10.1,
+        "details": [
+          {
+            "texte": "Postures de la chandelle & charrue",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Ajustements",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "0412717828061608",
+      "drapeaux": [
+        "lieu",
+        "visage",
+        "petite",
+        "texte décoratif",
+        "calme haut/bas"
+      ]
+    },
+    {
+      "fichier": "posture-poisson-ajustements-alternatives.jpg",
+      "nom": "posture-poisson-ajustements-alternatives",
+      "drapeau": "plat",
+      "largeur": 480,
+      "hauteur": 360,
+      "ratio": "4:3",
+      "ratio_valeur": 1.333,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 9869,
+      "transparence": false,
+      "sujet": {
+        "x": 37.4,
+        "y": 30.5,
+        "l": 50.8,
+        "h": 53.6,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        52,
+        46
+      ],
+      "cadrage_css": "52% 46%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.43,
+          "ton": "moyen",
+          "recouvre_sujet": 0.03
+        },
+        {
+          "cote": "haut",
+          "score": 0.39,
+          "ton": "moyen",
+          "recouvre_sujet": 0.07
+        },
+        {
+          "cote": "bas",
+          "score": 0.3,
+          "ton": "sombre",
+          "recouvre_sujet": 0.28
+        },
+        {
+          "cote": "droite",
+          "score": 0.28,
+          "ton": "sombre",
+          "recouvre_sujet": 0.38
+        }
+      ],
+      "qualite": {
+        "nettete": 31.8,
+        "bruit": 0.37,
+        "compression": 1.49,
+        "faible": true,
+        "raisons": [
+          "480 px de large",
+          "compression visible"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "849330682c662319",
+      "drapeaux": [
+        "plat",
+        "visage",
+        "petite",
+        "compression visible"
+      ]
+    },
+    {
+      "fichier": "technique-4-massage-croise.jpg",
+      "nom": "technique-4-massage-croise",
+      "drapeau": "autre",
+      "largeur": 1280,
+      "hauteur": 720,
+      "ratio": "16:9",
+      "ratio_valeur": 1.778,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 8989,
+      "transparence": false,
+      "sujet": {
+        "x": 36.8,
+        "y": 26.5,
+        "l": 25,
+        "h": 27.9,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        49,
+        40
+      ],
+      "cadrage_css": "49% 40%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.99,
+          "ton": "sombre",
+          "recouvre_sujet": 0.01
+        },
+        {
+          "cote": "bas",
+          "score": 0.99,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.98,
+          "ton": "sombre",
+          "recouvre_sujet": 0.02
+        },
+        {
+          "cote": "haut",
+          "score": 0.97,
+          "ton": "sombre",
+          "recouvre_sujet": 0.06
+        }
+      ],
+      "qualite": {
+        "nettete": 2.3,
+        "bruit": 0,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "floue"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "0000000000000000",
+      "drapeaux": [
+        "autre",
+        "floue",
+        "calme droite/bas/gauche/haut"
+      ]
+    }
+  ]
+}

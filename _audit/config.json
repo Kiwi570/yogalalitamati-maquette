@@ -1,0 +1,6 @@
+{
+  "siteActuel": "www.yogalalitamati.com",
+  "pagesTypes": ["/", "/activites", "/approches", "/methode-tre", "/a-propos", "/contact"],
+  "effets": ["lotus", "relachement", "vagues-tre", "balles", "lieux", "compte-jours", "chiffre-sept", "temps", "frise", "livres", "temoignages-vague", "balle-gestes", "lotus-fin", "vapeur", "bandeau-ouverture"],
+  "grille": { "dispenses": {} }
+}

@@ -1,0 +1,2006 @@
+{
+  "logo-lotus": {
+    "nom": "logo-lotus",
+    "source": "recu/retrouver-pouvoir-sante-3.png",
+    "role": "logo",
+    "alt": "Lalita Mati",
+    "grok": false,
+    "mention": null,
+    "beaute": null,
+    "empreinte": "ce41359324f41a77",
+    "ratio": null,
+    "largeurs": [
+      240,
+      480
+    ],
+    "mobile": null,
+    "cadrage": null,
+    "sujet": null,
+    "zones_calmes": null,
+    "zone_texte": null,
+    "recadrage": null,
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "logo-lotus-240.webp",
+      "logo-lotus-480.webp"
+    ],
+    "poids": {
+      "logo-lotus-240.webp": 22528,
+      "logo-lotus-480.webp": 55772
+    },
+    "media": "c.media({ nom: 'logo-lotus', alt: \"Lalita Mati\", sizes: '240px' })"
+  },
+  "grok/accueil-ouverture": {
+    "nom": "grok/accueil-ouverture",
+    "source": "recu/grok/approches-ouverture-mobile.jpg",
+    "role": "ouverture",
+    "alt": "Vu de haut : un tapis, une couverture, un coussin et des balles d'automassage lilas, turquoise et vertes sur un plancher clair",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 5,
+    "empreinte": "8ceac3de5d30f349",
+    "ratio": "4:5",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "4:5",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "45% 50%"
+    },
+    "cadrage": "45% 50%",
+    "sujet": {
+      "x": 4.5,
+      "y": 3.3,
+      "l": 72.7,
+      "h": 82
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.62,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.57,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.52,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.47,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 311,
+      "width": 1300,
+      "height": 1625,
+      "source": [
+        1300,
+        1937
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,48 fois (source de 1300 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/accueil-ouverture-640.webp",
+      "grok/accueil-ouverture-1280.webp",
+      "grok/accueil-ouverture-1920.webp",
+      "grok/accueil-ouverture-mobile-640.webp",
+      "grok/accueil-ouverture-mobile-1080.webp"
+    ],
+    "poids": {
+      "grok/accueil-ouverture-640.webp": 33526,
+      "grok/accueil-ouverture-1280.webp": 118640,
+      "grok/accueil-ouverture-1920.webp": 193978,
+      "grok/accueil-ouverture-mobile-640.webp": 33388,
+      "grok/accueil-ouverture-mobile-1080.webp": 90514
+    },
+    "media": "c.media({ nom: 'grok/accueil-ouverture', alt: \"Vu de haut : un tapis, une couverture, un coussin et des balles d'automassage lilas, turquoise et vertes sur un plancher clair\", cadrage: '45% 50%', cadrageMobile: '45% 50%', sizes: '100vw', priorite: true })"
+  },
+  "grok/activites-ouverture": {
+    "nom": "grok/activites-ouverture",
+    "source": "recu/grok/activites-ouverture.jpg",
+    "role": "ouverture",
+    "alt": "Une salle de yoga prête pour un cours de groupe, tapis et couvertures, neige derrière la fenêtre",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 5,
+    "empreinte": "f86796c66e962095",
+    "ratio": "16:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "4:3",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "55% 51%"
+    },
+    "cadrage": "60% 50%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 100,
+      "h": 100
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.35,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.34,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.15,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.03,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 98,
+      "width": 1600,
+      "height": 900,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,2 fois (source de 1600 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/activites-ouverture-640.webp",
+      "grok/activites-ouverture-1280.webp",
+      "grok/activites-ouverture-1920.webp",
+      "grok/activites-ouverture-mobile-640.webp",
+      "grok/activites-ouverture-mobile-1080.webp"
+    ],
+    "poids": {
+      "grok/activites-ouverture-640.webp": 23520,
+      "grok/activites-ouverture-1280.webp": 64854,
+      "grok/activites-ouverture-1920.webp": 106416,
+      "grok/activites-ouverture-mobile-640.webp": 27164,
+      "grok/activites-ouverture-mobile-1080.webp": 59336
+    },
+    "media": "c.media({ nom: 'grok/activites-ouverture', alt: \"Une salle de yoga prête pour un cours de groupe, tapis et couvertures, neige derrière la fenêtre\", cadrage: '60% 50%', cadrageMobile: '55% 51%', sizes: '100vw', priorite: true })"
+  },
+  "grok/approches-ouverture": {
+    "nom": "grok/approches-ouverture",
+    "source": "recu/grok/approches-ouverture.jpg",
+    "role": "ouverture",
+    "alt": "Vu de haut : un tapis, une couverture, un coussin et des balles d'automassage colorées sur un plancher clair",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "a3f12e8e8c75a24f",
+    "ratio": "16:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "4:5",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "50% 47%"
+    },
+    "cadrage": "53% 50%",
+    "sujet": {
+      "x": 3.1,
+      "y": 15.6,
+      "l": 78.1,
+      "h": 81.4
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.58,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.57,
+        "ton": "clair"
+      },
+      {
+        "cote": "haut",
+        "score": 0.55,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.54,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": "gauche",
+    "recadrage": {
+      "left": 0,
+      "top": 55,
+      "width": 1600,
+      "height": 900,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,2 fois (source de 1600 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/approches-ouverture-640.webp",
+      "grok/approches-ouverture-1280.webp",
+      "grok/approches-ouverture-1920.webp",
+      "grok/approches-ouverture-mobile-640.webp",
+      "grok/approches-ouverture-mobile-1080.webp"
+    ],
+    "poids": {
+      "grok/approches-ouverture-640.webp": 14692,
+      "grok/approches-ouverture-1280.webp": 58258,
+      "grok/approches-ouverture-1920.webp": 107078,
+      "grok/approches-ouverture-mobile-640.webp": 36198,
+      "grok/approches-ouverture-mobile-1080.webp": 80872
+    },
+    "media": "c.media({ nom: 'grok/approches-ouverture', alt: \"Vu de haut : un tapis, une couverture, un coussin et des balles d'automassage colorées sur un plancher clair\", cadrage: '53% 50%', cadrageMobile: '50% 47%', sizes: '100vw', priorite: true })"
+  },
+  "grok/tre-ouverture": {
+    "nom": "grok/tre-ouverture",
+    "source": "recu/grok/tre-ouverture.jpg",
+    "role": "ouverture",
+    "alt": "Des ondes qui s'élargissent doucement sur une eau calme, à l'aube",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "0547defe00a35ab4",
+    "ratio": "4:5",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "4:5",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "55% 42%"
+    },
+    "cadrage": "55% 50%",
+    "sujet": {
+      "x": 4.5,
+      "y": 0,
+      "l": 90.9,
+      "h": 100
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.56,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.53,
+        "ton": "clair"
+      },
+      {
+        "cote": "haut",
+        "score": 0.53,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.49,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 117,
+      "width": 1300,
+      "height": 1625,
+      "source": [
+        1300,
+        1937
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "floue"
+    ],
+    "avertissements": [
+      "agrandie 1,48 fois (source de 1300 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/tre-ouverture-640.webp",
+      "grok/tre-ouverture-1280.webp",
+      "grok/tre-ouverture-1920.webp",
+      "grok/tre-ouverture-mobile-640.webp",
+      "grok/tre-ouverture-mobile-1080.webp"
+    ],
+    "poids": {
+      "grok/tre-ouverture-640.webp": 9844,
+      "grok/tre-ouverture-1280.webp": 24928,
+      "grok/tre-ouverture-1920.webp": 46040,
+      "grok/tre-ouverture-mobile-640.webp": 9848,
+      "grok/tre-ouverture-mobile-1080.webp": 20338
+    },
+    "media": "c.media({ nom: 'grok/tre-ouverture', alt: \"Des ondes qui s'élargissent doucement sur une eau calme, à l'aube\", cadrage: '55% 50%', cadrageMobile: '55% 42%', sizes: '100vw', priorite: true })"
+  },
+  "grok/contact-ouverture": {
+    "nom": "grok/contact-ouverture",
+    "source": "recu/grok/contact-ouverture.jpg",
+    "role": "ouverture",
+    "alt": "Une tasse de tisane sur le rebord d'une fenêtre, la neige dehors",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "37495c6fd86b5b8b",
+    "ratio": "4:5",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "4:5",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "46% 80%"
+    },
+    "cadrage": "46% 80%",
+    "sujet": {
+      "x": 0,
+      "y": 44.1,
+      "l": 95.5,
+      "h": 55.9
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.71,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.3,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.28,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.02,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 312,
+      "width": 1300,
+      "height": 1625,
+      "source": [
+        1300,
+        1937
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,48 fois (source de 1300 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/contact-ouverture-640.webp",
+      "grok/contact-ouverture-1280.webp",
+      "grok/contact-ouverture-1920.webp",
+      "grok/contact-ouverture-mobile-640.webp",
+      "grok/contact-ouverture-mobile-1080.webp"
+    ],
+    "poids": {
+      "grok/contact-ouverture-640.webp": 39170,
+      "grok/contact-ouverture-1280.webp": 94208,
+      "grok/contact-ouverture-1920.webp": 151144,
+      "grok/contact-ouverture-mobile-640.webp": 39170,
+      "grok/contact-ouverture-mobile-1080.webp": 77062
+    },
+    "media": "c.media({ nom: 'grok/contact-ouverture', alt: \"Une tasse de tisane sur le rebord d'une fenêtre, la neige dehors\", cadrage: '46% 80%', cadrageMobile: '46% 80%', sizes: '100vw', priorite: true })"
+  },
+  "grok/page-404": {
+    "nom": "grok/page-404",
+    "source": "recu/grok/page-404.jpg",
+    "role": "section-fond",
+    "alt": "Un tapis vide et une balle verte qui roule vers le bord",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "4286f9266b7d2173",
+    "ratio": "16:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "4:5",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "35% 55%"
+    },
+    "cadrage": "19% 66%",
+    "sujet": {
+      "x": 0,
+      "y": 5.4,
+      "l": 78.1,
+      "h": 94.6
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.7,
+        "ton": "clair"
+      },
+      {
+        "cote": "haut",
+        "score": 0.54,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.47,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.2,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": "haut",
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,2 fois (source de 1600 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/page-404-640.webp",
+      "grok/page-404-1280.webp",
+      "grok/page-404-1920.webp",
+      "grok/page-404-mobile-640.webp",
+      "grok/page-404-mobile-1080.webp"
+    ],
+    "poids": {
+      "grok/page-404-640.webp": 11270,
+      "grok/page-404-1280.webp": 29674,
+      "grok/page-404-1920.webp": 51796,
+      "grok/page-404-mobile-640.webp": 26504,
+      "grok/page-404-mobile-1080.webp": 53050
+    },
+    "media": "c.media({ nom: 'grok/page-404', alt: \"Un tapis vide et une balle verte qui roule vers le bord\", cadrage: '19% 66%', cadrageMobile: '35% 55%', sizes: '100vw' })"
+  },
+  "grok/approche-yoga-doux": {
+    "nom": "grok/approche-yoga-doux",
+    "source": "recu/grok/approche-yoga-doux.jpg",
+    "role": "galerie",
+    "alt": "De dos, une personne assise en tailleur face à une fenêtre enneigée",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "fdcab56488785f7c",
+    "ratio": "4:5",
+    "largeurs": [
+      1024,
+      1168,
+      1600
+    ],
+    "mobile": null,
+    "cadrage": "47% 52%",
+    "sujet": {
+      "x": 0,
+      "y": 29.2,
+      "l": 90.9,
+      "h": 48.4
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.6,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.43,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.38,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.34,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 312,
+      "width": 1300,
+      "height": 1625,
+      "source": [
+        1300,
+        1937
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,23 fois (source de 1300 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/approche-yoga-doux-1024.webp",
+      "grok/approche-yoga-doux-1168.webp",
+      "grok/approche-yoga-doux-1600.webp"
+    ],
+    "poids": {
+      "grok/approche-yoga-doux-1024.webp": 85394,
+      "grok/approche-yoga-doux-1168.webp": 102598,
+      "grok/approche-yoga-doux-1600.webp": 144982
+    },
+    "media": "c.media({ nom: 'grok/approche-yoga-doux', alt: \"De dos, une personne assise en tailleur face à une fenêtre enneigée\", cadrage: '47% 52%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 5' })"
+  },
+  "grok/approche-accompagnement": {
+    "nom": "grok/approche-accompagnement",
+    "source": "recu/grok/approche-accompagnement.jpg",
+    "role": "galerie",
+    "alt": "Une petite salle calme pour les séances individuelles, un matelas, une couverture, un verre d'eau",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "7fc82685226ccbd2",
+    "ratio": "4:5",
+    "largeurs": [
+      1024,
+      1168,
+      1600
+    ],
+    "mobile": null,
+    "cadrage": "43% 50%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 95.5,
+      "h": 97.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.34,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.28,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.18,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 175,
+      "width": 1300,
+      "height": 1625,
+      "source": [
+        1300,
+        1937
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,23 fois (source de 1300 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/approche-accompagnement-1024.webp",
+      "grok/approche-accompagnement-1168.webp",
+      "grok/approche-accompagnement-1600.webp"
+    ],
+    "poids": {
+      "grok/approche-accompagnement-1024.webp": 71544,
+      "grok/approche-accompagnement-1168.webp": 84550,
+      "grok/approche-accompagnement-1600.webp": 123182
+    },
+    "media": "c.media({ nom: 'grok/approche-accompagnement', alt: \"Une petite salle calme pour les séances individuelles, un matelas, une couverture, un verre d'eau\", cadrage: '43% 50%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 5' })"
+  },
+  "grok/formats-prive": {
+    "nom": "grok/formats-prive",
+    "source": "recu/grok/formats-prive.jpg",
+    "role": "carte-service",
+    "alt": "Deux coussins face à face sur un tapis, prêts pour une séance privée",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "8742752638dcca44",
+    "ratio": "16:10",
+    "largeurs": [
+      1168
+    ],
+    "mobile": null,
+    "cadrage": "44% 52%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 100,
+      "h": 92.8
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.34,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.31,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.26,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.19,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 1000,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/formats-prive-1168.webp"
+    ],
+    "poids": {
+      "grok/formats-prive-1168.webp": 38264
+    },
+    "media": "c.media({ nom: 'grok/formats-prive', alt: \"Deux coussins face à face sur un tapis, prêts pour une séance privée\", cadrage: '44% 52%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '16 / 10' })"
+  },
+  "grok/formats-entreprises": {
+    "nom": "grok/formats-entreprises",
+    "source": "recu/grok/formats-entreprises.jpg",
+    "role": "carte-service",
+    "alt": "Une salle de réunion transformée : la table poussée, des tapis au sol",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "444e51e748686682",
+    "ratio": "16:10",
+    "largeurs": [
+      1168
+    ],
+    "mobile": null,
+    "cadrage": "54% 45%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 100,
+      "h": 100
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.2,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.12,
+        "ton": "clair"
+      },
+      {
+        "cote": "haut",
+        "score": 0.12,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.03,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 1000,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/formats-entreprises-1168.webp"
+    ],
+    "poids": {
+      "grok/formats-entreprises-1168.webp": 54240
+    },
+    "media": "c.media({ nom: 'grok/formats-entreprises', alt: \"Une salle de réunion transformée : la table poussée, des tapis au sol\", cadrage: '54% 45%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '16 / 10' })"
+  },
+  "grok/lieux-estrie": {
+    "nom": "grok/lieux-estrie",
+    "source": "recu/grok/lieux-estrie.jpg",
+    "role": "section-fond",
+    "alt": "Collines enneigées, forêt d'épinettes et de bouleaux, petit lac gelé",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 5,
+    "empreinte": "952a84fe50fb461d",
+    "ratio": "16:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "4:5",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "50% 60%"
+    },
+    "cadrage": "59% 55%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 100,
+      "h": 97.6
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.7,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.24,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.14,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.03,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 146,
+      "width": 1600,
+      "height": 900,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,2 fois (source de 1600 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/lieux-estrie-640.webp",
+      "grok/lieux-estrie-1280.webp",
+      "grok/lieux-estrie-1920.webp",
+      "grok/lieux-estrie-mobile-640.webp",
+      "grok/lieux-estrie-mobile-1080.webp"
+    ],
+    "poids": {
+      "grok/lieux-estrie-640.webp": 31416,
+      "grok/lieux-estrie-1280.webp": 86064,
+      "grok/lieux-estrie-1920.webp": 137654,
+      "grok/lieux-estrie-mobile-640.webp": 45460,
+      "grok/lieux-estrie-mobile-1080.webp": 82442
+    },
+    "media": "c.media({ nom: 'grok/lieux-estrie', alt: \"Collines enneigées, forêt d'épinettes et de bouleaux, petit lac gelé\", cadrage: '59% 55%', cadrageMobile: '50% 60%', sizes: '100vw' })"
+  },
+  "grok/activites-pause": {
+    "nom": "grok/activites-pause",
+    "source": "recu/grok/activites-pause.jpg",
+    "role": "carte-service",
+    "alt": "Un cercle de tapis et de couvertures dans une salle de bois, la forêt enneigée derrière",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 5,
+    "empreinte": "99b97e2c186fb190",
+    "ratio": "16:10",
+    "largeurs": [
+      1168
+    ],
+    "mobile": null,
+    "cadrage": "51% 41%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 100,
+      "h": 100
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.19,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 1000,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/activites-pause-1168.webp"
+    ],
+    "poids": {
+      "grok/activites-pause-1168.webp": 74260
+    },
+    "media": "c.media({ nom: 'grok/activites-pause', alt: \"Un cercle de tapis et de couvertures dans une salle de bois, la forêt enneigée derrière\", cadrage: '51% 41%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '16 / 10' })"
+  },
+  "isabelle-portrait": {
+    "nom": "isabelle-portrait",
+    "source": "recu/retrouver-pouvoir-sante-12.jpg",
+    "role": "portrait",
+    "alt": "Isabelle Cloutier, souriante, en veste noire",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "d3def115f9c02aff",
+    "ratio": "4:5",
+    "largeurs": [
+      480,
+      800
+    ],
+    "mobile": null,
+    "cadrage": "52% 32%",
+    "sujet": {
+      "x": 21.1,
+      "y": 3.8,
+      "l": 62.7,
+      "h": 53.7
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.6,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.57,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.44,
+        "ton": "sombre"
+      },
+      {
+        "cote": "haut",
+        "score": 0.41,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 900,
+      "height": 1125,
+      "source": [
+        900,
+        1200
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "900 px de large"
+    ],
+    "avertissements": [],
+    "fichiers": [
+      "isabelle-portrait-480.webp",
+      "isabelle-portrait-800.webp"
+    ],
+    "poids": {
+      "isabelle-portrait-480.webp": 23076,
+      "isabelle-portrait-800.webp": 54766
+    },
+    "media": "c.media({ nom: 'isabelle-portrait', alt: \"Isabelle Cloutier, souriante, en veste noire\", cadrage: '52% 32%', sizes: '(max-width: 760px) 100vw, 40vw', ratio: '4 / 5' })"
+  },
+  "balles-soleil": {
+    "nom": "balles-soleil",
+    "source": "recu/yoga-introduction-tutoriels.jpg",
+    "role": "galerie",
+    "alt": "Des balles d'automassage lilas, turquoise et vertes au soleil sur un plancher",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "2f9ef8c48dd7a45a",
+    "ratio": "4:5",
+    "largeurs": [
+      1024,
+      1168
+    ],
+    "mobile": null,
+    "cadrage": "50% 60%",
+    "sujet": {
+      "x": 0,
+      "y": 18.6,
+      "l": 100,
+      "h": 72.8
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.31,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.2,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0.13,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.05,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 430,
+      "top": 0,
+      "width": 900,
+      "height": 1125,
+      "source": [
+        2000,
+        1125
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "largeurs retirées (source trop petite) : 1600",
+      "compression visible"
+    ],
+    "avertissements": [
+      "agrandie 1,3 fois (source de 900 px après recadrage)",
+      "recadrage fort (45 % de l'image gardée) sur une image qui contient du texte (marque) : texte coupé probable, choisir un autre rôle ou une autre image"
+    ],
+    "fichiers": [
+      "balles-soleil-1024.webp",
+      "balles-soleil-1168.webp"
+    ],
+    "poids": {
+      "balles-soleil-1024.webp": 43638,
+      "balles-soleil-1168.webp": 52138
+    },
+    "media": "c.media({ nom: 'balles-soleil', alt: \"Des balles d'automassage lilas, turquoise et vertes au soleil sur un plancher\", cadrage: '50% 60%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 5' })"
+  },
+  "balles-pied": {
+    "nom": "balles-pied",
+    "source": "recu/pleine-conscience-meditations-audios.jpg",
+    "role": "vignette",
+    "alt": "Un pied qui roule une petite balle verte, d'autres balles autour",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "b9e4ff571316feac",
+    "ratio": "4:3",
+    "largeurs": [
+      640,
+      800
+    ],
+    "mobile": null,
+    "cadrage": "50% 70%",
+    "sujet": {
+      "x": 10.5,
+      "y": 0.6,
+      "l": 73.4,
+      "h": 90.7
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.52,
+        "ton": "clair"
+      },
+      {
+        "cote": "haut",
+        "score": 0.46,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.38,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.26,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 372,
+      "top": 0,
+      "width": 1092,
+      "height": 819,
+      "source": [
+        1835,
+        819
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "balles-pied-640.webp",
+      "balles-pied-800.webp"
+    ],
+    "poids": {
+      "balles-pied-640.webp": 20158,
+      "balles-pied-800.webp": 34968
+    },
+    "media": "c.media({ nom: 'balles-pied', alt: \"Un pied qui roule une petite balle verte, d'autres balles autour\", cadrage: '50% 70%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '4 / 3' })"
+  },
+  "balle-nuque": {
+    "nom": "balle-nuque",
+    "source": "recu/retrouver-pouvoir-sante.jpg",
+    "role": "vignette",
+    "alt": "De dos, une personne allongée relâche la nuque sur un ballon mou",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "29de167baea7c39b",
+    "ratio": "4:3",
+    "largeurs": [
+      640,
+      800
+    ],
+    "mobile": null,
+    "cadrage": "51% 50%",
+    "sujet": {
+      "x": 17.4,
+      "y": 0.8,
+      "l": 67.9,
+      "h": 99.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.45,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.35,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.34,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.3,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 8,
+      "width": 2000,
+      "height": 1500,
+      "source": [
+        2000,
+        1684
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "balle-nuque-640.webp",
+      "balle-nuque-800.webp"
+    ],
+    "poids": {
+      "balle-nuque-640.webp": 18376,
+      "balle-nuque-800.webp": 25064
+    },
+    "media": "c.media({ nom: 'balle-nuque', alt: \"De dos, une personne allongée relâche la nuque sur un ballon mou\", cadrage: '51% 50%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '4 / 3' })"
+  },
+  "tre-position": {
+    "nom": "tre-position",
+    "source": "recu/atelier-introduction-methode-tre.jpg",
+    "role": "galerie",
+    "alt": "Allongée, genoux pliés, une personne pratique un exercice de TRE",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "a0c4f8879954d9c5",
+    "ratio": "4:5",
+    "largeurs": [
+      1024,
+      1168
+    ],
+    "mobile": null,
+    "cadrage": "50% 50%",
+    "sujet": {
+      "x": 24.6,
+      "y": 27.9,
+      "l": 49.3,
+      "h": 36.8
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.75,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.63,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.51,
+        "ton": "sombre"
+      },
+      {
+        "cote": "bas",
+        "score": 0.22,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 642,
+      "top": 0,
+      "width": 833,
+      "height": 1041,
+      "source": [
+        1857,
+        1041
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "largeurs retirées (source trop petite) : 1600"
+    ],
+    "avertissements": [
+      "agrandie 1,4 fois (source de 833 px après recadrage)",
+      "recadrage fort : 45 % de l'image gardée"
+    ],
+    "fichiers": [
+      "tre-position-1024.webp",
+      "tre-position-1168.webp"
+    ],
+    "poids": {
+      "tre-position-1024.webp": 52536,
+      "tre-position-1168.webp": 62098
+    },
+    "media": "c.media({ nom: 'tre-position', alt: \"Allongée, genoux pliés, une personne pratique un exercice de TRE\", sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 5' })"
+  },
+  "tre-genoux": {
+    "nom": "tre-genoux",
+    "source": "recu/retrouver-pouvoir-sante-14.jpg",
+    "role": "vignette",
+    "alt": "Genoux pliés sur un tapis, le corps au repos",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "f9ca878e632fa82a",
+    "ratio": "4:3",
+    "largeurs": [
+      640,
+      800
+    ],
+    "mobile": null,
+    "cadrage": "50% 45%",
+    "sujet": {
+      "x": 34.3,
+      "y": 26.5,
+      "l": 32.6,
+      "h": 32.4
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.75,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.64,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.47,
+        "ton": "sombre"
+      },
+      {
+        "cote": "bas",
+        "score": 0.2,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 122,
+      "top": 0,
+      "width": 1357,
+      "height": 1018,
+      "source": [
+        2000,
+        1018
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "compression visible"
+    ],
+    "avertissements": [],
+    "fichiers": [
+      "tre-genoux-640.webp",
+      "tre-genoux-800.webp"
+    ],
+    "poids": {
+      "tre-genoux-640.webp": 11204,
+      "tre-genoux-800.webp": 16754
+    },
+    "media": "c.media({ nom: 'tre-genoux', alt: \"Genoux pliés sur un tapis, le corps au repos\", cadrage: '50% 45%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '4 / 3' })"
+  },
+  "en-ligne": {
+    "nom": "en-ligne",
+    "source": "recu/studio-virtuel-yoga.jpg",
+    "role": "carte-service",
+    "alt": "Un ordinateur portable ouvert sur un cours de yoga, posé sur un tapis",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "caf2cfee9b0c581b",
+    "ratio": "16:10",
+    "largeurs": [
+      1168
+    ],
+    "mobile": null,
+    "cadrage": "55% 50%",
+    "sujet": {
+      "x": 26.1,
+      "y": 21.6,
+      "l": 61.4,
+      "h": 68.3
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.55,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.4,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.35,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.31,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 37,
+      "width": 2000,
+      "height": 1250,
+      "source": [
+        2000,
+        1470
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "en-ligne-1168.webp"
+    ],
+    "poids": {
+      "en-ligne-1168.webp": 84502
+    },
+    "media": "c.media({ nom: 'en-ligne', alt: \"Un ordinateur portable ouvert sur un cours de yoga, posé sur un tapis\", cadrage: '55% 50%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '16 / 10' })"
+  },
+  "groupe-sol": {
+    "nom": "groupe-sol",
+    "source": "recu/retrouver-pouvoir-sante-4.jpg",
+    "role": "carte-service",
+    "alt": "Un petit groupe allongé sur des tapis, en mouvement lent, avec Isabelle",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "9242e8a7eca547f9",
+    "ratio": "16:10",
+    "largeurs": [
+      1168
+    ],
+    "mobile": null,
+    "cadrage": "53% 48%",
+    "sujet": {
+      "x": 5.1,
+      "y": 0,
+      "l": 94.9,
+      "h": 100
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "sombre"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 933,
+      "height": 583,
+      "source": [
+        933,
+        622
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "933 px de large"
+    ],
+    "avertissements": [
+      "agrandie 1,25 fois (source de 933 px après recadrage)"
+    ],
+    "fichiers": [
+      "groupe-sol-1168.webp"
+    ],
+    "poids": {
+      "groupe-sol-1168.webp": 54464
+    },
+    "media": "c.media({ nom: 'groupe-sol', alt: \"Un petit groupe allongé sur des tapis, en mouvement lent, avec Isabelle\", cadrage: '53% 48%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '16 / 10' })"
+  },
+  "groupe-arbre": {
+    "nom": "groupe-arbre",
+    "source": "recu/retrouver-pouvoir-sante-5.jpg",
+    "role": "vignette",
+    "alt": "Un groupe debout dans la posture de l'arbre",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "a142060d88d75d21",
+    "ratio": "4:3",
+    "largeurs": [
+      640,
+      800
+    ],
+    "mobile": null,
+    "cadrage": "50% 40%",
+    "sujet": {
+      "x": 0,
+      "y": 1.3,
+      "l": 100,
+      "h": 98.7
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.13,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 98,
+      "top": 0,
+      "width": 789,
+      "height": 592,
+      "source": [
+        930,
+        592
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "930 px de large"
+    ],
+    "avertissements": [],
+    "fichiers": [
+      "groupe-arbre-640.webp",
+      "groupe-arbre-800.webp"
+    ],
+    "poids": {
+      "groupe-arbre-640.webp": 25680,
+      "groupe-arbre-800.webp": 31946
+    },
+    "media": "c.media({ nom: 'groupe-arbre', alt: \"Un groupe debout dans la posture de l'arbre\", cadrage: '50% 40%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '4 / 3' })"
+  },
+  "lac-matin": {
+    "nom": "lac-matin",
+    "source": "recu/retrouver-pouvoir-sante-13.jpg",
+    "role": "carte-service",
+    "alt": "Une personne médite sur un quai, au bord d'un lac dans la brume du matin",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "0a7b7aedbe96b660",
+    "ratio": "16:10",
+    "largeurs": [
+      1168
+    ],
+    "mobile": null,
+    "cadrage": "30% 50%",
+    "sujet": {
+      "x": 13.6,
+      "y": 28.3,
+      "l": 21.3,
+      "h": 47.3
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.35,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.21,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.2,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.17,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 21,
+      "width": 960,
+      "height": 600,
+      "source": [
+        960,
+        642
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "960 px de large"
+    ],
+    "avertissements": [
+      "agrandie 1,22 fois (source de 960 px après recadrage)"
+    ],
+    "fichiers": [
+      "lac-matin-1168.webp"
+    ],
+    "poids": {
+      "lac-matin-1168.webp": 106348
+    },
+    "media": "c.media({ nom: 'lac-matin', alt: \"Une personne médite sur un quai, au bord d'un lac dans la brume du matin\", cadrage: '30% 50%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '16 / 10' })"
+  },
+  "berceli": {
+    "nom": "berceli",
+    "source": "recu/retrouver-pouvoir-sante-15.jpg",
+    "role": "vignette",
+    "alt": "Dr David Berceli, créateur de la méthode TRE",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "5c2b01d89ccc63d2",
+    "ratio": "1:1",
+    "largeurs": [
+      640
+    ],
+    "mobile": null,
+    "cadrage": "46% 55%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 100,
+      "h": 100
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.21,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.16,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.14,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.13,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 470,
+      "height": 470,
+      "source": [
+        470,
+        470
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "largeurs retirées (source trop petite) : 800",
+      "470 px de large",
+      "compression visible"
+    ],
+    "avertissements": [
+      "agrandie 1,36 fois (source de 470 px après recadrage)"
+    ],
+    "fichiers": [
+      "berceli-640.webp"
+    ],
+    "poids": {
+      "berceli-640.webp": 16700
+    },
+    "media": "c.media({ nom: 'berceli', alt: \"Dr David Berceli, créateur de la méthode TRE\", cadrage: '46% 55%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '1 / 1' })"
+  },
+  "livre-bien-etre": {
+    "nom": "livre-bien-etre",
+    "source": "recu/hatha-yoga-11-seances.png",
+    "role": "produit",
+    "alt": "Couverture du livre Le yoga bien-être, d'Isabelle Cloutier",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "69314b4b672a3e82",
+    "ratio": "4:5",
+    "largeurs": [
+      782
+    ],
+    "mobile": null,
+    "cadrage": "50% 45%",
+    "sujet": {
+      "x": 15.7,
+      "y": 12.1,
+      "l": 75.6,
+      "h": 73.8
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.51,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.41,
+        "ton": "clair"
+      },
+      {
+        "cote": "haut",
+        "score": 0.38,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.35,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 148,
+      "top": 0,
+      "width": 521,
+      "height": 651,
+      "source": [
+        817,
+        651
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "largeurs retirées (source trop petite) : 800, 1600",
+      "817 px de large"
+    ],
+    "avertissements": [
+      "agrandie 1,5 fois (source de 521 px après recadrage)"
+    ],
+    "fichiers": [
+      "livre-bien-etre-782.webp"
+    ],
+    "poids": {
+      "livre-bien-etre-782.webp": 35874
+    },
+    "media": "c.media({ nom: 'livre-bien-etre', alt: \"Couverture du livre Le yoga bien-être, d'Isabelle Cloutier\", cadrage: '50% 45%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '4 / 5' })"
+  },
+  "livre-enfants": {
+    "nom": "livre-enfants",
+    "source": "recu/livres.png",
+    "role": "produit",
+    "alt": "Couverture du livre Le yoga des enfants, d'Isabelle Cloutier",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "ccb13d9b32bf6cbb",
+    "ratio": "4:5",
+    "largeurs": [
+      800
+    ],
+    "mobile": null,
+    "cadrage": "50% 45%",
+    "sujet": {
+      "x": 8.8,
+      "y": 10.7,
+      "l": 91.2,
+      "h": 78.5
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.28,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.25,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.19,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.04,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 141,
+      "top": 0,
+      "width": 678,
+      "height": 847,
+      "source": [
+        1066,
+        847
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "largeurs retirées (source trop petite) : 1600",
+      "1066 px de large"
+    ],
+    "avertissements": [
+      "agrandie 1,18 fois (source de 678 px après recadrage)"
+    ],
+    "fichiers": [
+      "livre-enfants-800.webp"
+    ],
+    "poids": {
+      "livre-enfants-800.webp": 43968
+    },
+    "media": "c.media({ nom: 'livre-enfants', alt: \"Couverture du livre Le yoga des enfants, d'Isabelle Cloutier\", cadrage: '50% 45%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '4 / 5' })"
+  },
+  "logo-potton": {
+    "nom": "logo-potton",
+    "source": "recu/logo-clair.png",
+    "role": "logo",
+    "alt": "Centre de méditation et de ressourcement spirituel Potton Springs",
+    "grok": false,
+    "mention": null,
+    "beaute": null,
+    "empreinte": "dbb896f42c58dd9b",
+    "ratio": null,
+    "largeurs": [
+      240
+    ],
+    "mobile": null,
+    "cadrage": null,
+    "sujet": null,
+    "zones_calmes": null,
+    "zone_texte": null,
+    "recadrage": null,
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "logo-potton-240.webp"
+    ],
+    "poids": {
+      "logo-potton-240.webp": 19790
+    },
+    "media": "c.media({ nom: 'logo-potton', alt: \"Centre de méditation et de ressourcement spirituel Potton Springs\", sizes: '240px' })"
+  },
+  "logo-poorna": {
+    "nom": "logo-poorna",
+    "source": "recu/logo-2.jpg",
+    "role": "logo",
+    "alt": "Fondation Poorna-Jnana Yoga",
+    "grok": false,
+    "mention": null,
+    "beaute": null,
+    "empreinte": "8257f8b0f72a3630",
+    "ratio": null,
+    "largeurs": [
+      240
+    ],
+    "mobile": null,
+    "cadrage": null,
+    "sujet": null,
+    "zones_calmes": null,
+    "zone_texte": null,
+    "recadrage": null,
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "logo-poorna-240.webp"
+    ],
+    "poids": {
+      "logo-poorna-240.webp": 4220
+    },
+    "media": "c.media({ nom: 'logo-poorna', alt: \"Fondation Poorna-Jnana Yoga\", sizes: '240px' })"
+  },
+  "somatique-isabelle": {
+    "nom": "somatique-isabelle",
+    "source": "recu/studio-virtuel-2.jpg",
+    "role": "galerie",
+    "alt": "Isabelle Cloutier dans son studio, assise, penchée en avant dans un mouvement lent",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "1212b5902c3f2049",
+    "ratio": "4:5",
+    "largeurs": [
+      1024,
+      1168
+    ],
+    "mobile": null,
+    "cadrage": "28% 62%",
+    "sujet": {
+      "x": 14.4,
+      "y": 42,
+      "l": 85.6,
+      "h": 50.1
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.64,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.48,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.43,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.2,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 394,
+      "top": 0,
+      "width": 864,
+      "height": 1080,
+      "source": [
+        1920,
+        1080
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "largeurs retirées (source trop petite) : 1600",
+      "compression visible"
+    ],
+    "avertissements": [
+      "agrandie 1,35 fois (source de 864 px après recadrage)"
+    ],
+    "fichiers": [
+      "somatique-isabelle-1024.webp",
+      "somatique-isabelle-1168.webp"
+    ],
+    "poids": {
+      "somatique-isabelle-1024.webp": 24458,
+      "somatique-isabelle-1168.webp": 29204
+    },
+    "media": "c.media({ nom: 'somatique-isabelle', alt: \"Isabelle Cloutier dans son studio, assise, penchée en avant dans un mouvement lent\", cadrage: '28% 62%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 5' })"
+  }
+}

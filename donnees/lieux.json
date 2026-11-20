@@ -1,0 +1,59 @@
+[
+ {
+  "id": "saint-jean",
+  "nom": "Fondation Poorna-Jnana Yoga",
+  "precision": "Institut Mandala du Bouddha Manjusri",
+  "adresse": "291, rue Richelieu",
+  "ville": "Saint-Jean-sur-Richelieu",
+  "court": "Saint-Jean-sur-Richelieu",
+  "quoi": "Cours en session, ateliers et séances de thérapie somatique.",
+  "x": 195,
+  "y": 196,
+  "logo": "logo-poorna"
+ },
+ {
+  "id": "atma",
+  "nom": "Clinique ATMA",
+  "precision": "",
+  "adresse": "Adresse donnée à la prise de rendez-vous",
+  "ville": "Vieux-Longueuil",
+  "court": "Vieux-Longueuil",
+  "quoi": "Séances privées de TRE® et de thérapie somatique.",
+  "x": 97,
+  "y": 52
+ },
+ {
+  "id": "simhananda",
+  "nom": "Centre Simhananda",
+  "precision": "",
+  "adresse": "Adresse donnée à l'inscription",
+  "ville": "Saint-Jean-sur-Richelieu",
+  "court": "Saint-Jean",
+  "quoi": "Les Pauses du vendredi soir.",
+  "x": 195,
+  "y": 196,
+  "carte": false
+ },
+ {
+  "id": "potton",
+  "nom": "Centre de méditation et de ressourcement spirituel de Potton Springs",
+  "precision": "",
+  "adresse": "52, chemin de Potton Springs",
+  "ville": "Mansonville (Québec) J0E 1X0",
+  "court": "Potton Springs, Estrie",
+  "quoi": "Les Pauses de saison, le samedi matin.",
+  "x": 543,
+  "y": 358,
+  "logo": "logo-potton"
+ },
+ {
+  "id": "en-ligne",
+  "nom": "En ligne",
+  "precision": "",
+  "adresse": "Par Zoom, en direct ou en différé",
+  "ville": "Enregistrement disponible 7 jours",
+  "court": "En ligne",
+  "quoi": "Cours de yoga doux et d'exploration TRE®, où que vous soyez.",
+  "carte": false
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "id": "tre",
+  "titre": "Méthode TRE®",
+  "court": "TRE®",
+  "image": "tre-position",
+  "imageAlt": "Allongée, genoux pliés, une personne pratique un exercice de TRE",
+  "accroche": "Sept exercices simples qui invitent le corps à relâcher, par de légers tremblements naturels.",
+  "texte": "Créée par le Dr David Berceli, la méthode TRE® (Tension & Trauma Release Exercises) propose une série d'exercices qui réactivent un mécanisme naturel du corps : des tremblements et des vibrations qui aident à relâcher les tensions des muscles et des fascias liées au stress. On l'apprend en atelier ou en séance privée, puis on la pratique chez soi.",
+  "gestes": [
+   "Détente physique et mentale",
+   "Meilleure connexion à soi",
+   "Une pratique à refaire seul·e"
+  ]
+ },
+ {
+  "id": "yoga-doux",
+  "titre": "Yoga doux thérapeutique",
+  "court": "Yoga doux",
+  "image": "grok/approche-yoga-doux",
+  "imageAlt": "De dos, une personne assise en tailleur face à une fenêtre enneigée",
+  "accroche": "Des enchaînements simples, coordonnés à la respiration, pour tout le corps.",
+  "texte": "Chaque séance alterne une phase en mouvement et une phase plus statique, où l'on tient la posture le temps de quelques respirations. Le but : favoriser la circulation de l'énergie et les capacités d'autorégulation du corps, et retrouver de l'équilibre. Aucune expérience n'est nécessaire.",
+  "gestes": [
+   "Mouvements lents",
+   "Respiration",
+   "Ouvert aux débutants"
+  ]
+ },
+ {
+  "id": "yoga-somatique",
+  "titre": "Yoga somatique",
+  "court": "Yoga somatique",
+  "image": "somatique-isabelle",
+  "imageAlt": "Isabelle Cloutier dans son studio, assise, penchée en avant dans un mouvement lent",
+  "accroche": "Observer le mouvement de l'intérieur pour en changer les habitudes.",
+  "texte": "Inspiré de l'éducation somatique, comme la méthode Feldenkrais, le yoga somatique développe la conscience du corps par l'observation et l'expérience directe du mouvement. Il vise à relâcher les tensions, dévoiler les compensations, réaligner le corps et équilibrer le système nerveux, et à apprendre de nouvelles façons de bouger.",
+  "gestes": [
+   "Conscience corporelle",
+   "Mouvements lents et précis",
+   "Nouvelles habitudes"
+  ]
+ },
+ {
+  "id": "automassage",
+  "titre": "Automassage avec balles",
+  "court": "Automassage",
+  "image": "balles-soleil",
+  "imageAlt": "Des balles d'automassage lilas, turquoise et vertes au soleil sur un plancher",
+  "accroche": "Des balles thérapeutiques pour relâcher soi-même les tissus du corps.",
+  "texte": "En cours et en ateliers, on apprend à masser, compresser, étirer, contracter et relâcher les tissus myofasciaux (muscles, tendons, ligaments, tissus conjonctifs) avec des balles de différentes tailles. Pour gagner en amplitude, en circulation et en conscience corporelle.",
+  "gestes": [
+   "Masser",
+   "Compresser",
+   "Étirer",
+   "Contracter",
+   "Relâcher"
+  ]
+ },
+ {
+  "id": "accompagnement",
+  "titre": "Accompagnement somatique",
+  "court": "Accompagnement",
+  "image": "grok/approche-accompagnement",
+  "imageAlt": "Une petite salle calme pour les séances individuelles, un matelas, une couverture, un verre d'eau",
+  "accroche": "Des séances individuelles, construites selon vos besoins.",
+  "texte": "Un accompagnement guidé où l'on explore une ou plusieurs approches somatiques pour repérer et libérer des schémas de tension, en pleine conscience. Il passe par le corps et peut compléter un suivi psychologique, sans le remplacer. Les séances sont personnalisées selon vos besoins, vos intentions et vos objectifs.",
+  "gestes": [
+   "Séances personnalisées",
+   "Travail sensorimoteur",
+   "Autonomie"
+  ]
+ }
+]

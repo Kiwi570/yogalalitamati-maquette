@@ -1,0 +1,52 @@
+[
+ {
+  "id": "prive",
+  "titre": "Séance privée",
+  "texte": "Seul·e, en duo ou en famille, à la Clinique ATMA (Vieux-Longueuil) ou à Saint-Jean-sur-Richelieu.",
+  "image": "grok/formats-prive",
+  "alt": "Deux coussins face à face sur un tapis, prêts pour une séance privée",
+  "lien": "contact",
+  "params": "sujet=prive",
+  "action": "Demander une séance"
+ },
+ {
+  "id": "session",
+  "titre": "Cours en session",
+  "texte": "Le jeudi, en hiver et au printemps : yoga doux et exploration somatique TRE®.",
+  "image": "groupe-sol",
+  "alt": "Un petit groupe allongé sur des tapis, en mouvement lent",
+  "lien": "activites",
+  "params": "type=yoga",
+  "action": "Voir les sessions"
+ },
+ {
+  "id": "ateliers",
+  "titre": "Ateliers et pauses",
+  "texte": "Introduction au TRE®, Pauses de saison en Estrie et à Saint-Jean.",
+  "image": "lac-matin",
+  "alt": "Une personne médite sur un quai, au bord d'un lac dans la brume du matin",
+  "lien": "activites",
+  "params": "type=pause",
+  "action": "Voir les ateliers"
+ },
+ {
+  "id": "en-ligne",
+  "titre": "En ligne",
+  "texte": "Les cours par Zoom, en direct ou en différé pendant 7 jours.",
+  "image": "en-ligne",
+  "alt": "Un ordinateur portable ouvert sur un cours de yoga, posé sur un tapis",
+  "lien": "activites",
+  "params": "lieu=en-ligne",
+  "action": "Voir les cours en ligne"
+ },
+ {
+  "id": "entreprises",
+  "titre": "Entreprises et organismes",
+  "texte": "Des ateliers sur demande, dans vos locaux ou en ligne.",
+  "image": "grok/formats-entreprises",
+  "alt": "Une salle de réunion transformée : la table poussée, des tapis au sol",
+  "lien": "contact",
+  "params": "sujet=entreprise",
+  "action": "Proposer un atelier"
+ }
+]

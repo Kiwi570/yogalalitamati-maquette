@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Lalita Mati, Isabelle Cloutier",
+  "description": "Yoga somatique, yoga doux thérapeutique, méthode TRE®, automassage avec balles et pleine conscience, en séances privées, cours, ateliers et en ligne.",
+  "telephone": "+1-514-570-2260",
+  "email": "izabellule@hotmail.com",
+  "address": { "@type": "PostalAddress", "streetAddress": "291, rue Richelieu", "addressLocality": "Saint-Jean-sur-Richelieu", "addressRegion": "QC", "addressCountry": "CA" },
+  "areaServed": ["Saint-Jean-sur-Richelieu", "Longueuil", "Estrie"],
+  "founder": { "@type": "Person", "name": "Isabelle Cloutier", "jobTitle": "Enseignante en yoga et yoga thérapeutique, praticienne de la méthode TRE®" },
+  "sameAs": ["https://www.facebook.com/yogalalitamati/", "https://www.youtube.com/channel/UChI_zy8Xa_uAhh0LkR26-WQ/featured"]
+}

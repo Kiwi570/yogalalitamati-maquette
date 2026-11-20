@@ -1,0 +1,558 @@
+<!doctype html>
+<html lang="fr-CA" data-v="1">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Lalita Mati : yoga somatique et méthode TRE® avec Isabelle Cloutier</title>
+<meta name="description" content="Yoga doux et somatique, méthode TRE®, automassage avec balles et pleine conscience, à Saint-Jean-sur-Richelieu, dans le Vieux-Longueuil, en Estrie et en ligne.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="canonical" href="https://yogalalitamati-maquette.vercel.app/">
+<style>:root{--fond:#F4F1F3;--texte:#2E2233;--voile-fond:#3B2A3F;--ouverture-fond:#3B2A3F}:root { --entete-h: 72px; --barres-h: 0px; } html { background: var(--fond); color: var(--texte); scrollbar-gutter: stable; } body { margin: 0; background: var(--fond); } html.js:not(.secours):not([data-arrivee="retour"]) [data-anime] { opacity: 0; } html.js:not(.secours):not([data-arrivee="retour"]) [data-anime].vu { opacity: 1; } [data-voile] { position: fixed; inset: 0; z-index: 900; background: var(--voile-fond); transform: translateY(100%); visibility: hidden; pointer-events: none; } html[data-arrivee="voile"]:not(.voile-leve):not(.secours) [data-voile] { transform: none; visibility: visible; } html.secours [data-voile] { visibility: hidden !important; } .ouverture-panneau { position: fixed; inset: 0; z-index: 850; display: none; place-content: center; justify-items: center; background: var(--ouverture-fond, var(--voile-fond)); color: var(--fond); text-align: center; } html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) .ouverture-panneau { display: grid; } html.defilement-bloque, html.defilement-bloque body, html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie), html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) body, html[data-arrivee="voile"]:not(.voile-leve):not(.secours), html[data-arrivee="voile"]:not(.voile-leve):not(.secours) body { overflow: hidden; } html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) { background-color: var(--ouverture-fond, var(--voile-fond)); } html[data-arrivee="voile"]:not(.voile-leve):not(.secours) { background-color: var(--voile-fond); }</style>
+<script>(function () {
+var d = document.documentElement, ss = null, ls = null;
+try { ss = window.sessionStorage; ls = window.localStorage; } catch (e) {}
+d.classList.add('js');
+var nav = performance.getEntriesByType ? performance.getEntriesByType('navigation')[0] : null;
+var type = nav ? nav.type : 'navigate';
+var depart = null;
+try { depart = JSON.parse(ss.getItem('socle:depart') || 'null'); ss.removeItem('socle:depart'); } catch (e) {}
+if (depart && !(Date.now() - depart.t < 15000)) depart = null;
+var mode = type === 'back_forward' ? 'retour' : type === 'reload' ? 'intro' : depart ? 'voile' : 'intro';
+d.setAttribute('data-arrivee', mode);
+if (mode === 'voile' && depart.couleur) d.style.setProperty('--voile-fond', depart.couleur);
+if (type === 'reload' && 'scrollRestoration' in history) {
+history.scrollRestoration = 'manual';
+}
+try {
+var choisie = ls && ls.getItem('socle:langue');
+var langue = (d.lang || '').slice(0, 2);
+if (choisie && choisie !== langue && type === 'navigate' && !depart) {
+var alt = document.querySelector('link[rel="alternate"][hreflang="' + choisie + '"]');
+if (alt) location.replace(new URL(alt.href).pathname + location.search + location.hash);
+}
+} catch (e) {}
+setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('secours'); }, 2000);
+})();</script>
+<link rel="preload" href="/assets/polices/bricolage-grotesque.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/polices/hanken-grotesk.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/socle.css?v=1">
+<link rel="stylesheet" href="/assets/css/site.css?v=1">
+<link rel="modulepreload" href="/assets/js/site.js?v=1">
+<link rel="modulepreload" href="/assets/js/socle/index.js?v=1">
+<script src="/assets/vendor/gsap.min.js" defer></script>
+<script src="/assets/vendor/ScrollTrigger.min.js" defer></script>
+<script src="/assets/vendor/SplitText.min.js" defer></script>
+<script type="module" src="/assets/js/site.js?v=1"></script>
+<meta name="theme-color" content="#F4F1F3">
+<link rel="icon" href="/assets/images/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Lalita Mati">
+<meta property="og:locale" content="fr_CA">
+<meta property="og:title" content="Lalita Mati : yoga somatique et méthode TRE® avec Isabelle Cloutier">
+<meta property="og:description" content="Yoga doux et somatique, méthode TRE®, automassage avec balles et pleine conscience, à Saint-Jean-sur-Richelieu, dans le Vieux-Longueuil, en Estrie et en ligne.">
+<meta property="og:url" content="https://yogalalitamati-maquette.vercel.app/">
+<meta property="og:image" content="https://yogalalitamati-maquette.vercel.app/assets/partage/accueil-fr.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Lalita Mati : retrouver du pouvoir sur sa santé">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"LocalBusiness","name":"Lalita Mati, Isabelle Cloutier","description":"Yoga somatique, yoga doux thérapeutique, méthode TRE®, automassage avec balles et pleine conscience, en séances privées, cours, ateliers et en ligne.","telephone":"+1-514-570-2260","email":"izabellule@hotmail.com","address":{"@type":"PostalAddress","streetAddress":"291, rue Richelieu","addressLocality":"Saint-Jean-sur-Richelieu","addressRegion":"QC","addressCountry":"CA"},"areaServed":["Saint-Jean-sur-Richelieu","Longueuil","Estrie"],"founder":{"@type":"Person","name":"Isabelle Cloutier","jobTitle":"Enseignante en yoga et yoga thérapeutique, praticienne de la méthode TRE®"},"sameAs":["https://www.facebook.com/yogalalitamati/","https://www.youtube.com/channel/UChI_zy8Xa_uAhh0LkR26-WQ/featured"]}</script>
+</head>
+<body id="haut">
+<div data-voile data-forme="vague" aria-hidden="true"><svg class="voile-vague voile-vague--haut" viewBox="0 0 1440 120" preserveAspectRatio="none" aria-hidden="true"><path d="M0 120 C 240 20 480 20 720 70 S 1200 130 1440 40 V 120 H 0 Z"/></svg><svg class="voile-vague voile-vague--bas" viewBox="0 0 1440 120" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0 C 240 100 480 100 720 50 S 1200 -10 1440 80 V 0 H 0 Z"/></svg><div class="voile-contenu"><svg class="lotus voile-lotus" viewBox="0 0 800 800" aria-hidden="true" focusable="false">
+  <circle class="lotus-cercle" cx="400" cy="400" r="386" fill="none" stroke="currentColor" stroke-width="26" pathLength="1"/>
+  <g fill="none" stroke="currentColor" stroke-width="26" stroke-linecap="round" stroke-linejoin="round">
+    <path class="lotus-petales" d="M400 565 C 300 470 300 262 400 172 C 500 262 500 470 400 565 M248 195 C 205 330 262 522 400 565 M248 195 C 345 235 412 385 400 565 M552 195 C 595 330 538 522 400 565 M552 195 C 455 235 388 385 400 565 M112 293 C 122 450 262 567 400 565 M112 293 C 262 293 372 425 396 560 M688 293 C 678 450 538 567 400 565 M688 293 C 538 293 428 425 404 560" pathLength="1"/>
+    <path class="lotus-vague lotus-vague--1" d="M258 625.0 L265 620.0 L272 616.1 L279 614.1 L285 614.5 L292 617.2 L299 621.6 L306 626.7 L313 631.5 L320 634.8 L327 636.0 L333 634.8 L340 631.5 L347 626.7 L354 621.6 L361 617.2 L368 614.5 L374 614.1 L381 616.1 L388 620.0 L395 625.0 L402 630.0 L409 633.9 L416 635.9 L422 635.5 L429 632.8 L436 628.4 L443 623.3 L450 618.5 L457 615.2 L464 614.0 L470 615.2 L477 618.5 L484 623.3 L491 628.4 L498 632.8 L505 635.5 L511 635.9 L518 633.9 L525 630.0 L532 625.0"/>
+    <path class="lotus-vague lotus-vague--2" d="M258 665.0 L265 660.0 L272 656.1 L279 654.1 L285 654.5 L292 657.2 L299 661.6 L306 666.7 L313 671.5 L320 674.8 L327 676.0 L333 674.8 L340 671.5 L347 666.7 L354 661.6 L361 657.2 L368 654.5 L374 654.1 L381 656.1 L388 660.0 L395 665.0 L402 670.0 L409 673.9 L416 675.9 L422 675.5 L429 672.8 L436 668.4 L443 663.3 L450 658.5 L457 655.2 L464 654.0 L470 655.2 L477 658.5 L484 663.3 L491 668.4 L498 672.8 L505 675.5 L511 675.9 L518 673.9 L525 670.0 L532 665.0"/>
+    <circle class="lotus-point" cx="398" cy="132" r="13"/><circle class="lotus-point" cx="172" cy="246" r="13"/><circle class="lotus-point" cx="626" cy="246" r="13"/>
+  </g>
+</svg><span data-voile-libelle>Accueil</span></div></div>
+<div class="ouverture-panneau" data-ouverture aria-hidden="true">
+  <div class="ouverture-objet" data-ouverture-objet><svg class="lotus ouverture-lotus" viewBox="0 0 800 800" aria-hidden="true" focusable="false">
+  <circle class="lotus-cercle" cx="400" cy="400" r="386" fill="none" stroke="currentColor" stroke-width="16" pathLength="1"/>
+  <g fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path class="lotus-petales" d="M400 565 C 300 470 300 262 400 172 C 500 262 500 470 400 565 M248 195 C 205 330 262 522 400 565 M248 195 C 345 235 412 385 400 565 M552 195 C 595 330 538 522 400 565 M552 195 C 455 235 388 385 400 565 M112 293 C 122 450 262 567 400 565 M112 293 C 262 293 372 425 396 560 M688 293 C 678 450 538 567 400 565 M688 293 C 538 293 428 425 404 560" pathLength="1"/>
+    <path class="lotus-vague lotus-vague--1" d="M258 625.0 L265 620.0 L272 616.1 L279 614.1 L285 614.5 L292 617.2 L299 621.6 L306 626.7 L313 631.5 L320 634.8 L327 636.0 L333 634.8 L340 631.5 L347 626.7 L354 621.6 L361 617.2 L368 614.5 L374 614.1 L381 616.1 L388 620.0 L395 625.0 L402 630.0 L409 633.9 L416 635.9 L422 635.5 L429 632.8 L436 628.4 L443 623.3 L450 618.5 L457 615.2 L464 614.0 L470 615.2 L477 618.5 L484 623.3 L491 628.4 L498 632.8 L505 635.5 L511 635.9 L518 633.9 L525 630.0 L532 625.0"/>
+    <path class="lotus-vague lotus-vague--2" d="M258 665.0 L265 660.0 L272 656.1 L279 654.1 L285 654.5 L292 657.2 L299 661.6 L306 666.7 L313 671.5 L320 674.8 L327 676.0 L333 674.8 L340 671.5 L347 666.7 L354 661.6 L361 657.2 L368 654.5 L374 654.1 L381 656.1 L388 660.0 L395 665.0 L402 670.0 L409 673.9 L416 675.9 L422 675.5 L429 672.8 L436 668.4 L443 663.3 L450 658.5 L457 655.2 L464 654.0 L470 655.2 L477 658.5 L484 663.3 L491 668.4 L498 672.8 L505 675.5 L511 675.9 L518 673.9 L525 670.0 L532 665.0"/>
+    <circle class="lotus-point" cx="398" cy="132" r="13"/><circle class="lotus-point" cx="172" cy="246" r="13"/><circle class="lotus-point" cx="626" cy="246" r="13"/>
+  </g>
+</svg></div>
+  <p class="ouverture-nom">Lalita Mati</p>
+  <p class="ouverture-ligne">Yoga somatique · Méthode TRE®</p>
+</div>
+<a class="evitement" href="#contenu">Aller au contenu</a>
+<header data-entete>
+  <div class="entete-rangee">
+    <a class="entete-logo" href="/" data-libelle="Accueil" aria-current="page">
+      <svg class="lotus entete-lotus" viewBox="0 0 800 800" aria-hidden="true" focusable="false">
+  <circle class="lotus-cercle" cx="400" cy="400" r="386" fill="none" stroke="currentColor" stroke-width="30" pathLength="1"/>
+  <g fill="none" stroke="currentColor" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
+    <path class="lotus-petales" d="M400 565 C 300 470 300 262 400 172 C 500 262 500 470 400 565 M248 195 C 205 330 262 522 400 565 M248 195 C 345 235 412 385 400 565 M552 195 C 595 330 538 522 400 565 M552 195 C 455 235 388 385 400 565 M112 293 C 122 450 262 567 400 565 M112 293 C 262 293 372 425 396 560 M688 293 C 678 450 538 567 400 565 M688 293 C 538 293 428 425 404 560" pathLength="1"/>
+    <path class="lotus-vague lotus-vague--1" d="M258 625.0 L265 620.0 L272 616.1 L279 614.1 L285 614.5 L292 617.2 L299 621.6 L306 626.7 L313 631.5 L320 634.8 L327 636.0 L333 634.8 L340 631.5 L347 626.7 L354 621.6 L361 617.2 L368 614.5 L374 614.1 L381 616.1 L388 620.0 L395 625.0 L402 630.0 L409 633.9 L416 635.9 L422 635.5 L429 632.8 L436 628.4 L443 623.3 L450 618.5 L457 615.2 L464 614.0 L470 615.2 L477 618.5 L484 623.3 L491 628.4 L498 632.8 L505 635.5 L511 635.9 L518 633.9 L525 630.0 L532 625.0"/>
+    <path class="lotus-vague lotus-vague--2" d="M258 665.0 L265 660.0 L272 656.1 L279 654.1 L285 654.5 L292 657.2 L299 661.6 L306 666.7 L313 671.5 L320 674.8 L327 676.0 L333 674.8 L340 671.5 L347 666.7 L354 661.6 L361 657.2 L368 654.5 L374 654.1 L381 656.1 L388 660.0 L395 665.0 L402 670.0 L409 673.9 L416 675.9 L422 675.5 L429 672.8 L436 668.4 L443 663.3 L450 658.5 L457 655.2 L464 654.0 L470 655.2 L477 658.5 L484 663.3 L491 668.4 L498 672.8 L505 675.5 L511 675.9 L518 673.9 L525 670.0 L532 665.0"/>
+    <circle class="lotus-point" cx="398" cy="132" r="13"/><circle class="lotus-point" cx="172" cy="246" r="13"/><circle class="lotus-point" cx="626" cy="246" r="13"/>
+  </g>
+</svg><span class="entete-nom"><span>Lalita Mati</span><small>Isabelle Cloutier</small></span>
+    </a>
+    <nav data-nav aria-label="Navigation principale">
+      <ul><li><a href="/activites" data-libelle="Activités">Activités</a></li><li><a href="/approches" data-libelle="Approches">Approches</a></li><li><a href="/methode-tre" data-libelle="Méthode TRE®">Méthode TRE®</a></li><li><a href="/a-propos" data-libelle="À propos">À propos</a></li><li><a href="/contact" data-libelle="Contact">Contact</a></li></ul>
+    </nav>
+    <div class="entete-actions">
+      <a class="bouton" href="/activites" data-libelle="Activités">S’inscrire</a>
+      <button type="button" data-menu-bouton aria-controls="menu" aria-expanded="false" data-libelle-ouvrir="Menu" data-libelle-fermer="Fermer"><span data-libelle-bouton>Menu</span></button>
+      <a class="menu-sansjs" href="#menu" data-menu-lien>Menu</a>
+    </div>
+  </div>
+</header>
+<script>/* Avant le premier affichage : rangées de la navigation (même règle que ajusterNav dans assets/js/socle/entete.js)
+   et hauteur réelle de l'en-tête, pour que rien ne saute quand le JavaScript du site prend la main. */
+(function () {
+  var h = document.documentElement, u = document.querySelector('[data-nav] ul'), e = document.querySelector('[data-entete]');
+  if (u) {
+    var deborde = function () { return u.scrollWidth > u.clientWidth + 1; }, c = deborde();
+    if (c && window.matchMedia('(min-width: 900px)').matches) {
+      h.classList.add('nav-deux-rangees'); c = deborde();
+      if (c) { h.classList.add('nav-deux-lignes'); var a = u.querySelector('a'); c = !a || u.getBoundingClientRect().height > a.getBoundingClientRect().height * 2.5; }
+      if (c) h.classList.remove('nav-deux-rangees', 'nav-deux-lignes');
+    }
+    if (c) h.classList.add('nav-compacte');
+  }
+  if (e) h.style.setProperty('--entete-h', Math.round(e.getBoundingClientRect().height) + 'px');
+})();</script>
+<span id="menu-ferme" aria-hidden="true"></span>
+<div id="menu" data-menu role="dialog" aria-modal="true" aria-label="Menu">
+  <p class="menu-sansjs-fermer"><a href="#menu-ferme">Fermer</a></p>
+  <ul><li style="--i:0"><a href="/" class="menu-lien" data-libelle="Accueil" aria-current="page">Accueil</a></li><li style="--i:1"><a href="/activites" class="menu-lien" data-libelle="Activités">Activités</a></li><li style="--i:2"><a href="/approches" class="menu-lien" data-libelle="Approches">Approches</a></li><li style="--i:3"><a href="/methode-tre" class="menu-lien" data-libelle="Méthode TRE®">Méthode TRE®</a></li><li style="--i:4"><a href="/a-propos" class="menu-lien" data-libelle="À propos">À propos</a></li><li style="--i:5"><a href="/contact" class="menu-lien" data-libelle="Contact">Contact</a></li></ul>
+  <p class="menu-actions"><a class="bouton" href="tel:+15145702260">Appeler 514-570-2260</a></p>
+  <p class="menu-lieux">Saint-Jean-sur-Richelieu · Vieux-Longueuil · Estrie · en ligne</p>
+</div>
+<main id="contenu" tabindex="-1">
+<section class="hero" id="debut">
+  <div class="hero-texte">
+    <p class="surtitre" data-anime="gsap">Yoga somatique · Méthode TRE® · Automassage</p>
+    <h1 class="hero-titre titre-xl" data-anime="gsap">
+      <span class="masque-ligne"><span class="hero-ligne">Retrouver du</span></span>
+      <span class="masque-ligne"><span class="hero-ligne"><em>pouvoir</em></span></span>
+      <span class="masque-ligne"><span class="hero-ligne">sur sa santé</span></span>
+    </h1>
+    <p class="hero-intro masque-ecran-tres-bas" data-anime="gsap">Avec Isabelle Cloutier, enseignante depuis 2006 : yoga doux et somatique, méthode TRE®, automassage avec balles et pleine conscience. À Saint-Jean-sur-Richelieu, dans le Vieux-Longueuil, en Estrie et en ligne.</p>
+    <div class="hero-actions" data-anime="gsap">
+      <a href="/activites" class="bouton" data-libelle="Activités" data-action-principale data-survol="magnetique">Voir l’hiver 2027</a>
+      <a href="/contact" class="bouton bouton--contour" data-libelle="Contact">Écrire à Isabelle</a>
+    </div>
+    <p class="hero-info" data-info-cle data-anime="gsap">
+      <span class="pastille-vivante" aria-hidden="true"></span>
+      <span>Prochain rendez-vous : <a href="/activites#agenda" data-libelle="Activités"><strong>Pause hivernale</strong>, sam 16 janv, Potton Springs, Estrie</a></span>
+    </p>
+  </div>
+  <div class="hero-visuel">
+    <figure class="media hero-media" data-grok data-fx="parallaxe" data-fx-force="6" data-boucle-css style="--cadrage:50% 50%">
+  <picture><source media="(max-width: 760px) and (orientation: portrait)" srcset="/assets/images/grok/accueil-ouverture-mobile-640.webp 640w, /assets/images/grok/accueil-ouverture-mobile-1080.webp 1080w" sizes="(max-width: 760px) 92vw, 44vw">
+    <img src="/assets/images/grok/accueil-ouverture-1280.webp" srcset="/assets/images/grok/accueil-ouverture-640.webp 640w, /assets/images/grok/accueil-ouverture-1280.webp 1280w, /assets/images/grok/accueil-ouverture-1920.webp 1920w" sizes="(max-width: 760px) 92vw, 44vw" alt="Lalita Mati : retrouver du pouvoir sur sa santé" width="1280" height="1600" fetchpriority="high" loading="eager" decoding="async">
+  </picture><figcaption class="mention-ia">Illustration générée</figcaption>
+</figure>
+    <div class="hero-lotus" data-iris-centre="disque" data-effet="lotus" data-boucle-css><svg class="lotus lotus-vivant" viewBox="0 0 800 800" aria-hidden="true" focusable="false">
+  <circle class="lotus-cercle" cx="400" cy="400" r="386" fill="none" stroke="currentColor" stroke-width="20" pathLength="1"/>
+  <g fill="none" stroke="currentColor" stroke-width="20" stroke-linecap="round" stroke-linejoin="round">
+    <path class="lotus-petales" d="M400 565 C 300 470 300 262 400 172 C 500 262 500 470 400 565 M248 195 C 205 330 262 522 400 565 M248 195 C 345 235 412 385 400 565 M552 195 C 595 330 538 522 400 565 M552 195 C 455 235 388 385 400 565 M112 293 C 122 450 262 567 400 565 M112 293 C 262 293 372 425 396 560 M688 293 C 678 450 538 567 400 565 M688 293 C 538 293 428 425 404 560" pathLength="1"/>
+    <path class="lotus-vague lotus-vague--1" d="M258 625.0 L265 620.0 L272 616.1 L279 614.1 L285 614.5 L292 617.2 L299 621.6 L306 626.7 L313 631.5 L320 634.8 L327 636.0 L333 634.8 L340 631.5 L347 626.7 L354 621.6 L361 617.2 L368 614.5 L374 614.1 L381 616.1 L388 620.0 L395 625.0 L402 630.0 L409 633.9 L416 635.9 L422 635.5 L429 632.8 L436 628.4 L443 623.3 L450 618.5 L457 615.2 L464 614.0 L470 615.2 L477 618.5 L484 623.3 L491 628.4 L498 632.8 L505 635.5 L511 635.9 L518 633.9 L525 630.0 L532 625.0"/>
+    <path class="lotus-vague lotus-vague--2" d="M258 665.0 L265 660.0 L272 656.1 L279 654.1 L285 654.5 L292 657.2 L299 661.6 L306 666.7 L313 671.5 L320 674.8 L327 676.0 L333 674.8 L340 671.5 L347 666.7 L354 661.6 L361 657.2 L368 654.5 L374 654.1 L381 656.1 L388 660.0 L395 665.0 L402 670.0 L409 673.9 L416 675.9 L422 675.5 L429 672.8 L436 668.4 L443 663.3 L450 658.5 L457 655.2 L464 654.0 L470 655.2 L477 658.5 L484 663.3 L491 668.4 L498 672.8 L505 675.5 L511 675.9 L518 673.9 L525 670.0 L532 665.0"/>
+    <circle class="lotus-point" cx="398" cy="132" r="13"/><circle class="lotus-point" cx="172" cy="246" r="13"/><circle class="lotus-point" cx="626" cy="246" r="13"/>
+  </g>
+</svg></div>
+    <span class="balle balle--lilas hero-balle" aria-hidden="true" data-boucle-css></span>
+  </div>
+</section>
+<section class="section dates" id="dates">
+  <div class="conteneur dates-tete">
+    <div>
+      <p class="surtitre">Cet hiver</p>
+      <h2 class="titre-l" data-anime="lignes">Les prochains <em>rendez-vous</em></h2>
+      <p class="chapo">Ateliers, Pauses de saison et sessions du jeudi. Les prix comprennent les taxes.</p>
+    </div>
+    <p class="compte-jours"><strong class="compte-chiffre" data-jours data-effet="compte-jours">57</strong><span>jours avant le prochain</span></p>
+  </div>
+  <div class="conteneur dates-defile" tabindex="0" role="region" aria-label="Les prochains rendez-vous">
+    <ol class="dates-grille" data-anime="cascade">
+      <li class="date-carte date-carte--pause" data-date data-debut="2027-01-16T10:15" data-fin="2027-01-16T12:00" data-resume="Pause hivernale, sam 16 janv, Potton Springs, Estrie">
+  <p class="date-quand" aria-hidden="true"><span class="date-num">16</span><span class="date-mois">janv</span><span class="date-jour">samedi</span></p>
+  <h3 class="date-titre">Pause hivernale</h3>
+  <p class="date-sous">Atelier en Estrie</p>
+  <p class="date-infos">Samedi 16 janvier, 10 h 15 à 12 h<br>Potton Springs, Estrie</p>
+  <p class="date-prix" data-prix><strong>46,00 $</strong> <span>taxes incluses</span></p>
+  <a href="/contact?objet=activite&amp;activite=pause-hiver-potton#formulaire" class="lien-fleche" data-libelle="Contact" aria-label="S’inscrire : Pause hivernale, sam 16 janv">S’inscrire</a>
+</li><li class="date-carte date-carte--tre" data-date data-debut="2027-01-24T10:00" data-fin="2027-01-24T12:30" data-resume="Introduction à la méthode TRE®, dim 24 janv, Saint-Jean-sur-Richelieu">
+  <p class="date-quand" aria-hidden="true"><span class="date-num">24</span><span class="date-mois">janv</span><span class="date-jour">dimanche</span></p>
+  <h3 class="date-titre">Introduction à la méthode TRE®</h3>
+  <p class="date-sous">Atelier en petit groupe</p>
+  <p class="date-infos">Dimanche 24 janvier, 10 h à 12 h 30<br>Saint-Jean-sur-Richelieu</p>
+  <p class="date-prix" data-prix><strong>57,50 $</strong> <span>taxes incluses</span></p>
+  <a href="/contact?objet=activite&amp;activite=intro-tre-hiver#formulaire" class="lien-fleche" data-libelle="Contact" aria-label="S’inscrire : Introduction à la méthode TRE®, dim 24 janv">S’inscrire</a>
+</li><li class="date-carte date-carte--tre" data-date data-debut="2027-01-28T09:30" data-fin="2027-04-01T10:45" data-resume="Exploration somatique TRE®, jeu 28 janv, En ligne">
+  <p class="date-quand" aria-hidden="true"><span class="date-num">28</span><span class="date-mois">janv</span><span class="date-jour">jeudi</span></p>
+  <h3 class="date-titre">Exploration somatique TRE®</h3>
+  <p class="date-sous">10 cours en ligne, par Zoom ou en différé</p>
+  <p class="date-infos">Jeudis du 28 janvier au 1er avril, 9 h 30 à 10 h 45<br>En ligne</p>
+  <p class="date-prix" data-prix><strong>230 $</strong> <span>taxes incluses</span></p>
+  <a href="/contact?objet=activite&amp;activite=tre-hiver-ligne#formulaire" class="lien-fleche" data-libelle="Contact" aria-label="S’inscrire : Exploration somatique TRE®, jeu 28 janv">S’inscrire</a>
+</li><li class="date-carte date-carte--yoga" data-date data-debut="2027-01-28T11:15" data-fin="2027-04-01T12:30" data-resume="Yoga doux, jeu 28 janv, Saint-Jean-sur-Richelieu ou en ligne">
+  <p class="date-quand" aria-hidden="true"><span class="date-num">28</span><span class="date-mois">janv</span><span class="date-jour">jeudi</span></p>
+  <h3 class="date-titre">Yoga doux</h3>
+  <p class="date-sous">10 cours, en présentiel ou par Zoom</p>
+  <p class="date-infos">Jeudis du 28 janvier au 1er avril, 11 h 15 à 12 h 30<br>Saint-Jean-sur-Richelieu ou en ligne</p>
+  <p class="date-prix" data-prix><strong>230 $</strong> <span>taxes incluses</span></p>
+  <a href="/contact?objet=activite&amp;activite=yoga-doux-hiver#formulaire" class="lien-fleche" data-libelle="Contact" aria-label="S’inscrire : Yoga doux, jeu 28 janv">S’inscrire</a>
+</li><li class="date-carte date-carte--tre" data-date data-debut="2027-01-28T14:30" data-fin="2027-04-01T15:45" data-resume="Exploration somatique TRE®, jeu 28 janv, Saint-Jean-sur-Richelieu" hidden>
+  <p class="date-quand" aria-hidden="true"><span class="date-num">28</span><span class="date-mois">janv</span><span class="date-jour">jeudi</span></p>
+  <h3 class="date-titre">Exploration somatique TRE®</h3>
+  <p class="date-sous">10 cours en présentiel</p>
+  <p class="date-infos">Jeudis du 28 janvier au 1er avril, 14 h 30 à 15 h 45<br>Saint-Jean-sur-Richelieu</p>
+  <p class="date-prix" data-prix><strong>230 $</strong> <span>taxes incluses</span></p>
+  <a href="/contact?objet=activite&amp;activite=tre-hiver-presentiel#formulaire" class="lien-fleche" data-libelle="Contact" aria-label="S’inscrire : Exploration somatique TRE®, jeu 28 janv">S’inscrire</a>
+</li><li class="date-carte date-carte--pause" data-date data-debut="2027-02-05T19:00" data-fin="2027-02-05T20:45" data-resume="Pause hivernale, ven 5 févr, Saint-Jean" hidden>
+  <p class="date-quand" aria-hidden="true"><span class="date-num">5</span><span class="date-mois">févr</span><span class="date-jour">vendredi</span></p>
+  <h3 class="date-titre">Pause hivernale</h3>
+  <p class="date-sous">Atelier du vendredi soir</p>
+  <p class="date-infos">Vendredi 5 février, 19 h à 20 h 45<br>Saint-Jean</p>
+  <p class="date-prix" data-prix><strong>46,00 $</strong> <span>taxes incluses</span></p>
+  <a href="/contact?objet=activite&amp;activite=pause-hiver-saint-jean#formulaire" class="lien-fleche" data-libelle="Contact" aria-label="S’inscrire : Pause hivernale, ven 5 févr">S’inscrire</a>
+</li><li class="date-carte date-carte--tre" data-date data-debut="2027-04-02T19:00" data-fin="2027-04-02T21:30" data-resume="Introduction à la méthode TRE®, ven 2 avr, Saint-Jean-sur-Richelieu" hidden>
+  <p class="date-quand" aria-hidden="true"><span class="date-num">2</span><span class="date-mois">avr</span><span class="date-jour">vendredi</span></p>
+  <h3 class="date-titre">Introduction à la méthode TRE®</h3>
+  <p class="date-sous">Atelier en petit groupe</p>
+  <p class="date-infos">Vendredi 2 avril, 19 h à 21 h 30<br>Saint-Jean-sur-Richelieu</p>
+  <p class="date-prix" data-prix><strong>57,50 $</strong> <span>taxes incluses</span></p>
+  <a href="/contact?objet=activite&amp;activite=intro-tre-printemps#formulaire" class="lien-fleche" data-libelle="Contact" aria-label="S’inscrire : Introduction à la méthode TRE®, ven 2 avr">S’inscrire</a>
+</li><li class="date-carte date-carte--pause" data-date data-debut="2027-04-10T10:15" data-fin="2027-04-10T12:00" data-resume="Pause printanière, sam 10 avr, Potton Springs, Estrie" hidden>
+  <p class="date-quand" aria-hidden="true"><span class="date-num">10</span><span class="date-mois">avr</span><span class="date-jour">samedi</span></p>
+  <h3 class="date-titre">Pause printanière</h3>
+  <p class="date-sous">Atelier en Estrie</p>
+  <p class="date-infos">Samedi 10 avril, 10 h 15 à 12 h<br>Potton Springs, Estrie</p>
+  <p class="date-prix" data-prix><strong>46,00 $</strong> <span>taxes incluses</span></p>
+  <a href="/contact?objet=activite&amp;activite=pause-printemps-potton#formulaire" class="lien-fleche" data-libelle="Contact" aria-label="S’inscrire : Pause printanière, sam 10 avr">S’inscrire</a>
+</li><li class="date-carte date-carte--tre" data-date data-debut="2027-04-22T09:30" data-fin="2027-06-10T10:45" data-resume="Exploration somatique TRE®, jeu 22 avr, En ligne" hidden>
+  <p class="date-quand" aria-hidden="true"><span class="date-num">22</span><span class="date-mois">avr</span><span class="date-jour">jeudi</span></p>
+  <h3 class="date-titre">Exploration somatique TRE®</h3>
+  <p class="date-sous">8 cours en ligne, par Zoom ou en différé</p>
+  <p class="date-infos">Jeudis du 22 avril au 10 juin, 9 h 30 à 10 h 45<br>En ligne</p>
+  <p class="date-prix" data-prix><strong>184 $</strong> <span>taxes incluses</span></p>
+  <a href="/contact?objet=activite&amp;activite=tre-printemps-ligne#formulaire" class="lien-fleche" data-libelle="Contact" aria-label="S’inscrire : Exploration somatique TRE®, jeu 22 avr">S’inscrire</a>
+</li><li class="date-carte date-carte--yoga" data-date data-debut="2027-04-22T11:15" data-fin="2027-06-10T12:30" data-resume="Yoga doux, jeu 22 avr, Saint-Jean-sur-Richelieu ou en ligne" hidden>
+  <p class="date-quand" aria-hidden="true"><span class="date-num">22</span><span class="date-mois">avr</span><span class="date-jour">jeudi</span></p>
+  <h3 class="date-titre">Yoga doux</h3>
+  <p class="date-sous">8 cours, en présentiel ou par Zoom</p>
+  <p class="date-infos">Jeudis du 22 avril au 10 juin, 11 h 15 à 12 h 30<br>Saint-Jean-sur-Richelieu ou en ligne</p>
+  <p class="date-prix" data-prix><strong>184 $</strong> <span>taxes incluses</span></p>
+  <a href="/contact?objet=activite&amp;activite=yoga-doux-printemps#formulaire" class="lien-fleche" data-libelle="Contact" aria-label="S’inscrire : Yoga doux, jeu 22 avr">S’inscrire</a>
+</li><li class="date-carte date-carte--tre" data-date data-debut="2027-04-22T14:30" data-fin="2027-06-10T15:45" data-resume="Exploration somatique TRE®, jeu 22 avr, Saint-Jean-sur-Richelieu" hidden>
+  <p class="date-quand" aria-hidden="true"><span class="date-num">22</span><span class="date-mois">avr</span><span class="date-jour">jeudi</span></p>
+  <h3 class="date-titre">Exploration somatique TRE®</h3>
+  <p class="date-sous">8 cours en présentiel</p>
+  <p class="date-infos">Jeudis du 22 avril au 10 juin, 14 h 30 à 15 h 45<br>Saint-Jean-sur-Richelieu</p>
+  <p class="date-prix" data-prix><strong>184 $</strong> <span>taxes incluses</span></p>
+  <a href="/contact?objet=activite&amp;activite=tre-printemps-presentiel#formulaire" class="lien-fleche" data-libelle="Contact" aria-label="S’inscrire : Exploration somatique TRE®, jeu 22 avr">S’inscrire</a>
+</li><li class="date-carte date-carte--pause" data-date data-debut="2027-04-23T19:00" data-fin="2027-04-23T20:45" data-resume="Pause printanière, ven 23 avr, Saint-Jean" hidden>
+  <p class="date-quand" aria-hidden="true"><span class="date-num">23</span><span class="date-mois">avr</span><span class="date-jour">vendredi</span></p>
+  <h3 class="date-titre">Pause printanière</h3>
+  <p class="date-sous">Atelier du vendredi soir</p>
+  <p class="date-infos">Vendredi 23 avril, 19 h à 20 h 45<br>Saint-Jean</p>
+  <p class="date-prix" data-prix><strong>46,00 $</strong> <span>taxes incluses</span></p>
+  <a href="/contact?objet=activite&amp;activite=pause-printemps-saint-jean#formulaire" class="lien-fleche" data-libelle="Contact" aria-label="S’inscrire : Pause printanière, ven 23 avr">S’inscrire</a>
+</li>
+    </ol>
+  </div>
+  <p class="conteneur lien-suite"><a href="/activites" class="lien-fleche" data-libelle="Activités">Tout l’agenda</a></p>
+</section>
+<section class="section approches" id="approches">
+  <div class="conteneur section-tete">
+    <p class="surtitre">Les approches</p>
+    <h2 class="titre-l" data-anime="lignes">Cinq façons d’<em>habiter</em> son corps</h2>
+    <p class="chapo">Toutes partent de la même idée : observer, ressentir, puis relâcher. Isabelle les combine selon vos besoins.</p>
+  </div>
+  <ul class="conteneur approches-grille">
+    <li class="approche-carte" style="--i:0" data-effet="relachement">
+      <a href="/approches#tre" class="approche-lien" data-libelle="Approches">
+        <figure class="media approche-media" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/tre-position-1168.webp" srcset="/assets/images/tre-position-1024.webp 1024w, /assets/images/tre-position-1168.webp 1168w" sizes="(max-width: 760px) 80vw, (max-width: 1100px) 33vw, 20vw" alt="Allongée, genoux pliés, une personne pratique un exercice de TRE" width="1168" height="1460" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <span class="approche-num">01</span>
+        <span class="approche-titre">Méthode TRE®</span>
+        <span class="approche-accroche">Sept exercices simples qui invitent le corps à relâcher, par de légers tremblements naturels.</span></a>
+    </li><li class="approche-carte" style="--i:1" data-effet="relachement">
+      <a href="/approches#yoga-doux" class="approche-lien" data-libelle="Approches">
+        <figure class="media approche-media" data-grok style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/grok/approche-yoga-doux-1600.webp" srcset="/assets/images/grok/approche-yoga-doux-1024.webp 1024w, /assets/images/grok/approche-yoga-doux-1168.webp 1168w, /assets/images/grok/approche-yoga-doux-1600.webp 1600w" sizes="(max-width: 760px) 80vw, (max-width: 1100px) 33vw, 20vw" alt="De dos, une personne assise en tailleur face à une fenêtre enneigée" width="1600" height="2000" loading="lazy" decoding="async">
+  </picture><figcaption class="mention-ia">Illustration générée</figcaption>
+</figure>
+        <span class="approche-num">02</span>
+        <span class="approche-titre">Yoga doux thérapeutique</span>
+        <span class="approche-accroche">Des enchaînements simples, coordonnés à la respiration, pour tout le corps.</span></a>
+    </li><li class="approche-carte" style="--i:2" data-effet="relachement">
+      <a href="/approches#yoga-somatique" class="approche-lien" data-libelle="Approches">
+        <figure class="media approche-media" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/somatique-isabelle-1168.webp" srcset="/assets/images/somatique-isabelle-1024.webp 1024w, /assets/images/somatique-isabelle-1168.webp 1168w" sizes="(max-width: 760px) 80vw, (max-width: 1100px) 33vw, 20vw" alt="Isabelle Cloutier dans son studio, assise, penchée en avant dans un mouvement lent" width="1168" height="1460" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <span class="approche-num">03</span>
+        <span class="approche-titre">Yoga somatique</span>
+        <span class="approche-accroche">Observer le mouvement de l&#39;intérieur pour en changer les habitudes.</span></a>
+    </li><li class="approche-carte" style="--i:3" data-effet="relachement">
+      <a href="/approches#automassage" class="approche-lien" data-libelle="Approches">
+        <figure class="media approche-media" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/balles-soleil-1168.webp" srcset="/assets/images/balles-soleil-1024.webp 1024w, /assets/images/balles-soleil-1168.webp 1168w" sizes="(max-width: 760px) 80vw, (max-width: 1100px) 33vw, 20vw" alt="Des balles d&#39;automassage lilas, turquoise et vertes au soleil sur un plancher" width="1168" height="1460" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <span class="approche-num">04</span>
+        <span class="approche-titre">Automassage avec balles</span>
+        <span class="approche-accroche">Des balles thérapeutiques pour relâcher soi-même les tissus du corps.</span></a>
+    </li><li class="approche-carte" style="--i:4" data-effet="relachement">
+      <a href="/approches#accompagnement" class="approche-lien" data-libelle="Approches">
+        <figure class="media approche-media" data-grok style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/grok/approche-accompagnement-1600.webp" srcset="/assets/images/grok/approche-accompagnement-1024.webp 1024w, /assets/images/grok/approche-accompagnement-1168.webp 1168w, /assets/images/grok/approche-accompagnement-1600.webp 1600w" sizes="(max-width: 760px) 80vw, (max-width: 1100px) 33vw, 20vw" alt="Une petite salle calme pour les séances individuelles, un matelas, une couverture, un verre d&#39;eau" width="1600" height="2000" loading="lazy" decoding="async">
+  </picture><figcaption class="mention-ia">Illustration générée</figcaption>
+</figure>
+        <span class="approche-num">05</span>
+        <span class="approche-titre">Accompagnement somatique</span>
+        <span class="approche-accroche">Des séances individuelles, construites selon vos besoins.</span></a>
+    </li>
+  </ul>
+  <p class="conteneur lien-suite"><a href="/approches" class="lien-fleche" data-libelle="Approches">Les approches en détail</a></p>
+</section>
+<section class="section scene-tre theme-prune" id="tre">
+  <div class="conteneur scene-tre-grille">
+    <div class="scene-tre-texte">
+      <p class="surtitre">Méthode TRE®</p>
+      <h2 class="titre-l" data-anime="lignes">Sept exercices, puis le corps <em>relâche.</em></h2>
+      <p>Quelques exercices simples réveillent un mécanisme naturel : de légers tremblements qui aident à relâcher les tensions accumulées. On les apprend une fois, on les garde pour soi.</p>
+      <ol class="etapes" data-anime="cascade">
+        <li><span class="etape-num">1</span><strong>Comprendre</strong><span>La méthode, et ce que font les tremblements dans le corps.</span></li>
+        <li><span class="etape-num">2</span><strong>Expérimenter</strong><span>Les sept exercices, guidés, en petit groupe ou en séance privée.</span></li>
+        <li><span class="etape-num">3</span><strong>Pratiquer</strong><span>Chez soi, à son rythme, quand on en a besoin.</span></li>
+      </ol>
+      <p class="petit">Méthode créée par le Dr David Berceli. Ces approches visent le bien-être. Elles ne remplacent pas un suivi médical ou psychologique : en cas de doute, parlez-en à votre médecin.</p>
+      <p><a href="/methode-tre" class="bouton bouton--lime" data-libelle="Méthode TRE®">Découvrir la méthode</a></p>
+    </div>
+    <div class="scene-tre-visuel" data-visuel aria-hidden="true">
+      <svg class="vagues-tre" viewBox="0 0 600 420" preserveAspectRatio="xMidYMid meet" data-effet="vagues-tre">
+        <path class="vt vt-1" d="M20 150 L580 150"/><path class="vt vt-2" d="M20 210 L580 210"/><path class="vt vt-3" d="M20 270 L580 270"/>
+      </svg>
+      <p class="vagues-etat"><span data-etat="tension">tension</span><span data-etat="tremblement">tremblements</span><span data-etat="calme">calme</span></p>
+    </div>
+  </div>
+</section>
+<section class="section formats" id="formats">
+  <div class="conteneur section-tete section-tete--ligne">
+    <div>
+      <p class="surtitre">Comment pratiquer</p>
+      <h2 class="titre-l" data-anime="lignes">À votre <em>rythme</em></h2>
+    </div>
+    <p class="chapo">En privé, en groupe, en ligne ou dans votre organisme : choisissez la forme qui vous va.</p>
+  </div>
+  <div class="balles-piste" aria-hidden="true">
+    <span class="balle balle--lilas" data-effet="balles"></span><span class="balle balle--turquoise" data-effet="balles"></span><span class="balle balle--lime" data-effet="balles"></span><span class="balle balle--ardoise" data-effet="balles"></span>
+  </div>
+  <ul class="conteneur formats-grille" data-anime="cascade">
+    <li class="format-carte format-carte--prive">
+      <figure class="media format-media" data-grok style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/grok/formats-prive-1168.webp" srcset="/assets/images/grok/formats-prive-1168.webp 1168w" sizes="(max-width: 760px) 92vw, 30vw" alt="Deux coussins face à face sur un tapis, prêts pour une séance privée" width="1168" height="730" loading="lazy" decoding="async">
+  </picture><figcaption class="mention-ia">Illustration générée</figcaption>
+</figure>
+      <h3>Séance privée</h3>
+      <p>Seul·e, en duo ou en famille, à la Clinique ATMA (Vieux-Longueuil) ou à Saint-Jean-sur-Richelieu.</p>
+      <a href="/contact?sujet=prive" class="lien-fleche" data-libelle="Contact">Demander une séance</a>
+    </li><li class="format-carte format-carte--session">
+      <figure class="media format-media" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/groupe-sol-1168.webp" srcset="/assets/images/groupe-sol-1168.webp 1168w" sizes="(max-width: 760px) 92vw, 30vw" alt="Un petit groupe allongé sur des tapis, en mouvement lent" width="1168" height="730" loading="lazy" decoding="async">
+  </picture>
+</figure>
+      <h3>Cours en session</h3>
+      <p>Le jeudi, en hiver et au printemps : yoga doux et exploration somatique TRE®.</p>
+      <a href="/activites?type=yoga" class="lien-fleche" data-libelle="Activités">Voir les sessions</a>
+    </li><li class="format-carte format-carte--ateliers">
+      <figure class="media format-media" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/lac-matin-1168.webp" srcset="/assets/images/lac-matin-1168.webp 1168w" sizes="(max-width: 760px) 92vw, 30vw" alt="Une personne médite sur un quai, au bord d&#39;un lac dans la brume du matin" width="1168" height="730" loading="lazy" decoding="async">
+  </picture>
+</figure>
+      <h3>Ateliers et pauses</h3>
+      <p>Introduction au TRE®, Pauses de saison en Estrie et à Saint-Jean.</p>
+      <a href="/activites?type=pause" class="lien-fleche" data-libelle="Activités">Voir les ateliers</a>
+    </li><li class="format-carte format-carte--en-ligne">
+      <figure class="media format-media" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/en-ligne-1168.webp" srcset="/assets/images/en-ligne-1168.webp 1168w" sizes="(max-width: 760px) 92vw, 30vw" alt="Un ordinateur portable ouvert sur un cours de yoga, posé sur un tapis" width="1168" height="730" loading="lazy" decoding="async">
+  </picture>
+</figure>
+      <h3>En ligne</h3>
+      <p>Les cours par Zoom, en direct ou en différé pendant 7 jours.</p>
+      <a href="/activites?lieu=en-ligne" class="lien-fleche" data-libelle="Activités">Voir les cours en ligne</a>
+    </li><li class="format-carte format-carte--entreprises">
+      <figure class="media format-media" data-grok style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/grok/formats-entreprises-1168.webp" srcset="/assets/images/grok/formats-entreprises-1168.webp 1168w" sizes="(max-width: 760px) 92vw, 30vw" alt="Une salle de réunion transformée : la table poussée, des tapis au sol" width="1168" height="730" loading="lazy" decoding="async">
+  </picture><figcaption class="mention-ia">Illustration générée</figcaption>
+</figure>
+      <h3>Entreprises et organismes</h3>
+      <p>Des ateliers sur demande, dans vos locaux ou en ligne.</p>
+      <a href="/contact?sujet=entreprise" class="lien-fleche" data-libelle="Contact">Proposer un atelier</a>
+    </li>
+  </ul>
+</section>
+<section class="section lieux theme-lilas" id="lieux">
+  <div class="conteneur lieux-grille">
+    <div>
+      <p class="surtitre">Où pratiquer</p>
+      <h2 class="titre-l" data-anime="lignes">Quatre lieux, <em>et votre salon</em></h2>
+      <p class="chapo">Saint-Jean-sur-Richelieu, le Vieux-Longueuil, Potton Springs en Estrie, et Zoom pour pratiquer depuis chez vous.</p>
+      <ul class="lieux-liste" data-anime="cascade">
+        <li data-lieu="saint-jean"><strong>Saint-Jean-sur-Richelieu</strong><span>Cours en session, ateliers et séances de thérapie somatique.</span></li><li data-lieu="atma"><strong>Vieux-Longueuil</strong><span>Séances privées de TRE® et de thérapie somatique.</span></li><li data-lieu="potton"><strong>Potton Springs, Estrie</strong><span>Les Pauses de saison, le samedi matin.</span></li><li data-lieu="en-ligne"><strong>En ligne</strong><span>Cours de yoga doux et d&#39;exploration TRE®, où que vous soyez.</span></li>
+      </ul>
+    </div>
+    <figure class="carte-lieux" data-effet="lieux" data-visuel>
+      <svg class="carte-svg" viewBox="0 0 600 420" role="img" aria-label="Quatre lieux, et votre salon">
+  <rect x="0" y="0" width="600" height="420" rx="24" class="carte-fond"/>
+  <path class="carte-eau" d="M0 150 C 40 128 70 100 92 76 C 112 54 120 30 132 0" />
+  <path class="carte-riviere" d="M168 420 C 176 340 186 260 195 196 C 204 140 220 80 236 0" />
+  <path class="carte-lac" d="M584 300 C 596 330 600 370 596 420 L 600 420 L 600 300 Z" />
+  <path class="carte-frontiere" d="M0 392 L600 392" />
+  <text x="18" y="410" class="carte-etiquette carte-etiquette--douce">États-Unis</text>
+  <text x="210" y="300" class="carte-etiquette carte-etiquette--douce" transform="rotate(-84 210 300)">Rivière Richelieu</text>
+  <text x="420" y="250" class="carte-etiquette carte-etiquette--region">Estrie</text>
+  <circle cx="62" cy="86" r="5" class="carte-ville"/><text x="22" y="112" class="carte-etiquette">Montréal</text>
+  <g class="carte-lieu" data-lieu="saint-jean" style="--i:0">
+    <circle cx="195" cy="196" r="22" class="carte-halo"/>
+    <circle cx="195" cy="196" r="9" class="carte-point" data-repere/>
+    <text x="211" y="180" text-anchor="start" class="carte-etiquette carte-etiquette--lieu">Saint-Jean-sur-Richelieu</text>
+  </g><g class="carte-lieu" data-lieu="atma" style="--i:1">
+    <circle cx="97" cy="52" r="22" class="carte-halo"/>
+    <circle cx="97" cy="52" r="9" class="carte-point" data-repere/>
+    <text x="113" y="36" text-anchor="start" class="carte-etiquette carte-etiquette--lieu">Vieux-Longueuil</text>
+  </g><g class="carte-lieu" data-lieu="potton" style="--i:2">
+    <circle cx="543" cy="358" r="22" class="carte-halo"/>
+    <circle cx="543" cy="358" r="9" class="carte-point" data-repere/>
+    <text x="527" y="342" text-anchor="end" class="carte-etiquette carte-etiquette--lieu">Potton Springs, Estrie</text>
+  </g>
+</svg>
+      <figcaption>Carte schématique</figcaption>
+    </figure>
+  </div>
+</section>
+<section class="section isabelle" id="isabelle">
+  <div class="conteneur isabelle-grille">
+    <figure class="media isabelle-media" data-anime="rideau" style="--cadrage:52% 28%;aspect-ratio:4 / 5">
+  <picture>
+    <img src="/assets/images/isabelle-portrait-800.webp" srcset="/assets/images/isabelle-portrait-480.webp 480w, /assets/images/isabelle-portrait-800.webp 800w" sizes="(max-width: 760px) 70vw, 26vw" alt="Isabelle Cloutier, souriante, en veste noire" width="800" height="1000" loading="lazy" decoding="async">
+  </picture><figcaption class="media-legende">Photo : djubox.ca</figcaption>
+</figure>
+    <div>
+      <p class="surtitre">Votre enseignante</p>
+      <h2 class="titre-l" data-anime="lignes">Isabelle <em>Cloutier</em></h2>
+      <p>Enseignante de yoga depuis 2006, Isabelle s’est formée au yoga thérapeutique, au yoga somatique, à la pleine conscience et à la méthode TRE®. Elle propose un yoga adapté à chacun, tourné vers l’observation de soi plutôt que vers la performance.</p>
+      <dl class="isabelle-chiffres">
+        <div><dt><span class="gros-chiffre" data-compteur="20">20</span></dt><dd>ans d’enseignement</dd></div>
+        <div><dt><span class="gros-chiffre" data-compteur="32">32</span></dt><dd>formations suivies depuis 2005</dd></div>
+      </dl>
+      <ul class="puces" data-anime="cascade">
+        <li>Enseignante en yoga et yoga thérapeutique</li><li>Praticienne de la méthode TRE®</li><li>Thérapeute somatique, membre du RITMA</li><li>Facilitatrice en pleine conscience</li>
+      </ul>
+      <p><a href="/a-propos" class="lien-fleche" data-libelle="À propos">Son parcours</a></p>
+    </div>
+  </div>
+</section>
+<section class="section temoignages" id="temoignages">
+  <div class="conteneur section-tete">
+    <p class="surtitre">Ils en parlent</p>
+    <h2 class="titre-l" data-anime="lignes">Ce qu’en disent les participants</h2>
+    <p class="chapo">Témoignages de participantes et de participants à la méthode TRE®.</p>
+  </div>
+  <div class="conteneur temoignages-grille" data-anime="cascade">
+    <figure class="temoignage">
+      <blockquote><p>« Un moyen précieux que je conseille à tous. »</p></blockquote>
+      <figcaption><strong>Lucie D.</strong>, Varennes</figcaption>
+    </figure><figure class="temoignage">
+      <blockquote><p>« Mon meilleur allié pour faire face aux inévitables sources de stress. »</p></blockquote>
+      <figcaption><strong>Hélène P.</strong>, Longueuil</figcaption>
+    </figure><figure class="temoignage">
+      <blockquote><p>« Surtout il m&#39;apporte le calme et la détente en libérant les tensions accumulées. »</p></blockquote>
+      <figcaption><strong>Ginette L.</strong>, Longueuil</figcaption>
+    </figure>
+  </div>
+  <p class="conteneur lien-suite"><a href="/methode-tre#temoignages" class="lien-fleche" data-libelle="Méthode TRE®">Tous les témoignages</a></p>
+</section>
+<section class="section fin theme-prune" id="fin">
+  <div class="conteneur fin-grille">
+    <figure class="citation">
+      <blockquote><p data-anime="mots">« Vous est-il possible de retrouver les clefs de votre corps, d’en prendre possession, l’habiter enfin ? »</p></blockquote>
+      <figcaption>Thérèse Bertherat</figcaption>
+    </figure>
+    <div class="fin-appel">
+      <div class="fin-lotus" data-effet="lotus-fin"><svg class="lotus lotus-vivant" viewBox="0 0 800 800" aria-hidden="true" focusable="false">
+  <circle class="lotus-cercle" cx="400" cy="400" r="386" fill="none" stroke="currentColor" stroke-width="18" pathLength="1"/>
+  <g fill="none" stroke="currentColor" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <path class="lotus-petales" d="M400 565 C 300 470 300 262 400 172 C 500 262 500 470 400 565 M248 195 C 205 330 262 522 400 565 M248 195 C 345 235 412 385 400 565 M552 195 C 595 330 538 522 400 565 M552 195 C 455 235 388 385 400 565 M112 293 C 122 450 262 567 400 565 M112 293 C 262 293 372 425 396 560 M688 293 C 678 450 538 567 400 565 M688 293 C 538 293 428 425 404 560" pathLength="1"/>
+    <path class="lotus-vague lotus-vague--1" d="M258 625.0 L265 620.0 L272 616.1 L279 614.1 L285 614.5 L292 617.2 L299 621.6 L306 626.7 L313 631.5 L320 634.8 L327 636.0 L333 634.8 L340 631.5 L347 626.7 L354 621.6 L361 617.2 L368 614.5 L374 614.1 L381 616.1 L388 620.0 L395 625.0 L402 630.0 L409 633.9 L416 635.9 L422 635.5 L429 632.8 L436 628.4 L443 623.3 L450 618.5 L457 615.2 L464 614.0 L470 615.2 L477 618.5 L484 623.3 L491 628.4 L498 632.8 L505 635.5 L511 635.9 L518 633.9 L525 630.0 L532 625.0"/>
+    <path class="lotus-vague lotus-vague--2" d="M258 665.0 L265 660.0 L272 656.1 L279 654.1 L285 654.5 L292 657.2 L299 661.6 L306 666.7 L313 671.5 L320 674.8 L327 676.0 L333 674.8 L340 671.5 L347 666.7 L354 661.6 L361 657.2 L368 654.5 L374 654.1 L381 656.1 L388 660.0 L395 665.0 L402 670.0 L409 673.9 L416 675.9 L422 675.5 L429 672.8 L436 668.4 L443 663.3 L450 658.5 L457 655.2 L464 654.0 L470 655.2 L477 658.5 L484 663.3 L491 668.4 L498 672.8 L505 675.5 L511 675.9 L518 673.9 L525 670.0 L532 665.0"/>
+    <circle class="lotus-point" cx="398" cy="132" r="13"/><circle class="lotus-point" cx="172" cy="246" r="13"/><circle class="lotus-point" cx="626" cy="246" r="13"/>
+  </g>
+</svg></div>
+      <h2 class="titre-l" data-anime="lignes">Envie <em>d’essayer ?</em></h2>
+      <p>Écrivez ou appelez Isabelle : elle vous aide à choisir entre une séance privée, un atelier ou une session.</p>
+      <p class="fin-actions">
+        <a href="/contact" class="bouton bouton--lime" data-libelle="Contact" data-survol="magnetique">Écrire à Isabelle</a>
+        <a class="bouton bouton--contour" href="tel:+15145702260">514-570-2260</a>
+      </p>
+      <p class="petit">Courriel : <span class="selectionnable">izabellule@hotmail.com</span></p>
+    </div>
+  </div>
+</section>
+</main>
+<footer class="pied" id="pied">
+  <div class="conteneur pied-grille">
+    <div class="pied-marque">
+      <svg class="lotus pied-lotus" viewBox="0 0 800 800" aria-hidden="true" focusable="false">
+  <circle class="lotus-cercle" cx="400" cy="400" r="386" fill="none" stroke="currentColor" stroke-width="18" pathLength="1"/>
+  <g fill="none" stroke="currentColor" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <path class="lotus-petales" d="M400 565 C 300 470 300 262 400 172 C 500 262 500 470 400 565 M248 195 C 205 330 262 522 400 565 M248 195 C 345 235 412 385 400 565 M552 195 C 595 330 538 522 400 565 M552 195 C 455 235 388 385 400 565 M112 293 C 122 450 262 567 400 565 M112 293 C 262 293 372 425 396 560 M688 293 C 678 450 538 567 400 565 M688 293 C 538 293 428 425 404 560" pathLength="1"/>
+    <path class="lotus-vague lotus-vague--1" d="M258 625.0 L265 620.0 L272 616.1 L279 614.1 L285 614.5 L292 617.2 L299 621.6 L306 626.7 L313 631.5 L320 634.8 L327 636.0 L333 634.8 L340 631.5 L347 626.7 L354 621.6 L361 617.2 L368 614.5 L374 614.1 L381 616.1 L388 620.0 L395 625.0 L402 630.0 L409 633.9 L416 635.9 L422 635.5 L429 632.8 L436 628.4 L443 623.3 L450 618.5 L457 615.2 L464 614.0 L470 615.2 L477 618.5 L484 623.3 L491 628.4 L498 632.8 L505 635.5 L511 635.9 L518 633.9 L525 630.0 L532 625.0"/>
+    <path class="lotus-vague lotus-vague--2" d="M258 665.0 L265 660.0 L272 656.1 L279 654.1 L285 654.5 L292 657.2 L299 661.6 L306 666.7 L313 671.5 L320 674.8 L327 676.0 L333 674.8 L340 671.5 L347 666.7 L354 661.6 L361 657.2 L368 654.5 L374 654.1 L381 656.1 L388 660.0 L395 665.0 L402 670.0 L409 673.9 L416 675.9 L422 675.5 L429 672.8 L436 668.4 L443 663.3 L450 658.5 L457 655.2 L464 654.0 L470 655.2 L477 658.5 L484 663.3 L491 668.4 L498 672.8 L505 675.5 L511 675.9 L518 673.9 L525 670.0 L532 665.0"/>
+    <circle class="lotus-point" cx="398" cy="132" r="13"/><circle class="lotus-point" cx="172" cy="246" r="13"/><circle class="lotus-point" cx="626" cy="246" r="13"/>
+  </g>
+</svg>
+      <p class="pied-nom">Lalita Mati<br><span>Isabelle Cloutier</span></p>
+      <p>Saint-Jean-sur-Richelieu · Vieux-Longueuil · Estrie · en ligne</p>
+    </div>
+    <div>
+      <p><strong>Écrire à Isabelle</strong></p>
+      <p><a href="tel:+15145702260">514-570-2260</a><br><a href="mailto:izabellule@hotmail.com">izabellule@hotmail.com</a></p>
+    </div>
+    <nav aria-label="Plan du site">
+      <p><strong>Plan du site</strong></p>
+      <ul><li><a href="/" data-libelle="Accueil" aria-current="page">Accueil</a></li><li><a href="/activites" data-libelle="Activités">Activités</a></li><li><a href="/approches" data-libelle="Approches">Approches</a></li><li><a href="/methode-tre" data-libelle="Méthode TRE®">Méthode TRE®</a></li><li><a href="/a-propos" data-libelle="À propos">À propos</a></li><li><a href="/contact" data-libelle="Contact">Contact</a></li></ul>
+    </nav>
+    <div>
+      <p><strong>Suivre Lalita Mati</strong></p>
+      <ul>
+        <li><a href="https://www.facebook.com/yogalalitamati/" target="_blank" rel="noopener">Facebook<span class="visuellement-cache"> (s’ouvre dans un nouvel onglet)</span></a></li>
+        <li><a href="https://www.youtube.com/channel/UChI_zy8Xa_uAhh0LkR26-WQ/featured" target="_blank" rel="noopener">YouTube<span class="visuellement-cache"> (s’ouvre dans un nouvel onglet)</span></a></li>
+        <li><a href="#haut" data-sans-transition>Retour en haut</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="conteneur pied-bas"><p>Mentions légales · Politique de confidentialité : à compléter</p><p>Maquette : les informations marquées « à compléter » seront fournies par Isabelle Cloutier.</p><p>© Lalita Mati, Isabelle Cloutier</p></div>
+</footer>
+<div data-barre-fixe>
+  <a class="bouton bouton--contour" href="tel:+15145702260">Appeler</a>
+  <a class="bouton" href="/activites" data-libelle="Activités">S’inscrire</a>
+</div>
+</body>
+</html>

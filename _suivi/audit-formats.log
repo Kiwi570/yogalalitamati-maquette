@@ -1,0 +1,22 @@
+… mesures
+  17/273
+  44/273
+  73/273
+  93/273
+  121/273
+  137/273
+  162/273
+  184/273
+  207/273
+  238/273
+  260/273
+  fait en 348 s
+… mesures:balayage
+  fait en 55 s
+… ecran
+  fait en 16 s
+
+Échecs : 5 · À regarder : 48 · Non lancé : 0
+Relancer seulement ce qui a échoué : node _audit/audit.mjs --complet --pages=/,/methode-tre --seulement=fichiers,mesures
+Rapport : /home/claude/yogalalitamati-maquette/_audit/rapport/rapport.md (passe 20261120-212151-complet-partiel)
+FIN

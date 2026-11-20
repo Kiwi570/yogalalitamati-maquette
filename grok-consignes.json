@@ -1,0 +1,201 @@
+{
+  "client": "Yoga Lalita Mati",
+  "activite": "bien-être",
+  "direction": "Relâcher",
+  "date": "2026-11-20T19:52:12.644Z",
+  "images": [
+    {
+      "nom": "grok/accueil-ouverture",
+      "fichier": "accueil-ouverture.jpg",
+      "page": "Accueil",
+      "emplacement": "ouverture, image à droite du titre",
+      "role": "ouverture",
+      "format": "4:5",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "scene-metier",
+      "pieges": [
+        "visages"
+      ],
+      "consigne": "A person lying on their back on a pale grey yoga mat, knees bent and feet flat on the floor, arms resting loosely beside the body, the frame cropped at the shoulders so the head is completely outside the image, soft grey-lilac cotton clothes, barefoot, in a bright quiet yoga room with a pale lilac-grey painted wall and a light oak floor, three soft matte rubber massage balls in lilac, turquoise and lime green resting on the floor in the foreground, calm and intimate. Vertical composition, aspect ratio 4:5, main subject well inside the central area with generous margins on every side, so the image can be cropped, quiet uncluttered area in the upper half for a title. Soft natural documentary photography, calm, bright and gently joyful mood, palette of pale lilac-grey, soft cream and light oak, with small touches of turquoise and lime green, soft diffuse winter daylight from a large window, tactile light oak, natural linen and oatmeal wool, set in a North American countryside of low rounded hills with spruce and birch forest on a winter morning, gentle mist, fine film grain, calm and hopeful, realistic. No religious or spiritual symbols (no buddha, no mandala, no incense, no dreamcatcher), no violet or neon light, no therapy session, no face, no extra hands, no power lines, no pylons. Seen strictly from behind, face never visible, head turned away, or cropped at the shoulders. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "grok/activites-ouverture",
+      "fichier": "activites-ouverture.jpg",
+      "page": "Activités",
+      "emplacement": "ouverture, bandeau sous le titre",
+      "role": "ouverture",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "scene-metier",
+      "pieges": [
+        "visages"
+      ],
+      "consigne": "A bright empty yoga studio prepared for a small group class on a winter morning: six pale grey yoga mats laid in two neat rows on a light oak floor, each with a folded oatmeal wool blanket and a round linen cushion, a large window showing snow-covered spruce and birch trees outside, a pale lilac-grey wall, peaceful and welcoming. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, quiet uncluttered area in the upper half for a title. Soft natural documentary photography, calm, bright and gently joyful mood, palette of pale lilac-grey, soft cream and light oak, with small touches of turquoise and lime green, soft diffuse winter daylight from a large window, tactile light oak, natural linen and oatmeal wool, set in a North American countryside of low rounded hills with spruce and birch forest on a winter morning, gentle mist, fine film grain, calm and hopeful, realistic. No religious or spiritual symbols (no buddha, no mandala, no incense, no dreamcatcher), no violet or neon light, no therapy session, no face, no extra hands, no power lines, no pylons. Seen strictly from behind, face never visible, head turned away, or cropped at the shoulders. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "grok/approches-ouverture",
+      "fichier": "approches-ouverture.jpg",
+      "page": "Approches somatiques",
+      "emplacement": "ouverture plein cadre, titre à gauche (ordinateur)",
+      "role": "ouverture",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "scene-metier",
+      "pieges": [],
+      "consigne": "Seen from directly above, a light oak floor with a pale grey yoga mat, a folded oatmeal wool blanket, a round linen meditation cushion, and five soft matte rubber massage balls in lilac, turquoise, lime green and slate blue scattered in a loose gentle arc, all grouped on one side of the frame, long soft window shadows across the floor, the rest of the floor plain and empty. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, generous empty space on the left third of the frame for a title. Soft natural documentary photography, calm, bright and gently joyful mood, palette of pale lilac-grey, soft cream and light oak, with small touches of turquoise and lime green, soft diffuse winter daylight from a large window, tactile light oak, natural linen and oatmeal wool, set in a North American countryside of low rounded hills with spruce and birch forest on a winter morning, gentle mist, fine film grain, calm and hopeful, realistic. No religious or spiritual symbols (no buddha, no mandala, no incense, no dreamcatcher), no violet or neon light, no therapy session, no face, no extra hands, no power lines, no pylons. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "grok/approches-ouverture",
+      "fichier": "approches-ouverture-mobile.jpg",
+      "page": "Approches somatiques",
+      "emplacement": "ouverture plein cadre, titre à gauche (téléphone)",
+      "role": "ouverture",
+      "format": "9:16",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "scene-metier",
+      "pieges": [],
+      "consigne": "Seen from directly above, a light oak floor with a pale grey yoga mat, a folded oatmeal wool blanket, a round linen meditation cushion, and five soft matte rubber massage balls in lilac, turquoise, lime green and slate blue scattered in a loose gentle arc, all grouped on one side of the frame, long soft window shadows across the floor, the rest of the floor plain and empty. Vertical composition, aspect ratio 9:16, highest resolution available, at least 1080 pixels wide, main subject well inside the central area with generous margins on every side, so the image can be cropped, main subject in the lower half, quiet uncluttered area in the upper half for a title. Soft natural documentary photography, calm, bright and gently joyful mood, palette of pale lilac-grey, soft cream and light oak, with small touches of turquoise and lime green, soft diffuse winter daylight from a large window, tactile light oak, natural linen and oatmeal wool, set in a North American countryside of low rounded hills with spruce and birch forest on a winter morning, gentle mist, fine film grain, calm and hopeful, realistic. No religious or spiritual symbols (no buddha, no mandala, no incense, no dreamcatcher), no violet or neon light, no therapy session, no face, no extra hands, no power lines, no pylons. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "grok/tre-ouverture",
+      "fichier": "tre-ouverture.jpg",
+      "page": "Méthode TRE",
+      "emplacement": "ouverture, image à droite du grand chiffre",
+      "role": "ouverture",
+      "format": "4:5",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "texture",
+      "pieges": [],
+      "consigne": "Close view of a perfectly calm water surface at dawn, a few soft concentric ripples spreading slowly outward from a single point near the center, a thin veil of mist above the water, pale lilac, silver and soft grey tones, minimal and tranquil, no shore visible. Vertical composition, aspect ratio 4:5, main subject well inside the central area with generous margins on every side, so the image can be cropped, quiet uncluttered area in the upper half for a title. Soft natural documentary photography, calm, bright and gently joyful mood, palette of pale lilac-grey, soft cream and light oak, with small touches of turquoise and lime green, soft diffuse winter daylight from a large window, tactile light oak, natural linen and oatmeal wool, set in a North American countryside of low rounded hills with spruce and birch forest on a winter morning, gentle mist, fine film grain, calm and hopeful, realistic. No religious or spiritual symbols (no buddha, no mandala, no incense, no dreamcatcher), no violet or neon light, no therapy session, no face, no extra hands, no power lines, no pylons. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "grok/contact-ouverture",
+      "fichier": "contact-ouverture.jpg",
+      "page": "Contact",
+      "emplacement": "ouverture, image à droite du titre",
+      "role": "ouverture",
+      "format": "4:5",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "texture",
+      "pieges": [],
+      "consigne": "A handmade pale ceramic cup of herbal tea with a thin wisp of steam on a wide light wooden windowsill, a folded oatmeal knit blanket beside it, snow-covered birch trees softly blurred outside the window, cool winter light with a warm reflection on the cup, calm and inviting. Vertical composition, aspect ratio 4:5, main subject well inside the central area with generous margins on every side, so the image can be cropped, quiet uncluttered area in the upper half for a title. Soft natural documentary photography, calm, bright and gently joyful mood, palette of pale lilac-grey, soft cream and light oak, with small touches of turquoise and lime green, soft diffuse winter daylight from a large window, tactile light oak, natural linen and oatmeal wool, set in a North American countryside of low rounded hills with spruce and birch forest on a winter morning, gentle mist, fine film grain, calm and hopeful, realistic. No religious or spiritual symbols (no buddha, no mandala, no incense, no dreamcatcher), no violet or neon light, no therapy session, no face, no extra hands, no power lines, no pylons. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "grok/page-404",
+      "fichier": "page-404.jpg",
+      "page": "404",
+      "emplacement": "image en tête de page",
+      "role": "section-fond",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "404",
+      "pieges": [],
+      "consigne": "An empty pale grey yoga mat on a light oak floor in a quiet bright room, a single lime-green soft massage ball rolling away toward the right edge of the frame with a slight motion blur, a pale lilac-grey wall, soft daylight, a lot of calm empty space in the upper half. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, quiet uncluttered area in the upper half for a title. Soft natural documentary photography, calm, bright and gently joyful mood, palette of pale lilac-grey, soft cream and light oak, with small touches of turquoise and lime green, soft diffuse winter daylight from a large window, tactile light oak, natural linen and oatmeal wool, set in a North American countryside of low rounded hills with spruce and birch forest on a winter morning, gentle mist, fine film grain, calm and hopeful, realistic. No religious or spiritual symbols (no buddha, no mandala, no incense, no dreamcatcher), no violet or neon light, no therapy session, no face, no extra hands, no power lines, no pylons. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "grok/approche-yoga-doux",
+      "fichier": "approche-yoga-doux.jpg",
+      "page": "Accueil et Approches",
+      "emplacement": "carte Yoga doux thérapeutique",
+      "role": "galerie",
+      "format": "4:5",
+      "grok": "784×1168",
+      "priorite": "Conseillée",
+      "gabarit": "portrait-generique",
+      "pieges": [
+        "mains en trop",
+        "visages"
+      ],
+      "consigne": "Seen from behind, a person sitting tall and cross-legged on a pale grey yoga mat facing a large window with a snowy forest outside, shoulders relaxed, hands resting on the knees, only the back, shoulders and softly blurred hair visible, the face not visible at all, a pale lilac-grey wall, soft winter light. Vertical composition, aspect ratio 4:5, main subject well inside the central area with generous margins on every side, so the image can be cropped. Soft natural documentary photography, calm, bright and gently joyful mood, palette of pale lilac-grey, soft cream and light oak, with small touches of turquoise and lime green, soft diffuse winter daylight from a large window, tactile light oak, natural linen and oatmeal wool, set in a North American countryside of low rounded hills with spruce and birch forest on a winter morning, gentle mist, fine film grain, calm and hopeful, realistic. No religious or spiritual symbols (no buddha, no mandala, no incense, no dreamcatcher), no violet or neon light, no therapy session, no face, no extra hands, no power lines, no pylons. Only two hands, both belonging to one single person and clearly attached to the same forearms, no other hand anywhere in the frame. Seen strictly from behind, face never visible, head turned away, or cropped at the shoulders. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "grok/approche-somatique",
+      "fichier": "approche-somatique.jpg",
+      "page": "Accueil et Approches",
+      "emplacement": "carte Yoga somatique",
+      "role": "galerie",
+      "format": "4:5",
+      "grok": "784×1168",
+      "priorite": "Conseillée",
+      "gabarit": "portrait-generique",
+      "pieges": [
+        "visages"
+      ],
+      "consigne": "A person lying on their side on a pale grey yoga mat, slowly drawing one arm in a wide soft arc above the body, seen from behind so the face is not visible at all, soft grey clothes, barefoot, a pale lilac-grey wall and a light oak floor, soft daylight, slow and mindful movement. Vertical composition, aspect ratio 4:5, main subject well inside the central area with generous margins on every side, so the image can be cropped. Soft natural documentary photography, calm, bright and gently joyful mood, palette of pale lilac-grey, soft cream and light oak, with small touches of turquoise and lime green, soft diffuse winter daylight from a large window, tactile light oak, natural linen and oatmeal wool, set in a North American countryside of low rounded hills with spruce and birch forest on a winter morning, gentle mist, fine film grain, calm and hopeful, realistic. No religious or spiritual symbols (no buddha, no mandala, no incense, no dreamcatcher), no violet or neon light, no therapy session, no face, no extra hands, no power lines, no pylons. Seen strictly from behind, face never visible, head turned away, or cropped at the shoulders. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "grok/approche-accompagnement",
+      "fichier": "approche-accompagnement.jpg",
+      "page": "Accueil et Approches",
+      "emplacement": "carte Accompagnement somatique",
+      "role": "galerie",
+      "format": "4:5",
+      "grok": "784×1168",
+      "priorite": "Conseillée",
+      "gabarit": "scene-metier",
+      "pieges": [],
+      "consigne": "A quiet small room for individual somatic sessions: a thick padded mat on a light oak floor with a folded oatmeal wool blanket and a small linen pillow, a low wooden stool, a clear glass of water, a green plant, soft window light, a pale lilac-grey wall, peaceful and empty. Vertical composition, aspect ratio 4:5, main subject well inside the central area with generous margins on every side, so the image can be cropped. Soft natural documentary photography, calm, bright and gently joyful mood, palette of pale lilac-grey, soft cream and light oak, with small touches of turquoise and lime green, soft diffuse winter daylight from a large window, tactile light oak, natural linen and oatmeal wool, set in a North American countryside of low rounded hills with spruce and birch forest on a winter morning, gentle mist, fine film grain, calm and hopeful, realistic. No religious or spiritual symbols (no buddha, no mandala, no incense, no dreamcatcher), no violet or neon light, no therapy session, no face, no extra hands, no power lines, no pylons. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "grok/formats-prive",
+      "fichier": "formats-prive.jpg",
+      "page": "Accueil",
+      "emplacement": "carte Séance privée",
+      "role": "carte-service",
+      "format": "16:10",
+      "grok": "1168×784",
+      "priorite": "Conseillée",
+      "gabarit": "scene-metier",
+      "pieges": [],
+      "consigne": "Two round linen meditation cushions placed on a pale grey mat facing each other at a friendly distance, a folded oatmeal wool blanket beside them, a small plant, a pale lilac-grey wall, soft side light from a window, ready for a private session, empty room. Aspect ratio 16:10, main subject well inside the central area with generous margins on every side, so the image can be cropped. Soft natural documentary photography, calm, bright and gently joyful mood, palette of pale lilac-grey, soft cream and light oak, with small touches of turquoise and lime green, soft diffuse winter daylight from a large window, tactile light oak, natural linen and oatmeal wool, set in a North American countryside of low rounded hills with spruce and birch forest on a winter morning, gentle mist, fine film grain, calm and hopeful, realistic. No religious or spiritual symbols (no buddha, no mandala, no incense, no dreamcatcher), no violet or neon light, no therapy session, no face, no extra hands, no power lines, no pylons. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "grok/formats-entreprises",
+      "fichier": "formats-entreprises.jpg",
+      "page": "Accueil",
+      "emplacement": "carte Entreprises et organismes",
+      "role": "carte-service",
+      "format": "16:10",
+      "grok": "1168×784",
+      "priorite": "Conseillée",
+      "gabarit": "scene-metier",
+      "pieges": [],
+      "consigne": "A bright modern office meeting room where the table has been pushed against the wall and six pale grey yoga mats are rolled out on the floor, a few soft massage balls in lilac, turquoise and lime green on the mats, large windows with a winter city view softly blurred, empty and ready. Aspect ratio 16:10, main subject well inside the central area with generous margins on every side, so the image can be cropped. Soft natural documentary photography, calm, bright and gently joyful mood, palette of pale lilac-grey, soft cream and light oak, with small touches of turquoise and lime green, soft diffuse winter daylight from a large window, tactile light oak, natural linen and oatmeal wool, set in a North American countryside of low rounded hills with spruce and birch forest on a winter morning, gentle mist, fine film grain, calm and hopeful, realistic. No religious or spiritual symbols (no buddha, no mandala, no incense, no dreamcatcher), no violet or neon light, no therapy session, no face, no extra hands, no power lines, no pylons. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "grok/lieux-estrie",
+      "fichier": "lieux-estrie.jpg",
+      "page": "Accueil",
+      "emplacement": "lieux : carte des pauses en Estrie",
+      "role": "section-fond",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Conseillée",
+      "gabarit": "lieu",
+      "pieges": [
+        "paysage qui dérive"
+      ],
+      "consigne": "Low rounded hills covered with snowy spruce and birch forest under a pale winter sky, a small frozen lake in the valley, gentle morning mist in the hollows, soft quiet light, a North American countryside of low rounded hills. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, quiet uncluttered area in the upper half for a title. Soft natural documentary photography, calm, bright and gently joyful mood, palette of pale lilac-grey, soft cream and light oak, with small touches of turquoise and lime green, soft diffuse winter daylight from a large window, tactile light oak, natural linen and oatmeal wool, set in a North American countryside of low rounded hills with spruce and birch forest on a winter morning, gentle mist, fine film grain, calm and hopeful, realistic. No religious or spiritual symbols (no buddha, no mandala, no incense, no dreamcatcher), no violet or neon light, no therapy session, no face, no extra hands, no power lines, no pylons. A North American countryside of low rounded hills with spruce and birch forest landscape only, described by its real features: no tea plantation, no rice terraces, no high mountains, no tropical vegetation, no power lines, no pylons, no modern buildings. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "grok/activites-pause",
+      "fichier": "activites-pause.jpg",
+      "page": "Activités",
+      "emplacement": "Pauses saisonnières",
+      "role": "carte-service",
+      "format": "16:10",
+      "grok": "1168×784",
+      "priorite": "Conseillée",
+      "gabarit": "scene-metier",
+      "pieges": [],
+      "consigne": "A circle of pale grey yoga mats, each with a folded oatmeal wool blanket, in a calm wooden meditation hall with large windows onto a snowy forest, soft warm lamps glowing, wooden ceiling beams, peaceful and empty. Aspect ratio 16:10, main subject well inside the central area with generous margins on every side, so the image can be cropped. Soft natural documentary photography, calm, bright and gently joyful mood, palette of pale lilac-grey, soft cream and light oak, with small touches of turquoise and lime green, soft diffuse winter daylight from a large window, tactile light oak, natural linen and oatmeal wool, set in a North American countryside of low rounded hills with spruce and birch forest on a winter morning, gentle mist, fine film grain, calm and hopeful, realistic. No religious or spiritual symbols (no buddha, no mandala, no incense, no dreamcatcher), no violet or neon light, no therapy session, no face, no extra hands, no power lines, no pylons. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    }
+  ]
+}

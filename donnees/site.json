@@ -1,0 +1,24 @@
+{
+  "nom": "Lalita Mati",
+  "sousNom": "Isabelle Cloutier",
+  "adresse": "https://yogalalitamati-maquette.vercel.app",
+  "siteActuel": "www.yogalalitamati.com",
+  "version": 1,
+  "langues": ["fr"],
+  "navigation": ["accueil", "activites", "approches", "methode-tre", "a-propos", "contact"],
+  "actionEntete": { "page": "activites", "ancre": "" },
+  "couleurs": { "fond": "#F4F1F3", "texte": "#2E2233", "voile": "#3B2A3F", "ouverture": "#3B2A3F", "theme": "#F4F1F3" },
+  "formeVoile": "vague",
+  "contact": {
+    "telephone": "514-570-2260",
+    "telephoneLien": "+15145702260",
+    "email": "izabellule@hotmail.com",
+    "adresse": "Saint-Jean-sur-Richelieu, Vieux-Longueuil, Estrie et en ligne",
+    "facebook": "https://www.facebook.com/yogalalitamati/",
+    "youtube": "https://www.youtube.com/channel/UChI_zy8Xa_uAhh0LkR26-WQ/featured"
+  },
+  "fuseau": "America/Toronto",
+  "polices": ["/assets/polices/bricolage-grotesque.woff2", "/assets/polices/hanken-grotesk.woff2"],
+  "imagePartage": "grok/accueil-ouverture-1280.webp",
+  "curseur": false
+}

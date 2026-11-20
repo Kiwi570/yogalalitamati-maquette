@@ -1,0 +1,41 @@
+… fichiers
+  fait en 0 s
+… grille
+  fait en 40 s
+… mesures
+  22/42
+  40/42
+  fait en 62 s
+… mesures:balayage
+  fait en 0 s
+… films
+  fait en 172 s
+… bords
+  fait en 66 s
+… parcours:intro
+  fait en 72 s
+… parcours:menu
+  fait en 4 s
+… parcours:liens
+  fait en 158 s
+… parcours:hauteur
+  fait en 65 s
+… parcours:projet
+  fait en 0 s
+… ecran
+  fait en 16 s
+… fluidite
+  fait en 219 s
+… mouvement
+  fait en 159 s
+… vitesse
+  fait en 17 s
+… captures
+  fait en 174 s
+… safari
+  fait en 0 s
+
+Échecs : 141 · À regarder : 70 · Non lancé : 1
+Relancer seulement ce qui a échoué : node _audit/audit.mjs --rapide --seulement=fichiers,mesures,films
+Rapport : /home/claude/yogalalitamati-maquette/_audit/rapport/rapport.md (passe 20261120-203305-rapide-cible)
+FIN

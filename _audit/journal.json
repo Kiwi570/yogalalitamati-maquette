@@ -1,0 +1,107 @@
+{
+ "projet": "yogalalitamati-maquette",
+ "client": "Yoga Lalita Mati (Isabelle Cloutier)",
+ "siteActuel": "https://www.yogalalitamati.com",
+ "versions": [
+  {
+   "version": 1,
+   "skill": "v11.1",
+   "perimetre": [
+    "accueil",
+    "activites",
+    "approches",
+    "methode-tre",
+    "a-propos",
+    "contact",
+    "404"
+   ],
+   "etapes": [
+    {
+     "etape": "analyse, bibliothèque et questions",
+     "budget": 20,
+     "debut": "2026-11-20T20:35:22+01:00",
+     "fin": "2026-11-20T20:46:50+01:00"
+    },
+    {
+     "etape": "plans, images du site et document Grok",
+     "budget": 10,
+     "debut": "2026-11-20T20:46:50+01:00",
+     "fin": "2026-11-20T20:53:30+01:00"
+    },
+    {
+     "etape": "construction : socle, données, accueil (pendant l'attente Grok puis après)",
+     "budget": 40,
+     "debut": "2026-11-20T20:53:30+01:00",
+     "fin": "2026-11-20T21:20:00+01:00"
+    },
+    {
+     "etape": "aperçu de l'accueil en films (attente de la réponse notée à part)",
+     "budget": 5,
+     "debut": "2026-11-20T21:20:00+01:00",
+     "fin": "2026-11-20T21:26:00+01:00"
+    },
+    {
+     "etape": "construction : pages d'onglet, contact et page de catégorie",
+     "budget": 40,
+     "debut": "2026-11-20T21:26:00+01:00",
+     "fin": "2026-11-20T21:30:00+01:00"
+    },
+    {
+     "etape": "audit, regard neuf et corrections",
+     "budget": 25,
+     "debut": "2026-11-20T21:30:00+01:00",
+     "fin": "2026-11-20T22:38:00+01:00"
+    },
+    {
+     "etape": "livraison",
+     "budget": 5,
+     "debut": "2026-11-20T22:38:00+01:00",
+     "fin": "2026-11-20T22:43:00+01:00"
+    }
+   ],
+   "attentes": [
+    {
+     "pour": "images du site (zip), pendant l'analyse",
+     "debut": "2026-11-20T20:36:00+01:00",
+     "fin": "2026-11-20T20:43:00+01:00"
+    },
+    {
+     "pour": "réponses aux questions",
+     "debut": "2026-11-20T20:45:40+01:00",
+     "fin": "2026-11-20T20:46:50+01:00"
+    },
+    {
+     "pour": "images Grok",
+     "debut": "2026-11-20T20:53:30+01:00",
+     "fin": "2026-11-20T21:00:00+01:00"
+    },
+    {
+     "pour": "validation de l'aperçu de l'accueil",
+     "debut": "2026-11-20T21:25:30+01:00",
+     "fin": "2026-11-20T21:26:30+01:00"
+    }
+   ],
+   "allersRetours": 3,
+   "modules": [
+    "agenda-des-dates"
+   ],
+   "audit": {
+    "niveau": "standard + passe des formats (complet : mesures, écran)",
+    "echecsPremierPassage": 141,
+    "relances": 3,
+    "corrections": [
+     "chevauchements (prix, carte, compteurs, témoignages)",
+     "flash des ouvertures et des transitions",
+     "contrastes (turquoise plus foncé, libellés)",
+     "photos faibles réduites",
+     "premier écran 320×568 sans JavaScript",
+     "zones tactiles",
+     "typographie des guillemets"
+    ]
+   },
+   "effetsRetires": [],
+   "grilleDispenses": {},
+   "notes": "Les pages intérieures ont été écrites pendant l'attente des images ; 2 images Grok écartées (anatomie). Police Funnel Display remplacée par Bricolage Grotesque (« Isabelle » se lisait « Isa.belle »)."
+  }
+ ]
+}

@@ -1,0 +1,364 @@
+[
+ {
+  "source": "recu/retrouver-pouvoir-sante-3.png",
+  "nom": "logo-lotus",
+  "role": "logo",
+  "alt": "Lalita Mati"
+ },
+ {
+  "source": "recu/grok/approches-ouverture-mobile.jpg",
+  "nom": "grok/accueil-ouverture",
+  "role": "ouverture",
+  "ratio": "4:5",
+  "mobile": "4:5",
+  "page": "Accueil",
+  "emplacement": "ouverture, image à droite du titre",
+  "priorite": "Indispensable",
+  "gabarit": "scene-metier",
+  "consigne_scene": "A person lying on their back on a pale grey yoga mat, knees bent and feet flat on the floor, arms resting loosely beside the body, the frame cropped at the shoulders so the head is completely outside the image, soft grey-lilac cotton clothes, barefoot, in a bright quiet yoga room with a pale lilac-grey painted wall and a light oak floor, three soft matte rubber massage balls in lilac, turquoise and lime green resting on the floor in the foreground, calm and intimate",
+  "alt": "Vu de haut : un tapis, une couverture, un coussin et des balles d'automassage lilas, turquoise et vertes sur un plancher clair",
+  "beaute": 5,
+  "_note": "accueil-ouverture.jpg écartée (anatomie étrange) : remplacée par la version portrait de la vue de haut"
+ },
+ {
+  "source": "recu/grok/activites-ouverture.jpg",
+  "nom": "grok/activites-ouverture",
+  "role": "ouverture",
+  "ratio": "16:9",
+  "mobile": "4:3",
+  "page": "Activités",
+  "emplacement": "ouverture, bandeau sous le titre",
+  "priorite": "Indispensable",
+  "gabarit": "scene-metier",
+  "consigne_scene": "A bright empty yoga studio prepared for a small group class on a winter morning: six pale grey yoga mats laid in two neat rows on a light oak floor, each with a folded oatmeal wool blanket and a round linen cushion, a large window showing snow-covered spruce and birch trees outside, a pale lilac-grey wall, peaceful and welcoming",
+  "alt": "Une salle de yoga prête pour un cours de groupe, tapis et couvertures, neige derrière la fenêtre",
+  "beaute": 5
+ },
+ {
+  "source": "recu/grok/approches-ouverture.jpg",
+  "nom": "grok/approches-ouverture",
+  "role": "ouverture",
+  "ratio": "16:9",
+  "zone_texte": "gauche",
+  "mobile": "4:5",
+  "page": "Approches somatiques",
+  "emplacement": "ouverture plein cadre, titre à gauche",
+  "priorite": "Indispensable",
+  "gabarit": "scene-metier",
+  "consigne_scene": "Seen from directly above, a light oak floor with a pale grey yoga mat, a folded oatmeal wool blanket, a round linen meditation cushion, and five soft matte rubber massage balls in lilac, turquoise, lime green and slate blue scattered in a loose gentle arc, all grouped on one side of the frame, long soft window shadows across the floor, the rest of the floor plain and empty",
+  "alt": "Vu de haut : un tapis, une couverture, un coussin et des balles d'automassage colorées sur un plancher clair",
+  "beaute": 4
+ },
+ {
+  "source": "recu/grok/tre-ouverture.jpg",
+  "nom": "grok/tre-ouverture",
+  "role": "ouverture",
+  "ratio": "4:5",
+  "mobile": "4:5",
+  "page": "Méthode TRE",
+  "emplacement": "ouverture, image à droite du grand chiffre",
+  "priorite": "Indispensable",
+  "gabarit": "texture",
+  "consigne_scene": "Close view of a perfectly calm water surface at dawn, a few soft concentric ripples spreading slowly outward from a single point near the center, a thin veil of mist above the water, pale lilac, silver and soft grey tones, minimal and tranquil, no shore visible",
+  "alt": "Des ondes qui s'élargissent doucement sur une eau calme, à l'aube",
+  "beaute": 4
+ },
+ {
+  "source": "recu/grok/contact-ouverture.jpg",
+  "nom": "grok/contact-ouverture",
+  "role": "ouverture",
+  "ratio": "4:5",
+  "mobile": "4:5",
+  "page": "Contact",
+  "emplacement": "ouverture, image à droite du titre",
+  "priorite": "Indispensable",
+  "gabarit": "texture",
+  "consigne_scene": "A handmade pale ceramic cup of herbal tea with a thin wisp of steam on a wide light wooden windowsill, a folded oatmeal knit blanket beside it, snow-covered birch trees softly blurred outside the window, cool winter light with a warm reflection on the cup, calm and inviting",
+  "alt": "Une tasse de tisane sur le rebord d'une fenêtre, la neige dehors",
+  "beaute": 4
+ },
+ {
+  "source": "recu/grok/page-404.jpg",
+  "nom": "grok/page-404",
+  "role": "section-fond",
+  "ratio": "16:9",
+  "mobile": "4:5",
+  "zone_texte": "haut",
+  "page": "404",
+  "emplacement": "image en tête de page",
+  "priorite": "Indispensable",
+  "gabarit": "404",
+  "consigne_scene": "An empty pale grey yoga mat on a light oak floor in a quiet bright room, a single lime-green soft massage ball rolling away toward the right edge of the frame with a slight motion blur, a pale lilac-grey wall, soft daylight, a lot of calm empty space in the upper half",
+  "alt": "Un tapis vide et une balle verte qui roule vers le bord",
+  "beaute": 4,
+  "largeurs": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "source": "recu/grok/approche-yoga-doux.jpg",
+  "nom": "grok/approche-yoga-doux",
+  "role": "galerie",
+  "ratio": "4:5",
+  "page": "Accueil et Approches",
+  "emplacement": "carte Yoga doux thérapeutique",
+  "priorite": "Conseillée",
+  "gabarit": "portrait-generique",
+  "consigne_scene": "Seen from behind, a person sitting tall and cross-legged on a pale grey yoga mat facing a large window with a snowy forest outside, shoulders relaxed, hands resting on the knees, only the back, shoulders and softly blurred hair visible, the face not visible at all, a pale lilac-grey wall, soft winter light",
+  "alt": "De dos, une personne assise en tailleur face à une fenêtre enneigée",
+  "beaute": 4
+ },
+ {
+  "source": "recu/grok/approche-accompagnement.jpg",
+  "nom": "grok/approche-accompagnement",
+  "role": "galerie",
+  "ratio": "4:5",
+  "page": "Accueil et Approches",
+  "emplacement": "carte Accompagnement somatique",
+  "priorite": "Conseillée",
+  "gabarit": "scene-metier",
+  "consigne_scene": "A quiet small room for individual somatic sessions: a thick padded mat on a light oak floor with a folded oatmeal wool blanket and a small linen pillow, a low wooden stool, a clear glass of water, a green plant, soft window light, a pale lilac-grey wall, peaceful and empty",
+  "alt": "Une petite salle calme pour les séances individuelles, un matelas, une couverture, un verre d'eau",
+  "beaute": 4
+ },
+ {
+  "source": "recu/grok/formats-prive.jpg",
+  "nom": "grok/formats-prive",
+  "role": "carte-service",
+  "ratio": "16:10",
+  "page": "Accueil",
+  "emplacement": "carte Séance privée",
+  "priorite": "Conseillée",
+  "gabarit": "scene-metier",
+  "consigne_scene": "Two round linen meditation cushions placed on a pale grey mat facing each other at a friendly distance, a folded oatmeal wool blanket beside them, a small plant, a pale lilac-grey wall, soft side light from a window, ready for a private session, empty room",
+  "alt": "Deux coussins face à face sur un tapis, prêts pour une séance privée",
+  "beaute": 4
+ },
+ {
+  "source": "recu/grok/formats-entreprises.jpg",
+  "nom": "grok/formats-entreprises",
+  "role": "carte-service",
+  "ratio": "16:10",
+  "page": "Accueil",
+  "emplacement": "carte Entreprises et organismes",
+  "priorite": "Conseillée",
+  "gabarit": "scene-metier",
+  "consigne_scene": "A bright modern office meeting room where the table has been pushed against the wall and six pale grey yoga mats are rolled out on the floor, a few soft massage balls in lilac, turquoise and lime green on the mats, large windows with a winter city view softly blurred, empty and ready",
+  "alt": "Une salle de réunion transformée : la table poussée, des tapis au sol",
+  "beaute": 4
+ },
+ {
+  "source": "recu/grok/lieux-estrie.jpg",
+  "nom": "grok/lieux-estrie",
+  "role": "section-fond",
+  "ratio": "16:9",
+  "mobile": "4:5",
+  "page": "Accueil",
+  "emplacement": "lieux : carte des pauses en Estrie",
+  "priorite": "Conseillée",
+  "gabarit": "lieu",
+  "consigne_scene": "Low rounded hills covered with snowy spruce and birch forest under a pale winter sky, a small frozen lake in the valley, gentle morning mist in the hollows, soft quiet light, a North American countryside of low rounded hills",
+  "alt": "Collines enneigées, forêt d'épinettes et de bouleaux, petit lac gelé",
+  "beaute": 5,
+  "largeurs": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "source": "recu/grok/activites-pause.jpg",
+  "nom": "grok/activites-pause",
+  "role": "carte-service",
+  "ratio": "16:10",
+  "page": "Activités",
+  "emplacement": "Pauses saisonnières",
+  "priorite": "Conseillée",
+  "gabarit": "scene-metier",
+  "consigne_scene": "A circle of pale grey yoga mats, each with a folded oatmeal wool blanket, in a calm wooden meditation hall with large windows onto a snowy forest, soft warm lamps glowing, wooden ceiling beams, peaceful and empty",
+  "alt": "Un cercle de tapis et de couvertures dans une salle de bois, la forêt enneigée derrière",
+  "beaute": 5
+ },
+ {
+  "source": "recu/retrouver-pouvoir-sante-12.jpg",
+  "nom": "isabelle-portrait",
+  "role": "portrait",
+  "ratio": "4:5",
+  "cadrage": [
+   52,
+   30
+  ],
+  "beaute": 4,
+  "alt": "Isabelle Cloutier, souriante, en veste noire",
+  "largeurs": [
+   480,
+   800
+  ]
+ },
+ {
+  "source": "recu/yoga-introduction-tutoriels.jpg",
+  "nom": "balles-soleil",
+  "role": "galerie",
+  "ratio": "4:5",
+  "cadrage": [
+   44,
+   60
+  ],
+  "beaute": 4,
+  "alt": "Des balles d'automassage lilas, turquoise et vertes au soleil sur un plancher"
+ },
+ {
+  "source": "recu/pleine-conscience-meditations-audios.jpg",
+  "nom": "balles-pied",
+  "role": "vignette",
+  "ratio": "4:3",
+  "cadrage": [
+   50,
+   70
+  ],
+  "beaute": 3,
+  "alt": "Un pied qui roule une petite balle verte, d'autres balles autour"
+ },
+ {
+  "source": "recu/retrouver-pouvoir-sante.jpg",
+  "nom": "balle-nuque",
+  "role": "vignette",
+  "ratio": "4:3",
+  "cadrage": [
+   51,
+   45
+  ],
+  "beaute": 3,
+  "alt": "De dos, une personne allongée relâche la nuque sur un ballon mou"
+ },
+ {
+  "source": "recu/atelier-introduction-methode-tre.jpg",
+  "nom": "tre-position",
+  "role": "galerie",
+  "ratio": "4:5",
+  "cadrage": [
+   57,
+   50
+  ],
+  "beaute": 3,
+  "alt": "Allongée, genoux pliés, une personne pratique un exercice de TRE"
+ },
+ {
+  "source": "recu/retrouver-pouvoir-sante-14.jpg",
+  "nom": "tre-genoux",
+  "role": "vignette",
+  "ratio": "4:3",
+  "cadrage": [
+   40,
+   45
+  ],
+  "beaute": 3,
+  "alt": "Genoux pliés sur un tapis, le corps au repos"
+ },
+ {
+  "source": "recu/studio-virtuel-yoga.jpg",
+  "nom": "en-ligne",
+  "role": "carte-service",
+  "ratio": "16:10",
+  "cadrage": [
+   55,
+   45
+  ],
+  "beaute": 3,
+  "alt": "Un ordinateur portable ouvert sur un cours de yoga, posé sur un tapis"
+ },
+ {
+  "source": "recu/retrouver-pouvoir-sante-4.jpg",
+  "nom": "groupe-sol",
+  "role": "carte-service",
+  "ratio": "16:10",
+  "cadrage": [
+   53,
+   45
+  ],
+  "beaute": 3,
+  "alt": "Un petit groupe allongé sur des tapis, en mouvement lent, avec Isabelle"
+ },
+ {
+  "source": "recu/retrouver-pouvoir-sante-5.jpg",
+  "nom": "groupe-arbre",
+  "role": "vignette",
+  "ratio": "4:3",
+  "cadrage": [
+   53,
+   40
+  ],
+  "beaute": 3,
+  "alt": "Un groupe debout dans la posture de l'arbre"
+ },
+ {
+  "source": "recu/retrouver-pouvoir-sante-13.jpg",
+  "nom": "lac-matin",
+  "role": "carte-service",
+  "ratio": "16:10",
+  "cadrage": [
+   30,
+   50
+  ],
+  "beaute": 4,
+  "alt": "Une personne médite sur un quai, au bord d'un lac dans la brume du matin"
+ },
+ {
+  "source": "recu/retrouver-pouvoir-sante-15.jpg",
+  "nom": "berceli",
+  "role": "vignette",
+  "ratio": "1:1",
+  "beaute": 3,
+  "alt": "Dr David Berceli, créateur de la méthode TRE"
+ },
+ {
+  "source": "recu/hatha-yoga-11-seances.png",
+  "nom": "livre-bien-etre",
+  "role": "produit",
+  "ratio": "4:5",
+  "cadrage": [
+   50,
+   45
+  ],
+  "beaute": 3,
+  "alt": "Couverture du livre Le yoga bien-être, d'Isabelle Cloutier"
+ },
+ {
+  "source": "recu/livres.png",
+  "nom": "livre-enfants",
+  "role": "produit",
+  "ratio": "4:5",
+  "cadrage": [
+   45,
+   45
+  ],
+  "beaute": 3,
+  "alt": "Couverture du livre Le yoga des enfants, d'Isabelle Cloutier"
+ },
+ {
+  "source": "recu/logo-clair.png",
+  "nom": "logo-potton",
+  "role": "logo",
+  "alt": "Centre de méditation et de ressourcement spirituel Potton Springs"
+ },
+ {
+  "source": "recu/logo-2.jpg",
+  "nom": "logo-poorna",
+  "role": "logo",
+  "alt": "Fondation Poorna-Jnana Yoga"
+ },
+ {
+  "source": "recu/studio-virtuel-2.jpg",
+  "nom": "somatique-isabelle",
+  "role": "galerie",
+  "ratio": "4:5",
+  "cadrage": [
+   33,
+   62
+  ],
+  "beaute": 3,
+  "alt": "Isabelle Cloutier dans son studio, assise, penchée en avant dans un mouvement lent"
+ }
+]

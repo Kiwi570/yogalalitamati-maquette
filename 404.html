@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="fr-CA" data-v="1">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Page introuvable · Lalita Mati</title>
+<meta name="description" content="Cette page n’existe pas.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="canonical" href="https://yogalalitamati-maquette.vercel.app/404">
+<style>:root{--fond:#F4F1F3;--texte:#2E2233;--voile-fond:#3B2A3F;--ouverture-fond:#3B2A3F}:root { --entete-h: 72px; --barres-h: 0px; } html { background: var(--fond); color: var(--texte); scrollbar-gutter: stable; } body { margin: 0; background: var(--fond); } html.js:not(.secours):not([data-arrivee="retour"]) [data-anime] { opacity: 0; } html.js:not(.secours):not([data-arrivee="retour"]) [data-anime].vu { opacity: 1; } [data-voile] { position: fixed; inset: 0; z-index: 900; background: var(--voile-fond); transform: translateY(100%); visibility: hidden; pointer-events: none; } html[data-arrivee="voile"]:not(.voile-leve):not(.secours) [data-voile] { transform: none; visibility: visible; } html.secours [data-voile] { visibility: hidden !important; } .ouverture-panneau { position: fixed; inset: 0; z-index: 850; display: none; place-content: center; justify-items: center; background: var(--ouverture-fond, var(--voile-fond)); color: var(--fond); text-align: center; } html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) .ouverture-panneau { display: grid; } html.defilement-bloque, html.defilement-bloque body, html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie), html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) body, html[data-arrivee="voile"]:not(.voile-leve):not(.secours), html[data-arrivee="voile"]:not(.voile-leve):not(.secours) body { overflow: hidden; } html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) { background-color: var(--ouverture-fond, var(--voile-fond)); } html[data-arrivee="voile"]:not(.voile-leve):not(.secours) { background-color: var(--voile-fond); }</style>
+<script>(function () {
+var d = document.documentElement, ss = null, ls = null;
+try { ss = window.sessionStorage; ls = window.localStorage; } catch (e) {}
+d.classList.add('js');
+var nav = performance.getEntriesByType ? performance.getEntriesByType('navigation')[0] : null;
+var type = nav ? nav.type : 'navigate';
+var depart = null;
+try { depart = JSON.parse(ss.getItem('socle:depart') || 'null'); ss.removeItem('socle:depart'); } catch (e) {}
+if (depart && !(Date.now() - depart.t < 15000)) depart = null;
+var mode = type === 'back_forward' ? 'retour' : type === 'reload' ? 'intro' : depart ? 'voile' : 'intro';
+d.setAttribute('data-arrivee', mode);
+if (mode === 'voile' && depart.couleur) d.style.setProperty('--voile-fond', depart.couleur);
+if (type === 'reload' && 'scrollRestoration' in history) {
+history.scrollRestoration = 'manual';
+}
+try {
+var choisie = ls && ls.getItem('socle:langue');
+var langue = (d.lang || '').slice(0, 2);
+if (choisie && choisie !== langue && type === 'navigate' && !depart) {
+var alt = document.querySelector('link[rel="alternate"][hreflang="' + choisie + '"]');
+if (alt) location.replace(new URL(alt.href).pathname + location.search + location.hash);
+}
+} catch (e) {}
+setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('secours'); }, 2000);
+})();</script>
+<link rel="preload" href="/assets/polices/bricolage-grotesque.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/polices/hanken-grotesk.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/socle.css?v=1">
+<link rel="stylesheet" href="/assets/css/site.css?v=1">
+<link rel="modulepreload" href="/assets/js/site.js?v=1">
+<link rel="modulepreload" href="/assets/js/socle/index.js?v=1">
+<script src="/assets/vendor/gsap.min.js" defer></script>
+<script src="/assets/vendor/ScrollTrigger.min.js" defer></script>
+<script src="/assets/vendor/SplitText.min.js" defer></script>
+<script type="module" src="/assets/js/site.js?v=1"></script>
+<meta name="theme-color" content="#F4F1F3">
+<link rel="icon" href="/assets/images/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Lalita Mati">
+<meta property="og:locale" content="fr_CA">
+<meta property="og:title" content="Page introuvable · Lalita Mati">
+<meta property="og:description" content="Cette page n’existe pas.">
+<meta property="og:url" content="https://yogalalitamati-maquette.vercel.app/404">
+<meta property="og:image" content="https://yogalalitamati-maquette.vercel.app/assets/partage/accueil-fr.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Lalita Mati : retrouver du pouvoir sur sa santé">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"LocalBusiness","name":"Lalita Mati, Isabelle Cloutier","description":"Yoga somatique, yoga doux thérapeutique, méthode TRE®, automassage avec balles et pleine conscience, en séances privées, cours, ateliers et en ligne.","telephone":"+1-514-570-2260","email":"izabellule@hotmail.com","address":{"@type":"PostalAddress","streetAddress":"291, rue Richelieu","addressLocality":"Saint-Jean-sur-Richelieu","addressRegion":"QC","addressCountry":"CA"},"areaServed":["Saint-Jean-sur-Richelieu","Longueuil","Estrie"],"founder":{"@type":"Person","name":"Isabelle Cloutier","jobTitle":"Enseignante en yoga et yoga thérapeutique, praticienne de la méthode TRE®"},"sameAs":["https://www.facebook.com/yogalalitamati/","https://www.youtube.com/channel/UChI_zy8Xa_uAhh0LkR26-WQ/featured"]}</script>
+</head>
+<body id="haut">
+<div data-voile data-forme="vague" aria-hidden="true"><svg class="voile-vague voile-vague--haut" viewBox="0 0 1440 120" preserveAspectRatio="none" aria-hidden="true"><path d="M0 120 C 240 20 480 20 720 70 S 1200 130 1440 40 V 120 H 0 Z"/></svg><svg class="voile-vague voile-vague--bas" viewBox="0 0 1440 120" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0 C 240 100 480 100 720 50 S 1200 -10 1440 80 V 0 H 0 Z"/></svg><div class="voile-contenu"><svg class="lotus voile-lotus" viewBox="0 0 800 800" aria-hidden="true" focusable="false">
+  <circle class="lotus-cercle" cx="400" cy="400" r="386" fill="none" stroke="currentColor" stroke-width="26" pathLength="1"/>
+  <g fill="none" stroke="currentColor" stroke-width="26" stroke-linecap="round" stroke-linejoin="round">
+    <path class="lotus-petales" d="M400 565 C 300 470 300 262 400 172 C 500 262 500 470 400 565 M248 195 C 205 330 262 522 400 565 M248 195 C 345 235 412 385 400 565 M552 195 C 595 330 538 522 400 565 M552 195 C 455 235 388 385 400 565 M112 293 C 122 450 262 567 400 565 M112 293 C 262 293 372 425 396 560 M688 293 C 678 450 538 567 400 565 M688 293 C 538 293 428 425 404 560" pathLength="1"/>
+    <path class="lotus-vague lotus-vague--1" d="M258 625.0 L265 620.0 L272 616.1 L279 614.1 L285 614.5 L292 617.2 L299 621.6 L306 626.7 L313 631.5 L320 634.8 L327 636.0 L333 634.8 L340 631.5 L347 626.7 L354 621.6 L361 617.2 L368 614.5 L374 614.1 L381 616.1 L388 620.0 L395 625.0 L402 630.0 L409 633.9 L416 635.9 L422 635.5 L429 632.8 L436 628.4 L443 623.3 L450 618.5 L457 615.2 L464 614.0 L470 615.2 L477 618.5 L484 623.3 L491 628.4 L498 632.8 L505 635.5 L511 635.9 L518 633.9 L525 630.0 L532 625.0"/>
+    <path class="lotus-vague lotus-vague--2" d="M258 665.0 L265 660.0 L272 656.1 L279 654.1 L285 654.5 L292 657.2 L299 661.6 L306 666.7 L313 671.5 L320 674.8 L327 676.0 L333 674.8 L340 671.5 L347 666.7 L354 661.6 L361 657.2 L368 654.5 L374 654.1 L381 656.1 L388 660.0 L395 665.0 L402 670.0 L409 673.9 L416 675.9 L422 675.5 L429 672.8 L436 668.4 L443 663.3 L450 658.5 L457 655.2 L464 654.0 L470 655.2 L477 658.5 L484 663.3 L491 668.4 L498 672.8 L505 675.5 L511 675.9 L518 673.9 L525 670.0 L532 665.0"/>
+    <circle class="lotus-point" cx="398" cy="132" r="13"/><circle class="lotus-point" cx="172" cy="246" r="13"/><circle class="lotus-point" cx="626" cy="246" r="13"/>
+  </g>
+</svg><span data-voile-libelle>Page introuvable</span></div></div>
+<div class="ouverture-panneau" data-ouverture aria-hidden="true">
+  <div class="ouverture-objet" data-ouverture-objet><svg class="lotus ouverture-lotus" viewBox="0 0 800 800" aria-hidden="true" focusable="false">
+  <circle class="lotus-cercle" cx="400" cy="400" r="386" fill="none" stroke="currentColor" stroke-width="16" pathLength="1"/>
+  <g fill="none" stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path class="lotus-petales" d="M400 565 C 300 470 300 262 400 172 C 500 262 500 470 400 565 M248 195 C 205 330 262 522 400 565 M248 195 C 345 235 412 385 400 565 M552 195 C 595 330 538 522 400 565 M552 195 C 455 235 388 385 400 565 M112 293 C 122 450 262 567 400 565 M112 293 C 262 293 372 425 396 560 M688 293 C 678 450 538 567 400 565 M688 293 C 538 293 428 425 404 560" pathLength="1"/>
+    <path class="lotus-vague lotus-vague--1" d="M258 625.0 L265 620.0 L272 616.1 L279 614.1 L285 614.5 L292 617.2 L299 621.6 L306 626.7 L313 631.5 L320 634.8 L327 636.0 L333 634.8 L340 631.5 L347 626.7 L354 621.6 L361 617.2 L368 614.5 L374 614.1 L381 616.1 L388 620.0 L395 625.0 L402 630.0 L409 633.9 L416 635.9 L422 635.5 L429 632.8 L436 628.4 L443 623.3 L450 618.5 L457 615.2 L464 614.0 L470 615.2 L477 618.5 L484 623.3 L491 628.4 L498 632.8 L505 635.5 L511 635.9 L518 633.9 L525 630.0 L532 625.0"/>
+    <path class="lotus-vague lotus-vague--2" d="M258 665.0 L265 660.0 L272 656.1 L279 654.1 L285 654.5 L292 657.2 L299 661.6 L306 666.7 L313 671.5 L320 674.8 L327 676.0 L333 674.8 L340 671.5 L347 666.7 L354 661.6 L361 657.2 L368 654.5 L374 654.1 L381 656.1 L388 660.0 L395 665.0 L402 670.0 L409 673.9 L416 675.9 L422 675.5 L429 672.8 L436 668.4 L443 663.3 L450 658.5 L457 655.2 L464 654.0 L470 655.2 L477 658.5 L484 663.3 L491 668.4 L498 672.8 L505 675.5 L511 675.9 L518 673.9 L525 670.0 L532 665.0"/>
+    <circle class="lotus-point" cx="398" cy="132" r="13"/><circle class="lotus-point" cx="172" cy="246" r="13"/><circle class="lotus-point" cx="626" cy="246" r="13"/>
+  </g>
+</svg></div>
+  <p class="ouverture-nom">Lalita Mati</p>
+  <p class="ouverture-ligne">Yoga somatique · Méthode TRE®</p>
+</div>
+<a class="evitement" href="#contenu">Aller au contenu</a>
+<header data-entete>
+  <div class="entete-rangee">
+    <a class="entete-logo" href="/" data-libelle="Accueil">
+      <svg class="lotus entete-lotus" viewBox="0 0 800 800" aria-hidden="true" focusable="false">
+  <circle class="lotus-cercle" cx="400" cy="400" r="386" fill="none" stroke="currentColor" stroke-width="30" pathLength="1"/>
+  <g fill="none" stroke="currentColor" stroke-width="30" stroke-linecap="round" stroke-linejoin="round">
+    <path class="lotus-petales" d="M400 565 C 300 470 300 262 400 172 C 500 262 500 470 400 565 M248 195 C 205 330 262 522 400 565 M248 195 C 345 235 412 385 400 565 M552 195 C 595 330 538 522 400 565 M552 195 C 455 235 388 385 400 565 M112 293 C 122 450 262 567 400 565 M112 293 C 262 293 372 425 396 560 M688 293 C 678 450 538 567 400 565 M688 293 C 538 293 428 425 404 560" pathLength="1"/>
+    <path class="lotus-vague lotus-vague--1" d="M258 625.0 L265 620.0 L272 616.1 L279 614.1 L285 614.5 L292 617.2 L299 621.6 L306 626.7 L313 631.5 L320 634.8 L327 636.0 L333 634.8 L340 631.5 L347 626.7 L354 621.6 L361 617.2 L368 614.5 L374 614.1 L381 616.1 L388 620.0 L395 625.0 L402 630.0 L409 633.9 L416 635.9 L422 635.5 L429 632.8 L436 628.4 L443 623.3 L450 618.5 L457 615.2 L464 614.0 L470 615.2 L477 618.5 L484 623.3 L491 628.4 L498 632.8 L505 635.5 L511 635.9 L518 633.9 L525 630.0 L532 625.0"/>
+    <path class="lotus-vague lotus-vague--2" d="M258 665.0 L265 660.0 L272 656.1 L279 654.1 L285 654.5 L292 657.2 L299 661.6 L306 666.7 L313 671.5 L320 674.8 L327 676.0 L333 674.8 L340 671.5 L347 666.7 L354 661.6 L361 657.2 L368 654.5 L374 654.1 L381 656.1 L388 660.0 L395 665.0 L402 670.0 L409 673.9 L416 675.9 L422 675.5 L429 672.8 L436 668.4 L443 663.3 L450 658.5 L457 655.2 L464 654.0 L470 655.2 L477 658.5 L484 663.3 L491 668.4 L498 672.8 L505 675.5 L511 675.9 L518 673.9 L525 670.0 L532 665.0"/>
+    <circle class="lotus-point" cx="398" cy="132" r="13"/><circle class="lotus-point" cx="172" cy="246" r="13"/><circle class="lotus-point" cx="626" cy="246" r="13"/>
+  </g>
+</svg><span class="entete-nom"><span>Lalita Mati</span><small>Isabelle Cloutier</small></span>
+    </a>
+    <nav data-nav aria-label="Navigation principale">
+      <ul><li><a href="/activites" data-libelle="Activités">Activités</a></li><li><a href="/approches" data-libelle="Approches">Approches</a></li><li><a href="/methode-tre" data-libelle="Méthode TRE®">Méthode TRE®</a></li><li><a href="/a-propos" data-libelle="À propos">À propos</a></li><li><a href="/contact" data-libelle="Contact">Contact</a></li></ul>
+    </nav>
+    <div class="entete-actions">
+      <a class="bouton" href="/activites" data-libelle="Activités">S’inscrire</a>
+      <button type="button" data-menu-bouton aria-controls="menu" aria-expanded="false" data-libelle-ouvrir="Menu" data-libelle-fermer="Fermer"><span data-libelle-bouton>Menu</span></button>
+      <a class="menu-sansjs" href="#menu" data-menu-lien>Menu</a>
+    </div>
+  </div>
+</header>
+<script>/* Avant le premier affichage : rangées de la navigation (même règle que ajusterNav dans assets/js/socle/entete.js)
+   et hauteur réelle de l'en-tête, pour que rien ne saute quand le JavaScript du site prend la main. */
+(function () {
+  var h = document.documentElement, u = document.querySelector('[data-nav] ul'), e = document.querySelector('[data-entete]');
+  if (u) {
+    var deborde = function () { return u.scrollWidth > u.clientWidth + 1; }, c = deborde();
+    if (c && window.matchMedia('(min-width: 900px)').matches) {
+      h.classList.add('nav-deux-rangees'); c = deborde();
+      if (c) { h.classList.add('nav-deux-lignes'); var a = u.querySelector('a'); c = !a || u.getBoundingClientRect().height > a.getBoundingClientRect().height * 2.5; }
+      if (c) h.classList.remove('nav-deux-rangees', 'nav-deux-lignes');
+    }
+    if (c) h.classList.add('nav-compacte');
+  }
+  if (e) h.style.setProperty('--entete-h', Math.round(e.getBoundingClientRect().height) + 'px');
+})();</script>
+<span id="menu-ferme" aria-hidden="true"></span>
+<div id="menu" data-menu role="dialog" aria-modal="true" aria-label="Menu">
+  <p class="menu-sansjs-fermer"><a href="#menu-ferme">Fermer</a></p>
+  <ul><li style="--i:0"><a href="/" class="menu-lien" data-libelle="Accueil">Accueil</a></li><li style="--i:1"><a href="/activites" class="menu-lien" data-libelle="Activités">Activités</a></li><li style="--i:2"><a href="/approches" class="menu-lien" data-libelle="Approches">Approches</a></li><li style="--i:3"><a href="/methode-tre" class="menu-lien" data-libelle="Méthode TRE®">Méthode TRE®</a></li><li style="--i:4"><a href="/a-propos" class="menu-lien" data-libelle="À propos">À propos</a></li><li style="--i:5"><a href="/contact" class="menu-lien" data-libelle="Contact">Contact</a></li></ul>
+  <p class="menu-actions"><a class="bouton" href="tel:+15145702260">Appeler 514-570-2260</a></p>
+  <p class="menu-lieux">Saint-Jean-sur-Richelieu · Vieux-Longueuil · Estrie · en ligne</p>
+</div>
+<main id="contenu" tabindex="-1">
+<section class="page-ouverture introuvable" id="debut">
+  <div class="introuvable-image" data-iris-centre>
+    <figure class="media introuvable-media" data-grok data-fx="parallaxe" data-fx-force="5" style="--cadrage:50% 50%">
+  <picture><source media="(max-width: 760px) and (orientation: portrait)" srcset="/assets/images/grok/page-404-mobile-640.webp 640w, /assets/images/grok/page-404-mobile-1080.webp 1080w" sizes="100vw">
+    <img src="/assets/images/grok/page-404-1280.webp" srcset="/assets/images/grok/page-404-640.webp 640w, /assets/images/grok/page-404-1280.webp 1280w, /assets/images/grok/page-404-1920.webp 1920w" sizes="100vw" alt="Un tapis vide et une balle verte qui roule vers le bord" width="1280" height="720" fetchpriority="high" loading="eager" decoding="async">
+  </picture><figcaption class="mention-ia">Illustration générée</figcaption>
+</figure>
+  </div>
+  <div class="conteneur introuvable-texte">
+    <h1 class="titre-xl ouverture-titre" data-anime="gsap">
+      <span class="masque-ligne"><span class="ouv-ligne">On respire,</span></span>
+      <span class="masque-ligne"><span class="ouv-ligne"><em>on revient.</em></span></span>
+    </h1>
+    <p class="chapo" data-anime="gsap">Cette page n’existe pas, ou plus. Rien de grave : voici les chemins les plus fréquentés.</p>
+    <p class="ouverture-actions" data-anime="gsap">
+      <a href="/" class="bouton" data-libelle="Accueil" data-action-principale>Retour à l’accueil</a>
+      <span class="introuvable-liens" data-info-cle><a href="/activites" data-libelle="Activités">Activités</a> · <a href="/approches" data-libelle="Approches">Approches</a> · <a href="/contact" data-libelle="Contact">Contact</a></span>
+    </p>
+  </div>
+</section>
+</main>
+<footer class="pied" id="pied">
+  <div class="conteneur pied-grille">
+    <div class="pied-marque">
+      <svg class="lotus pied-lotus" viewBox="0 0 800 800" aria-hidden="true" focusable="false">
+  <circle class="lotus-cercle" cx="400" cy="400" r="386" fill="none" stroke="currentColor" stroke-width="18" pathLength="1"/>
+  <g fill="none" stroke="currentColor" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <path class="lotus-petales" d="M400 565 C 300 470 300 262 400 172 C 500 262 500 470 400 565 M248 195 C 205 330 262 522 400 565 M248 195 C 345 235 412 385 400 565 M552 195 C 595 330 538 522 400 565 M552 195 C 455 235 388 385 400 565 M112 293 C 122 450 262 567 400 565 M112 293 C 262 293 372 425 396 560 M688 293 C 678 450 538 567 400 565 M688 293 C 538 293 428 425 404 560" pathLength="1"/>
+    <path class="lotus-vague lotus-vague--1" d="M258 625.0 L265 620.0 L272 616.1 L279 614.1 L285 614.5 L292 617.2 L299 621.6 L306 626.7 L313 631.5 L320 634.8 L327 636.0 L333 634.8 L340 631.5 L347 626.7 L354 621.6 L361 617.2 L368 614.5 L374 614.1 L381 616.1 L388 620.0 L395 625.0 L402 630.0 L409 633.9 L416 635.9 L422 635.5 L429 632.8 L436 628.4 L443 623.3 L450 618.5 L457 615.2 L464 614.0 L470 615.2 L477 618.5 L484 623.3 L491 628.4 L498 632.8 L505 635.5 L511 635.9 L518 633.9 L525 630.0 L532 625.0"/>
+    <path class="lotus-vague lotus-vague--2" d="M258 665.0 L265 660.0 L272 656.1 L279 654.1 L285 654.5 L292 657.2 L299 661.6 L306 666.7 L313 671.5 L320 674.8 L327 676.0 L333 674.8 L340 671.5 L347 666.7 L354 661.6 L361 657.2 L368 654.5 L374 654.1 L381 656.1 L388 660.0 L395 665.0 L402 670.0 L409 673.9 L416 675.9 L422 675.5 L429 672.8 L436 668.4 L443 663.3 L450 658.5 L457 655.2 L464 654.0 L470 655.2 L477 658.5 L484 663.3 L491 668.4 L498 672.8 L505 675.5 L511 675.9 L518 673.9 L525 670.0 L532 665.0"/>
+    <circle class="lotus-point" cx="398" cy="132" r="13"/><circle class="lotus-point" cx="172" cy="246" r="13"/><circle class="lotus-point" cx="626" cy="246" r="13"/>
+  </g>
+</svg>
+      <p class="pied-nom">Lalita Mati<br><span>Isabelle Cloutier</span></p>
+      <p>Saint-Jean-sur-Richelieu · Vieux-Longueuil · Estrie · en ligne</p>
+    </div>
+    <div>
+      <p><strong>Écrire à Isabelle</strong></p>
+      <p><a href="tel:+15145702260">514-570-2260</a><br><a href="mailto:izabellule@hotmail.com">izabellule@hotmail.com</a></p>
+    </div>
+    <nav aria-label="Plan du site">
+      <p><strong>Plan du site</strong></p>
+      <ul><li><a href="/" data-libelle="Accueil">Accueil</a></li><li><a href="/activites" data-libelle="Activités">Activités</a></li><li><a href="/approches" data-libelle="Approches">Approches</a></li><li><a href="/methode-tre" data-libelle="Méthode TRE®">Méthode TRE®</a></li><li><a href="/a-propos" data-libelle="À propos">À propos</a></li><li><a href="/contact" data-libelle="Contact">Contact</a></li></ul>
+    </nav>
+    <div>
+      <p><strong>Suivre Lalita Mati</strong></p>
+      <ul>
+        <li><a href="https://www.facebook.com/yogalalitamati/" target="_blank" rel="noopener">Facebook<span class="visuellement-cache"> (s’ouvre dans un nouvel onglet)</span></a></li>
+        <li><a href="https://www.youtube.com/channel/UChI_zy8Xa_uAhh0LkR26-WQ/featured" target="_blank" rel="noopener">YouTube<span class="visuellement-cache"> (s’ouvre dans un nouvel onglet)</span></a></li>
+        <li><a href="#haut" data-sans-transition>Retour en haut</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="conteneur pied-bas"><p>Mentions légales · Politique de confidentialité : à compléter</p><p>Maquette : les informations marquées « à compléter » seront fournies par Isabelle Cloutier.</p><p>© Lalita Mati, Isabelle Cloutier</p></div>
+</footer>
+<div data-barre-fixe>
+  <a class="bouton bouton--contour" href="tel:+15145702260">Appeler</a>
+  <a class="bouton" href="/activites" data-libelle="Activités">S’inscrire</a>
+</div>
+</body>
+</html>

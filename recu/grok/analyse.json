@@ -1,0 +1,892 @@
+{
+  "dossier": "/home/claude/yogalalitamati-maquette/recu/grok",
+  "date": "2026-11-20T20:01:10.416Z",
+  "detection": "mesures sharp seulement",
+  "planches": [
+    "planche.jpg"
+  ],
+  "legende_planche": "cadre jaune : sujet ; croix rouge : cadrage ; fond rose : à vérifier",
+  "doublons": [],
+  "images": [
+    {
+      "fichier": "accueil-ouverture.jpg",
+      "nom": "accueil-ouverture",
+      "drapeau": null,
+      "largeur": 1300,
+      "hauteur": 1937,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 321696,
+      "transparence": false,
+      "sujet": {
+        "x": 18.2,
+        "y": 53.1,
+        "l": 54.5,
+        "h": 37.5,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        50,
+        68
+      ],
+      "cadrage_css": "50% 68%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.8,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.73,
+          "ton": "clair",
+          "recouvre_sujet": 0.12
+        },
+        {
+          "cote": "gauche",
+          "score": 0.53,
+          "ton": "clair",
+          "recouvre_sujet": 0.2
+        },
+        {
+          "cote": "bas",
+          "score": 0.42,
+          "ton": "clair",
+          "recouvre_sujet": 0.4
+        }
+      ],
+      "qualite": {
+        "nettete": 14,
+        "bruit": 0.44,
+        "compression": 0.97,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "3030b0301e872202",
+      "drapeaux": [
+        "calme haut/droite"
+      ]
+    },
+    {
+      "fichier": "activites-ouverture.jpg",
+      "nom": "activites-ouverture",
+      "drapeau": null,
+      "largeur": 1600,
+      "hauteur": 1074,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 316651,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 9.1,
+        "l": 100,
+        "h": 86.4,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        60,
+        51
+      ],
+      "cadrage_css": "60% 51%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.35,
+          "ton": "clair",
+          "recouvre_sujet": 0.74
+        },
+        {
+          "cote": "gauche",
+          "score": 0.34,
+          "ton": "clair",
+          "recouvre_sujet": 0.86
+        },
+        {
+          "cote": "bas",
+          "score": 0.15,
+          "ton": "clair",
+          "recouvre_sujet": 0.87
+        },
+        {
+          "cote": "droite",
+          "score": 0.03,
+          "ton": "clair",
+          "recouvre_sujet": 0.86
+        }
+      ],
+      "qualite": {
+        "nettete": 24.9,
+        "bruit": 0.63,
+        "compression": 1.24,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "cfeceececafac9cd",
+      "drapeaux": []
+    },
+    {
+      "fichier": "activites-pause.jpg",
+      "nom": "activites-pause",
+      "drapeau": null,
+      "largeur": 1600,
+      "hauteur": 1074,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 354886,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 100,
+        "h": 95.5,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        51,
+        38
+      ],
+      "cadrage_css": "51% 38%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.19,
+          "ton": "clair",
+          "recouvre_sujet": 0.87
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 0.96
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 1
+        }
+      ],
+      "qualite": {
+        "nettete": 25.5,
+        "bruit": 0.7,
+        "compression": 1.17,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "c121a0a0c1f0282a",
+      "drapeaux": []
+    },
+    {
+      "fichier": "approche-accompagnement.jpg",
+      "nom": "approche-accompagnement",
+      "drapeau": null,
+      "largeur": 1300,
+      "hauteur": 1937,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 388836,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 95.5,
+        "h": 90.6,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        43,
+        51
+      ],
+      "cadrage_css": "43% 51%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.34,
+          "ton": "moyen",
+          "recouvre_sujet": 0.8
+        },
+        {
+          "cote": "haut",
+          "score": 0.28,
+          "ton": "clair",
+          "recouvre_sujet": 0.96
+        },
+        {
+          "cote": "bas",
+          "score": 0.18,
+          "ton": "clair",
+          "recouvre_sujet": 0.7
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 0.91
+        }
+      ],
+      "qualite": {
+        "nettete": 18.3,
+        "bruit": 0.53,
+        "compression": 0.96,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "4058d878980c0c01",
+      "drapeaux": []
+    },
+    {
+      "fichier": "approche-somatique.jpg",
+      "nom": "approche-somatique",
+      "drapeau": null,
+      "largeur": 1300,
+      "hauteur": 1937,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 382883,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 3.1,
+        "l": 95.5,
+        "h": 84.4,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        49,
+        44
+      ],
+      "cadrage_css": "49% 44%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.22,
+          "ton": "clair",
+          "recouvre_sujet": 0.87
+        },
+        {
+          "cote": "bas",
+          "score": 0.21,
+          "ton": "moyen",
+          "recouvre_sujet": 0.61
+        },
+        {
+          "cote": "droite",
+          "score": 0.17,
+          "ton": "clair",
+          "recouvre_sujet": 0.75
+        },
+        {
+          "cote": "gauche",
+          "score": 0.11,
+          "ton": "moyen",
+          "recouvre_sujet": 0.84
+        }
+      ],
+      "qualite": {
+        "nettete": 20.6,
+        "bruit": 0.56,
+        "compression": 0.99,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "c0f8dad2383cd7e8",
+      "drapeaux": []
+    },
+    {
+      "fichier": "approche-yoga-doux.jpg",
+      "nom": "approche-yoga-doux",
+      "drapeau": null,
+      "largeur": 1300,
+      "hauteur": 1937,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 411050,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 40.6,
+        "l": 90.9,
+        "h": 40.6,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        60
+      ],
+      "cadrage_css": "47% 60%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.6,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "bas",
+          "score": 0.43,
+          "ton": "clair",
+          "recouvre_sujet": 0.42
+        },
+        {
+          "cote": "gauche",
+          "score": 0.38,
+          "ton": "clair",
+          "recouvre_sujet": 0.41
+        },
+        {
+          "cote": "droite",
+          "score": 0.34,
+          "ton": "clair",
+          "recouvre_sujet": 0.31
+        }
+      ],
+      "qualite": {
+        "nettete": 23.5,
+        "bruit": 0.6,
+        "compression": 1.03,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "f8ecf0eacc9c8ecc",
+      "drapeaux": []
+    },
+    {
+      "fichier": "approches-ouverture-mobile.jpg",
+      "nom": "approches-ouverture-mobile",
+      "drapeau": null,
+      "largeur": 1300,
+      "hauteur": 1937,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 431947,
+      "transparence": false,
+      "sujet": {
+        "x": 4.5,
+        "y": 18.8,
+        "l": 72.7,
+        "h": 68.8,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        45,
+        58
+      ],
+      "cadrage_css": "45% 58%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.62,
+          "ton": "clair",
+          "recouvre_sujet": 0.34
+        },
+        {
+          "cote": "droite",
+          "score": 0.57,
+          "ton": "moyen",
+          "recouvre_sujet": 0.3
+        },
+        {
+          "cote": "gauche",
+          "score": 0.52,
+          "ton": "clair",
+          "recouvre_sujet": 0.61
+        },
+        {
+          "cote": "bas",
+          "score": 0.47,
+          "ton": "clair",
+          "recouvre_sujet": 0.47
+        }
+      ],
+      "qualite": {
+        "nettete": 17,
+        "bruit": 0.66,
+        "compression": 0.98,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "8000004853270711",
+      "drapeaux": []
+    },
+    {
+      "fichier": "approches-ouverture.jpg",
+      "nom": "approches-ouverture",
+      "drapeau": null,
+      "largeur": 1600,
+      "hauteur": 1074,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 327414,
+      "transparence": false,
+      "sujet": {
+        "x": 3.1,
+        "y": 18.2,
+        "l": 78.1,
+        "h": 68.2,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        53,
+        47
+      ],
+      "cadrage_css": "53% 47%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.58,
+          "ton": "moyen",
+          "recouvre_sujet": 0.36
+        },
+        {
+          "cote": "gauche",
+          "score": 0.57,
+          "ton": "clair",
+          "recouvre_sujet": 0.63
+        },
+        {
+          "cote": "haut",
+          "score": 0.55,
+          "ton": "clair",
+          "recouvre_sujet": 0.37
+        },
+        {
+          "cote": "bas",
+          "score": 0.54,
+          "ton": "clair",
+          "recouvre_sujet": 0.48
+        }
+      ],
+      "qualite": {
+        "nettete": 15.4,
+        "bruit": 0.77,
+        "compression": 1.24,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "80000382d2632910",
+      "drapeaux": []
+    },
+    {
+      "fichier": "contact-ouverture.jpg",
+      "nom": "contact-ouverture",
+      "drapeau": null,
+      "largeur": 1300,
+      "hauteur": 1937,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 332498,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 53.1,
+        "l": 95.5,
+        "h": 46.9,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        46,
+        83
+      ],
+      "cadrage_css": "46% 83%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.71,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.3,
+          "ton": "clair",
+          "recouvre_sujet": 0.47
+        },
+        {
+          "cote": "droite",
+          "score": 0.28,
+          "ton": "clair",
+          "recouvre_sujet": 0.42
+        },
+        {
+          "cote": "bas",
+          "score": 0.02,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        }
+      ],
+      "qualite": {
+        "nettete": 17.7,
+        "bruit": 0.43,
+        "compression": 1.03,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "a0e8d2b2f43b3371",
+      "drapeaux": [
+        "calme haut"
+      ]
+    },
+    {
+      "fichier": "formats-entreprises.jpg",
+      "nom": "formats-entreprises",
+      "drapeau": null,
+      "largeur": 1600,
+      "hauteur": 1074,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 313473,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 100,
+        "h": 95.5,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        54,
+        42
+      ],
+      "cadrage_css": "54% 42%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.2,
+          "ton": "clair",
+          "recouvre_sujet": 0.87
+        },
+        {
+          "cote": "gauche",
+          "score": 0.12,
+          "ton": "clair",
+          "recouvre_sujet": 0.96
+        },
+        {
+          "cote": "haut",
+          "score": 0.12,
+          "ton": "clair",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "droite",
+          "score": 0.03,
+          "ton": "clair",
+          "recouvre_sujet": 0.96
+        }
+      ],
+      "qualite": {
+        "nettete": 24.1,
+        "bruit": 0.7,
+        "compression": 1.11,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "5ad8c8d8fafc3ada",
+      "drapeaux": []
+    },
+    {
+      "fichier": "formats-prive.jpg",
+      "nom": "formats-prive",
+      "drapeau": null,
+      "largeur": 1600,
+      "hauteur": 1074,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 273428,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 100,
+        "h": 86.4,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        44,
+        48
+      ],
+      "cadrage_css": "44% 48%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.34,
+          "ton": "clair",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "droite",
+          "score": 0.31,
+          "ton": "clair",
+          "recouvre_sujet": 0.86
+        },
+        {
+          "cote": "bas",
+          "score": 0.26,
+          "ton": "clair",
+          "recouvre_sujet": 0.61
+        },
+        {
+          "cote": "gauche",
+          "score": 0.19,
+          "ton": "clair",
+          "recouvre_sujet": 0.86
+        }
+      ],
+      "qualite": {
+        "nettete": 18.5,
+        "bruit": 0.59,
+        "compression": 1.21,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "4343436061db5303",
+      "drapeaux": []
+    },
+    {
+      "fichier": "lieux-estrie.jpg",
+      "nom": "lieux-estrie",
+      "drapeau": null,
+      "largeur": 1600,
+      "hauteur": 1074,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 325885,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 13.6,
+        "l": 100,
+        "h": 81.8,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        59,
+        60
+      ],
+      "cadrage_css": "59% 60%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.7,
+          "ton": "clair",
+          "recouvre_sujet": 0.61
+        },
+        {
+          "cote": "gauche",
+          "score": 0.24,
+          "ton": "clair",
+          "recouvre_sujet": 0.82
+        },
+        {
+          "cote": "droite",
+          "score": 0.14,
+          "ton": "clair",
+          "recouvre_sujet": 0.82
+        },
+        {
+          "cote": "bas",
+          "score": 0.03,
+          "ton": "moyen",
+          "recouvre_sujet": 0.87
+        }
+      ],
+      "qualite": {
+        "nettete": 25.9,
+        "bruit": 0.72,
+        "compression": 1.09,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "feffffccc03873ec",
+      "drapeaux": [
+        "calme haut"
+      ]
+    },
+    {
+      "fichier": "page-404.jpg",
+      "nom": "page-404",
+      "drapeau": null,
+      "largeur": 1600,
+      "hauteur": 1074,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 222195,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 4.5,
+        "l": 78.1,
+        "h": 86.4,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        19,
+        55
+      ],
+      "cadrage_css": "19% 55%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.7,
+          "ton": "clair",
+          "recouvre_sujet": 0.39
+        },
+        {
+          "cote": "haut",
+          "score": 0.54,
+          "ton": "clair",
+          "recouvre_sujet": 0.68
+        },
+        {
+          "cote": "bas",
+          "score": 0.47,
+          "ton": "clair",
+          "recouvre_sujet": 0.58
+        },
+        {
+          "cote": "gauche",
+          "score": 0.2,
+          "ton": "clair",
+          "recouvre_sujet": 0.86
+        }
+      ],
+      "qualite": {
+        "nettete": 17.4,
+        "bruit": 0.46,
+        "compression": 1.4,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "b0b0b03030e09090",
+      "drapeaux": [
+        "calme droite"
+      ]
+    },
+    {
+      "fichier": "tre-ouverture.jpg",
+      "nom": "tre-ouverture",
+      "drapeau": null,
+      "largeur": 1300,
+      "hauteur": 1937,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 164518,
+      "transparence": false,
+      "sujet": {
+        "x": 4.5,
+        "y": 3.1,
+        "l": 90.9,
+        "h": 96.9,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        55,
+        48
+      ],
+      "cadrage_css": "55% 48%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.56,
+          "ton": "clair",
+          "recouvre_sujet": 0.91
+        },
+        {
+          "cote": "gauche",
+          "score": 0.53,
+          "ton": "clair",
+          "recouvre_sujet": 0.86
+        },
+        {
+          "cote": "haut",
+          "score": 0.53,
+          "ton": "clair",
+          "recouvre_sujet": 0.83
+        },
+        {
+          "cote": "droite",
+          "score": 0.49,
+          "ton": "clair",
+          "recouvre_sujet": 0.86
+        }
+      ],
+      "qualite": {
+        "nettete": 5.2,
+        "bruit": 0.28,
+        "compression": 0.97,
+        "faible": true,
+        "raisons": [
+          "floue"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "f8e060e0e0f098d0",
+      "drapeaux": [
+        "floue"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+… fichiers
+  fait en 0 s
+… grille
+  fait en 40 s
+… mesures
+  20/77
+  39/77
+  59/77
+  fait en 118 s
+… mesures:balayage
+  fait en 36 s
+… films
+  fait en 173 s
+… bords
+  fait en 80 s
+… parcours:intro
+  fait en 71 s
+… parcours:menu
+  fait en 4 s
+… parcours:liens
+  fait en 158 s
+… parcours:hauteur
+  fait en 65 s
+… parcours:projet
+  fait en 0 s
+… ecran
+  fait en 16 s
+… fluidite
+  fait en 218 s
+… mouvement
+  fait en 158 s
+… vitesse
+  fait en 18 s
+… captures
+  fait en 173 s
+… safari
+  fait en 0 s
+
+Échecs : 3 · À regarder : 57 · Non lancé : 1
+Relancer seulement ce qui a échoué : node _audit/audit.mjs --pages=/,/404,/approches --seulement=fichiers,mesures
+Rapport : /home/claude/yogalalitamati-maquette/_audit/rapport/rapport.md (passe 20261120-205705-standard)
+FIN

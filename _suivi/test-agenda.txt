@@ -1,0 +1,9 @@
+{
+ "formats": "ok",
+ "sans-webgl": "n/a",
+ "console": "0 erreur",
+ "cls": 0.029,
+ "scenario": "échec : 1440×900 cliquer \".agd__date:not([hidden]) .agd__ics >> nth=1\" : locator.scrollIntoViewIfNeeded: Timeout 2500ms exceeded., verifier \".agd__date--ajoutee .agd__tampon\" : locator.waitFor: Timeout 2500ms exceeded. ; 820×1180 cliquer \".agd__date:not([hidden]) .agd__ics >> nth=1\" : locator.scrollIntoViewIfNeeded: Timeout 2500ms exceeded., verifier \".agd__date--ajoutee .agd__tampon\" : locator.waitFor: Timeout 2500ms exceeded. ; 390×844 cliquer \".agd__date:not([hidden]) .agd__ics >> nth=1\" : locator.scrollIntoViewIfNeeded: Timeout 2500ms exceeded., verifier \".agd__date--ajoutee .agd__tampon\" : locator.waitFor: Timeout 2500ms exceeded.",
+ "texte-12px": "ok",
+ "cibles-44px": "ok"
+}

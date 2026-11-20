@@ -1,0 +1,250 @@
+{
+ "explication": "Maquettes favorites de l'utilisateur : le niveau et le style visés, sur l'accueil ET les pages intérieures. Jamais à copier (ni leur idée, ni leur mise en page) : même harmonie, même fluidité, même soin.",
+ "activite": [
+  "bien-être"
+ ],
+ "metier": "yoga somatique bien-être",
+ "besoin": [],
+ "ton": [
+  "doux"
+ ],
+ "univers": [],
+ "ambiance": [],
+ "concept": [],
+ "depot": "yogalalitamati-maquette",
+ "favorites_dans_la_bibliotheque": 22,
+ "favorites": [
+  {
+   "rang": 1,
+   "maquette": "vizrok-maquette",
+   "client": "boutique de vêtements de sport, accessoires et nutrition d'une marque fabriquée à la demande",
+   "metier": "vêtements de sport",
+   "pourquoi": "Vêtements de sport : noir et vert néon, capitales, produits sur fond noir.",
+   "proche": [
+    "activité proche"
+   ],
+   "lumiere": "mixte",
+   "note_maquette": 86,
+   "en_ligne": "https://vizrok-maquette.vercel.app",
+   "vues": [
+    {
+     "page": "accueil",
+     "role": "ouverture",
+     "id": "vizrok-maquette/debut",
+     "note_section": 5,
+     "titre": "Built to Perform.",
+     "capture": "medias/vizrok-maquette/debut-p1440.jpg",
+     "video": "medias/vizrok-maquette/debut-p720.mp4",
+     "fiche": "sections/vizrok-maquette/debut.json",
+     "en_ligne": "https://vizrok-maquette.vercel.app"
+    },
+    {
+     "page": "accueil",
+     "role": "produits",
+     "id": "vizrok-maquette/collections",
+     "note_section": 5,
+     "titre": "Quatre disques, dix-huit pièces.",
+     "capture": "medias/vizrok-maquette/collections-p1440.jpg",
+     "video": "medias/vizrok-maquette/collections-p720.mp4",
+     "fiche": "sections/vizrok-maquette/collections.json",
+     "en_ligne": "https://vizrok-maquette.vercel.app"
+    },
+    {
+     "page": "boutique",
+     "role": "ouverture",
+     "id": "vizrok-maquette/boutique-debut",
+     "note_section": 4,
+     "titre": "Boutique",
+     "capture": "medias/vizrok-maquette/boutique-debut-p1440.jpg",
+     "video": "medias/vizrok-maquette/boutique-debut-p720.mp4",
+     "fiche": "sections/vizrok-maquette/boutique-debut.json",
+     "en_ligne": "https://vizrok-maquette.vercel.app/boutique"
+    },
+    {
+     "page": "nutrition",
+     "role": "produits",
+     "id": "vizrok-maquette/nutrition-gamme",
+     "note_section": 5,
+     "titre": "Cinq produits, un shaker.",
+     "capture": "medias/vizrok-maquette/nutrition-gamme-p1440.jpg",
+     "video": "medias/vizrok-maquette/nutrition-gamme-p720.mp4",
+     "fiche": "sections/vizrok-maquette/nutrition-gamme.json",
+     "en_ligne": "https://vizrok-maquette.vercel.app/nutrition"
+    }
+   ]
+  },
+  {
+   "rang": 2,
+   "maquette": "efficience-triathlon-maquette",
+   "client": "coach de triathlon, tests d'effort lactate et stages",
+   "metier": "coach de triathlon",
+   "pourquoi": "Coach de triathlon : bleu nuit et orange, capitales, chiffres de course.",
+   "proche": [
+    "activité proche"
+   ],
+   "lumiere": "sombre",
+   "note_maquette": 88,
+   "en_ligne": "https://efficience-triathlon-maquette.vercel.app",
+   "vues": [
+    {
+     "page": "accueil",
+     "role": "ouverture",
+     "id": "efficience-triathlon-maquette/top",
+     "note_section": 4,
+     "titre": "Héros vidéo sous ondes",
+     "capture": "medias/efficience-triathlon-maquette/top-p1440.jpg",
+     "video": "medias/efficience-triathlon-maquette/top-p720.mp4",
+     "fiche": "sections/efficience-triathlon-maquette/top.json",
+     "en_ligne": "https://efficience-triathlon-maquette.vercel.app"
+    },
+    {
+     "page": "accueil",
+     "role": "outil-interactif",
+     "id": "efficience-triathlon-maquette/science",
+     "note_section": 5,
+     "titre": "Courbe interactive à curseur",
+     "capture": "medias/efficience-triathlon-maquette/science-p1440.jpg",
+     "video": "medias/efficience-triathlon-maquette/science-p720.mp4",
+     "fiche": "sections/efficience-triathlon-maquette/science.json",
+     "en_ligne": "https://efficience-triathlon-maquette.vercel.app"
+    },
+    {
+     "page": "stage-triathlon-montagne",
+     "role": "ouverture",
+     "id": "efficience-triathlon-maquette/stage-triathlon-montagne-top",
+     "note_section": 4,
+     "titre": "Héros à profil d'altitude",
+     "capture": "medias/efficience-triathlon-maquette/stage-triathlon-montagne-top-p1440.jpg",
+     "video": "medias/efficience-triathlon-maquette/stage-triathlon-montagne-top-p720.mp4",
+     "fiche": "sections/efficience-triathlon-maquette/stage-triathlon-montagne-top.json",
+     "en_ligne": "https://efficience-triathlon-maquette.vercel.app/stage-triathlon-montagne"
+    },
+    {
+     "page": "test-effort",
+     "role": "étapes",
+     "id": "efficience-triathlon-maquette/test-effort-protocole",
+     "note_section": 4,
+     "titre": "Protocole épinglé palier par palier",
+     "capture": "medias/efficience-triathlon-maquette/test-effort-protocole-p1440.jpg",
+     "video": "medias/efficience-triathlon-maquette/test-effort-protocole-p720.mp4",
+     "fiche": "sections/efficience-triathlon-maquette/test-effort-protocole.json",
+     "en_ligne": "https://efficience-triathlon-maquette.vercel.app/test-effort"
+    }
+   ]
+  },
+  {
+   "rang": 3,
+   "maquette": "nolanis-maquette",
+   "client": "Agence de communication visuelle à Strasbourg : print et web, espaces publicitaires, publipostage, photo et vidéo, objets publicitaires, sauvegarde en ligne, formation photo",
+   "metier": "agence de communication visuelle",
+   "pourquoi": "Agence de communication : beige, éventail de couleurs, cartes nettes, sommaire des métiers.",
+   "proche": [],
+   "lumiere": "clair",
+   "note_maquette": 86,
+   "en_ligne": "https://nolanis-maquette.vercel.app",
+   "vues": [
+    {
+     "page": "accueil",
+     "role": "ouverture",
+     "id": "nolanis-maquette/debut",
+     "note_section": 5,
+     "titre": "Votre agence de communication visuelle à Strasbourg",
+     "capture": "medias/nolanis-maquette/debut-p1440.jpg",
+     "video": "medias/nolanis-maquette/debut-p720.mp4",
+     "fiche": "sections/nolanis-maquette/debut.json",
+     "en_ligne": "https://nolanis-maquette.vercel.app"
+    },
+    {
+     "page": "accueil",
+     "role": "services",
+     "id": "nolanis-maquette/services",
+     "note_section": 4,
+     "titre": "La liasse des épreuves",
+     "capture": "medias/nolanis-maquette/services-p1440.jpg",
+     "video": "medias/nolanis-maquette/services-p720.mp4",
+     "fiche": "sections/nolanis-maquette/services.json",
+     "en_ligne": "https://nolanis-maquette.vercel.app"
+    },
+    {
+     "page": "formations",
+     "role": "ouverture",
+     "id": "nolanis-maquette/formations-debut",
+     "note_section": 4,
+     "titre": "Choisir l’image juste",
+     "capture": "medias/nolanis-maquette/formations-debut-p1440.jpg",
+     "video": "medias/nolanis-maquette/formations-debut-p720.mp4",
+     "fiche": "sections/nolanis-maquette/formations-debut.json",
+     "en_ligne": "https://nolanis-maquette.vercel.app/formations"
+    },
+    {
+     "page": "contact",
+     "role": "outil-interactif",
+     "id": "nolanis-maquette/contact-devis",
+     "note_section": 4,
+     "titre": "Votre demande, en trois étapes",
+     "capture": "medias/nolanis-maquette/contact-devis-p1440.jpg",
+     "video": "medias/nolanis-maquette/contact-devis-p720.mp4",
+     "fiche": "sections/nolanis-maquette/contact-devis.json",
+     "en_ligne": "https://nolanis-maquette.vercel.app/contact"
+    }
+   ]
+  },
+  {
+   "rang": 4,
+   "maquette": "depannage-60-maquette",
+   "client": "dépannage plomberie et électricité, rénovation, autour de Longueil-Sainte-Marie (Oise)",
+   "metier": "plombier électricien dépanneur",
+   "pourquoi": "Plombier électricien : clair, bleu et jaune, prix visibles, grandes photos, estimation.",
+   "proche": [],
+   "lumiere": "mixte",
+   "note_maquette": 87,
+   "en_ligne": "https://depannage-60-maquette.vercel.app",
+   "vues": [
+    {
+     "page": "accueil",
+     "role": "ouverture",
+     "id": "depannage-60-maquette/debut",
+     "note_section": 5,
+     "titre": "Fuite, panne, WC bouché ? On s’en occupe.",
+     "capture": "medias/depannage-60-maquette/debut-p1440.jpg",
+     "video": "medias/depannage-60-maquette/debut-p720.mp4",
+     "fiche": "sections/depannage-60-maquette/debut.json",
+     "en_ligne": "https://depannage-60-maquette.vercel.app"
+    },
+    {
+     "page": "accueil",
+     "role": "outil-interactif",
+     "id": "depannage-60-maquette/probleme",
+     "note_section": 5,
+     "titre": "Rallumez la lumière sur votre panne.",
+     "capture": "medias/depannage-60-maquette/probleme-p1440.jpg",
+     "video": "medias/depannage-60-maquette/probleme-p720.mp4",
+     "fiche": "sections/depannage-60-maquette/probleme.json",
+     "en_ligne": "https://depannage-60-maquette.vercel.app"
+    },
+    {
+     "page": "prestations",
+     "role": "ouverture",
+     "id": "depannage-60-maquette/prestations-tarifs",
+     "note_section": 4,
+     "titre": "69 prestations,tarifs en clair.",
+     "capture": "medias/depannage-60-maquette/prestations-tarifs-p1440.jpg",
+     "video": null,
+     "fiche": "sections/depannage-60-maquette/prestations-tarifs.json",
+     "en_ligne": "https://depannage-60-maquette.vercel.app/prestations"
+    },
+    {
+     "page": "decrivez-votre-besoin",
+     "role": "outil-interactif",
+     "id": "depannage-60-maquette/decrivez-votre-besoin-questionnaire",
+     "note_section": 5,
+     "titre": "Qu’est-ce qui ne va pas ?",
+     "capture": "medias/depannage-60-maquette/decrivez-votre-besoin-questionnaire-p1440.jpg",
+     "video": "medias/depannage-60-maquette/decrivez-votre-besoin-questionnaire-p720.mp4",
+     "fiche": "sections/depannage-60-maquette/decrivez-votre-besoin-questionnaire.json",
+     "en_ligne": "https://depannage-60-maquette.vercel.app/decrivez-votre-besoin"
+    }
+   ]
+  }
+ ]
+}
